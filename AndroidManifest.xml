@@ -1,0 +1,135 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="org.mtransit.android.ca_toronto_ttc_bus"
+    tools:ignore="MissingVersion" >
+    <!-- REQUEST PERMISSIONS USAGE -->
+    <!-- Used for real time schedule and more -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- DECLARES PERMISSIONS -->
+    <permission
+        android:name="org.mtransit.android.provider.permission.READ_PROVIDER"
+        android:description="@string/permission_description_read"
+        android:label="@string/permission_label_read"
+        android:protectionLevel="signature" />
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <application
+        android:allowBackup="true"
+        android:description="@string/app_desc"
+        android:icon="@mipmap/module_app_icon"
+        android:label="@string/app_name" >
+        <!-- SPLASH SCREEN -->
+        <activity
+            android:name="org.mtransit.android.commons.ui.ModuleRedirectActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:enabled="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/ic_launcher"
+            android:noHistory="true"
+            android:theme="@android:style/Theme.NoDisplay"
+            tools:ignore="MissingRegistered" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- GFTS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.GTFSProvider"
+            android:authorities="@string/gtfs_rts_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered" >
+            <meta-data
+                android:name="@string/agency_provider"
+                android:value="@string/agency_provider" />
+            <meta-data
+                android:name="@string/agency_provider_type"
+                android:value="@integer/gtfs_rts_agency_type" />
+            <meta-data
+                android:name="@string/poi_provider"
+                android:value="@string/poi_provider" />
+            <meta-data
+                android:name="@string/status_provider"
+                android:value="@string/status_provider" />
+            <meta-data
+                android:name="@string/status_provider_target"
+                android:value="@string/gtfs_status_for_poi_authority" />
+            <meta-data
+                android:name="@string/rts_provider"
+                android:value="@string/rts_provider" />
+            <meta-data
+                android:name="@string/schedule_provider"
+                android:value="@string/schedule_provider" />
+            <meta-data
+                android:name="@string/schedule_provider_target"
+                android:value="@string/gtfs_rts_authority" />
+        </provider>
+        <!-- NEXT BUS PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.NextBusProvider"
+            android:authorities="@string/next_bus_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered" >
+            <meta-data
+                android:name="@string/service_update_provider"
+                android:value="@string/service_update_provider" />
+            <meta-data
+                android:name="@string/service_update_provider_target"
+                android:value="@string/next_bus_for_poi_authority" />
+            <meta-data
+                android:name="@string/status_provider"
+                android:value="@string/status_provider" />
+            <meta-data
+                android:name="@string/status_provider_target"
+                android:value="@string/next_bus_for_poi_authority" />
+        </provider>
+        <!-- TWITTER NEWS PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
+            android:authorities="@string/twitter_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered" >
+            <meta-data
+                android:name="@string/news_provider"
+                android:value="@string/news_provider" />
+            <meta-data
+                android:name="@string/news_provider_target"
+                android:value="@string/twitter_target_for_poi_authority" />
+        </provider>
+        <!-- RSS NEWS PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.RSSNewsProvider"
+            android:authorities="@string/rss_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered" >
+            <meta-data
+                android:name="@string/news_provider"
+                android:value="@string/news_provider" />
+            <meta-data
+                android:name="@string/news_provider_target"
+                android:value="@string/rss_target_for_poi_authority" />
+        </provider>
+        <!-- YOUTUBE NEWS PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.YouTubeNewsProvider"
+            android:authorities="@string/youtube_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered" >
+            <meta-data
+                android:name="@string/news_provider"
+                android:value="@string/news_provider" />
+            <meta-data
+                android:name="@string/news_provider_target"
+                android:value="@string/youtube_target_for_poi_authority" />
+        </provider>
+    </application>
+</manifest>
