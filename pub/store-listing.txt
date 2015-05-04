@@ -1,8 +1,8 @@
 Title: Toronto TTC Bus - MonTransit
 ----------
 Short description:
-Toronto TTC buses for MonTransit BETA.
-Schedule. Real-Time. Alerts. News.
+Toronto TTC buses for MonTransit BETA
+Schedule. Real-Time. Service Alerts. News
 ----------
 What's new in this version?:
 Schedule from May 10, 2015 to June 20, 2015.
