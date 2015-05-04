@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <integer name="next_bus_db_version">2</integer>
+    <string name="next_bus_agency_tag">ttc</string>
+    <string name="next_bus_authority">org.mtransit.android.ca_toronto_ttc_bus.nextbus</string>
+    <string name="next_bus_for_poi_authority">@string/gtfs_rts_authority</string>
+    <bool name="next_bus_use_stop_code_as_stop_id">true</bool>
+    <bool name="next_bus_use_stop_id_as_stop_tag">true</bool>
+    <string name="next_bus_messages_text_language_code">en</string>
+    <string name="next_bus_messages_text_secondary_language_code">fr</string>
+    <string name="next_bus_messages_text_bold_words">(no service|delay)</string>
+    <string name="next_bus_messages_text_secondary_bold_words">(pas de service|retard|non desservi[s]?)</string>
+</resources>

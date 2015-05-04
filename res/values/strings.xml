@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">MonTransit TTC Bus</string>
+    <string name="app_desc">Toronto TTC Bus data for MonTransit.</string>
+</resources>

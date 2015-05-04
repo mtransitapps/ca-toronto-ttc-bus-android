@@ -1,0 +1,52 @@
+Title: Toronto TTC Bus - MonTransit
+----------
+Short description:
+Toronto TTC buses for MonTransit BETA.
+Schedule. Real-Time. Alerts. News.
+----------
+What's new in this version?:
+Schedule from May 10, 2015 to June 20, 2015.
+News from www.ttc.ca.
+Tweets from @TTCnotices & @TTChelps.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+----------
+Full description:
+This app adds Toronto TTC buses information to MonTransit BETA.
+
+This app provides the schedule (offline & real-time) as well as real time service alerts and news from www.ttc.ca, YouTube and @TTCnotices & @TTChelps on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+TTC buses serve Toronto in Ontario, Canada.
+
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the Toronto Transit Commission and the City of Toronto.
+http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=96f236899e02b210VgnVCM1000003dd60f89RCRD
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-toronto-ttc-bus-android
+
+This app is not related with the Toronto Transit Commission and City of Toronto.
+
+Permissions:
+- Other: required for real-time schedule & service alerts from NextBus and to read news from www.ttc.ca, YouTube and Twitter
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-toronto-ttc-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:

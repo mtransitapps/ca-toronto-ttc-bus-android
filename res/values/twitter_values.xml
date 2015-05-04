@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
+    <integer name="twitter_db_version">4</integer>
+    <string name="twitter_authority">org.mtransit.android.ca_toronto_ttc_bus.news.twitter</string>
+    <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="twitter_color">@string/gtfs_rts_color</string>
+    <string-array name="twitter_screen_names">
+        <item>TTCnotices</item>
+        <item>TTChelps</item>
+    </string-array>
+    <string-array name="twitter_screen_names_lang">
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+    </string-array>
+    <string-array name="twitter_screen_names_colors">
+        <item>@string/twitter_color</item>
+        <item>@string/twitter_color</item>
+    </string-array>
+    <string-array name="twitter_screen_names_target">
+        <item>@string/twitter_target_for_poi_authority</item>
+        <item>@string/twitter_target_for_poi_authority</item>
+    </string-array>
+    <integer-array name="twitter_screen_names_severity">
+        <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
+    </integer-array>
+    <string-array name="twitter_screen_names_noteworthy">
+        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_info</item>
+    </string-array>
+</resources>
