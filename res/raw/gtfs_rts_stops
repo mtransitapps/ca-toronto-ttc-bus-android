@@ -175,10 +175,10 @@
 487,'11364','Progress Ave / Markham Rd East Side',43.781969,-79.233279
 490,'13461','Queen St East / Kingston Rd',43.667135,-79.312892
 491,'6051','Queen St West / Shaw St',43.644514,-79.416858
-492,'8038','Queen''S Park Cres West / Hoskin Ave',43.665607,-79.393738
-493,'1459','Queen''S Park Cres East / St Joseph St North Side',43.665278,-79.391237
-494,'1461','Queen''S Park Cres West / Queen''S Park Cres West',43.666243,-79.393232
-495,'1463','Queen''S Park Cres West / University Library',43.662147,-79.392763
+492,'8038','Queen''s Park Cres West / Hoskin Ave',43.665607,-79.393738
+493,'1459','Queen''s Park Cres East / St Joseph St North Side',43.665278,-79.391237
+494,'1461','Queen''s Park Cres West / Queen''s Park Cres West',43.666243,-79.393232
+495,'1463','Queen''s Park Cres West / University Library',43.662147,-79.392763
 496,'12139','The Queensway / Morgan Ave',43.626433,-79.501778
 497,'6920','The Queensway / Stephen Dr',43.6305,-79.483964
 498,'6923','The Queensway / Windermere Ave West Side',43.637292,-79.470393
@@ -1164,7 +1164,7 @@
 1624,'7110','Senlac Rd / Burnett Ave',43.762417,-79.424092
 1625,'7827','Hollinger Rd / Dohme Ave East Side',43.713224,-79.31391
 1626,'2337','Eglinton Ave West / Ronald Ave',43.694246,-79.456973
-1627,'573','Bloor St West / Queen''S Park',43.668597,-79.394291
+1627,'573','Bloor St West / Queen''s Park',43.668597,-79.394291
 1628,'11843','Lambton Ave / Beechwood Ave East Side',43.681831,-79.494397
 1630,'9037','Yonge St / Crescent Rd South Side (Rosedale Station)',43.676576,-79.389436
 1631,'5864','45 Norfinch Dr',43.757187,-79.52682
@@ -1425,7 +1425,7 @@
 1917,'257','Bay St / King St West South Side',43.648222,-79.380158
 1918,'5878','92 Oakdale Rd',43.739958,-79.525837
 1919,'721','Caledonia Rd / Innes Ave North Side',43.681238,-79.457189
-1920,'1460','Queen''S Park Cres East / College St North Side',43.660909,-79.390166
+1920,'1460','Queen''s Park Cres East / College St North Side',43.660909,-79.390166
 1921,'13573','Rivermede Rd / Ortona Crt',43.81109,-79.488812
 1922,'6305','Coe Hill Dr / Windermere Ave South Side',43.641369,-79.474141
 1923,'9392','Brimley Rd / Opposite Walkway To Audrelane Crt',43.822912,-79.284989
@@ -3114,7 +3114,7 @@
 3849,'13578','North Rivermede Rd / Connie Cres',43.820162,-79.484221
 3850,'7658','Dufferin St / Steeles Ave West South Side',43.786743,-79.47022
 3851,'1886','Dawes Rd / Danforth Ave North Side',43.689717,-79.296748
-3852,'1456','Queen''S Park / Charles St North Side (Museum Station)',43.667612,-79.393529
+3852,'1456','Queen''s Park / Charles St North Side (Museum Station)',43.667612,-79.393529
 3853,'1644','The West Mall Cres / The West Mall',43.627105,-79.559657
 3854,'2139','Dundas St West / Aukland Rd',43.638232,-79.538023
 3855,'10857','Steinway Blvd / Steeles Ave West South Side',43.753649,-79.619695
@@ -4870,7 +4870,7 @@
 5829,'5143','Laird Dr / Lea Ave',43.706242,-79.36193
 5830,'8753','Weston Rd / Ormont Dr',43.764684,-79.545147
 5831,'2888','Mcnicoll Ave / Harold Evans Cres',43.80354,-79.341486
-5833,'8634','Wellesley St West / Queen''S Park Cres East',43.663704,-79.390474
+5833,'8634','Wellesley St West / Queen''s Park Cres East',43.663704,-79.390474
 5834,'5703','Midland Ave / Finch Ave East',43.803948,-79.286537
 5835,'2641','Finch Ave West / Westmore Dr',43.734861,-79.600608
 5836,'2203','The East Mall / Burnhamthorpe Rd South Side',43.645895,-79.559968
@@ -5687,7 +5687,7 @@
 6731,'4545','Progress Ave / Consentino Dr West Side',43.773651,-79.270125
 6732,'5525','Lumsden Ave / Oak Park Ave',43.693854,-79.310524
 6733,'7125','Senlac Rd / Park Home Ave North Side',43.766969,-79.425909
-6734,'1615','Queen''S Park Cres / College St (Queen''S Park Station)',43.660587,-79.391236
+6734,'1615','Queen''s Park Cres / College St (Queen''s Park Station)',43.660587,-79.391236
 6735,'2309','Eglinton Ave East / Rumsey Rd',43.712675,-79.369464
 6737,'251','Bay St / Grosvenor St',43.662596,-79.386517
 6738,'8589','Warden Ave / Mcnicoll Ave North Side',43.806694,-79.321007
@@ -6134,7 +6134,7 @@
 7237,'8650','Wellesworth Dr / Faversham Cres North Side',43.65877,-79.579372
 7238,'9079','York Mills Rd / Lochinvar Cres',43.757594,-79.339251
 7239,'9623','Mccowan Rd / Triton Rd',43.775547,-79.252825
-7240,'658','Broadview Ave / O''Connor Dr',43.691678,-79.35564
+7240,'658','Broadview Ave / O''connor Dr',43.691678,-79.35564
 7241,'11719','1155 Albion Rd',43.737621,-79.568135
 7242,'1856','Danforth Rd / Medford Ave',43.699138,-79.273576
 7244,'10956','Littles Rd / Sewells Rd',43.819059,-79.205374
@@ -6568,7 +6568,7 @@
 7723,'1919','Don Mills Rd / Deerford Rd',43.785267,-79.350563
 7724,'9503','Lawrence Ave East / Markham Rd',43.759613,-79.22558
 7725,'6024','Rogers Rd / Gilbert Ave',43.683468,-79.459444
-7726,'1825','285 Cummer Ave (St John''S Rehab Hospital)',43.789697,-79.405127
+7726,'1825','285 Cummer Ave (St John''s Rehab Hospital)',43.789697,-79.405127
 7727,'9750','Denison St / Victoria Park Ave West Side',43.822775,-79.347066
 7728,'9250','Thirtieth St / Elder Ave',43.597906,-79.530967
 7729,'5638','Martin Grove Rd / Rexdale Blvd South Side',43.713577,-79.581098
@@ -6817,7 +6817,7 @@
 7999,'2894','Mcnicoll Ave / Michael Dr',43.803055,-79.36483
 8000,'7698','Ellesmere Rd / Military Trail (East)',43.786463,-79.188438
 8001,'5292','Lawrence Ave East / Meadowvale Rd',43.775326,-79.155961
-8002,'8635','Wellesley St West / Queen''S Park Cres East East Side',43.663655,-79.390164
+8002,'8635','Wellesley St West / Queen''s Park Cres East East Side',43.663655,-79.390164
 8003,'930','Davenport Rd / Belmont St',43.674634,-79.392563
 8004,'8875','Wilson Ave / Murray Rd',43.729408,-79.471718
 8005,'7214','Sheppard Ave East / Maris Shepway East Side',43.77195,-79.36081
@@ -6933,7 +6933,7 @@
 8122,'11324','Barber Greene Rd / Embla St',43.727964,-79.344072
 8123,'2625','Finch Ave West / Romfield Lane',43.76245,-79.493677
 8124,'5570','2121 Markham Rd',43.806636,-79.243725
-8126,'1614','University Ave / College St (Queen''S Park Station)',43.65972,-79.390193
+8126,'1614','University Ave / College St (Queen''s Park Station)',43.65972,-79.390193
 8127,'8299','Steeles Ave West / Yonge St (Centerpoint Mall)',43.797338,-79.422812
 8128,'6303','80 Coe Hill Dr',43.640508,-79.47199
 8129,'1806','Cummer Ave / Conacher Dr',43.791651,-79.396527
@@ -7071,7 +7071,7 @@
 8273,'7203','Sheppard Ave East / Leslie St East Side (North York Gen)',43.771607,-79.36346
 8275,'5284','Lawrence Ave East / Manse Rd East Side',43.77064,-79.175934
 8278,'2898','Mcnicoll Ave / Myers Lane',43.803034,-79.367787
-8279,'1464','Queen''S Park Cres East / Wellesley St West',43.663465,-79.390493
+8279,'1464','Queen''s Park Cres East / Wellesley St West',43.663465,-79.390493
 8280,'3289','Alliance Ave / Jane St',43.676304,-79.495307
 8283,'7064','Runnymede Rd / Maher Ave',43.662098,-79.480606
 8284,'1029','Dupont St / Symington Ave',43.665641,-79.451358
@@ -7134,7 +7134,7 @@
 8349,'5248','Lawrence Ave East / Centennial Rd',43.777548,-79.145919
 8350,'7749','Esna Park Dr / Steelcase Rd East',43.823307,-79.336486
 8351,'5740','Midland Ave / Salome Dr',43.781614,-79.276416
-8352,'1458','Queen''S Park / Charles St (Museum Station)',43.667095,-79.393584
+8352,'1458','Queen''s Park / Charles St (Museum Station)',43.667095,-79.393584
 8353,'11716','Eglinton Ave West / Walkway To Emmett Ave',43.684554,-79.508101
 8355,'2528','Finch Ave East / Maxome Ave',43.783431,-79.399147
 8356,'6354','East Ave / Clark Secor Pl North Side',43.789905,-79.135426
@@ -7329,7 +7329,7 @@
 8564,'5955','Ossington Ave / Churchill Ave',43.652118,-79.421872
 8565,'11561','400 Evans Ave',43.615277,-79.528216
 8566,'9984','Opposite 150 Culford Rd',43.705192,-79.487147
-8567,'428','Birchmount Rd / L''Amoreaux Dr',43.800732,-79.307265
+8567,'428','Birchmount Rd / L''amoreaux Dr',43.800732,-79.307265
 8569,'6060','Sheppard Ave West / Arrow Rd',43.73551,-79.529654
 8570,'3092','195 Rexleigh Dr',43.704608,-79.305547
 8571,'198','Bathurst St / Shelborne Ave',43.716146,-79.429122
@@ -7666,7 +7666,7 @@
 8958,'3332','Belfield Rd / City View Dr East Side',43.69954,-79.585395
 8959,'7255','Sheppard Ave East / Warden Ave',43.778932,-79.307598
 8960,'2093','Dufferin St / St Clair Ave West',43.677684,-79.442888
-8961,'967','Donlands Ave / O''Connor Dr South Side',43.694257,-79.343024
+8961,'967','Donlands Ave / O''connor Dr South Side',43.694257,-79.343024
 8962,'3678','Greenwood Ave / Gerrard St East',43.671018,-79.328128
 8963,'2531','Finch Ave East / Midblock East Of Pharmacy Ave',43.794997,-79.323254
 8964,'3778','Islington Ave / Dixon Rd',43.697252,-79.546945
@@ -7688,7 +7688,7 @@
 8983,'2439','Evans Ave / Eastwick Rd',43.617626,-79.515512
 8984,'3219','Yonge St / Crescent Rd (Rosedale Station)',43.676817,-79.389384
 8986,'1032','Eglinton Ave East / Falmouth Ave',43.735466,-79.253312
-8987,'968','Donlands Ave / O''Connor Dr',43.694553,-79.342955
+8987,'968','Donlands Ave / O''connor Dr',43.694553,-79.342955
 8988,'9040','Yonge St / Rosehill Ave',43.686124,-79.393208
 8989,'3845','Islington Ave / Summitcrest Dr',43.683108,-79.540284
 8990,'5382','Lawrence Ave West / Keele St',43.709015,-79.477637
@@ -8188,7 +8188,7 @@
 9551,'4672','220 Toryork Dr',43.761347,-79.561118
 9552,'4615','Spadina Rd / St Clair Ave West',43.684831,-79.411312
 9553,'2292','Eglinton Ave East / Mccowan Rd',43.738664,-79.238637
-9555,'1216','Lankin Blvd / O''Connor Dr',43.697365,-79.330411
+9555,'1216','Lankin Blvd / O''connor Dr',43.697365,-79.330411
 9556,'11868','Pope John Paul Ii S.S.',43.790618,-79.199904
 9558,'8063','Rangoon Rd / Hagersville Crt North Side',43.663982,-79.577505
 9559,'5735','Midland Ave / Prudential Dr',43.749783,-79.264683
@@ -8288,7 +8288,7 @@
 9663,'2812','Lawrence Ave East / Blaine Dr East Side',43.734626,-79.358942
 9664,'4704','Washburn Way / Tapscott Rd',43.804141,-79.224118
 9665,'2351','Eglinton Ave West / Gardiner Rd',43.702095,-79.419973
-9666,'1457','Queen''S Park Cres West / Hart House',43.663716,-79.39349
+9666,'1457','Queen''s Park Cres West / Hart House',43.663716,-79.39349
 9667,'13679','85 Dynamic Dr',43.824552,-79.251533
 9668,'1515','Royal York Rd / Kingsgrove Blvd',43.653387,-79.513912
 9669,'8221','Steeles Ave East / Firebrace Rd',43.817716,-79.332302
@@ -9111,7 +9111,7 @@
 13037,'S_BRLW','Lawrence Ave. E. / Brimley Rd.',43.753519,-79.255358
 13040,'S_BRQU','Broadview / Queen',43.658871,-79.34984
 13042,'S_BRVH','Brian Dr. / Van Horne Ave.',43.78802,-79.335011
-13044,'S_BRWN','Horner Ave. / Brown''S Line',43.601682,-79.545238
+13044,'S_BRWN','Horner Ave. / Brown''s Line',43.601682,-79.545238
 13045,'S_BSLN','Bishop Allen School',43.632712,-79.505279
 13048,'S_BSTC','Bathurst St. / St.Clair Ave.W.',43.68316,-79.418288
 13049,'S_BSTL','Bayview Ave. / Steeles Ave. E.',43.803264,-79.396215
@@ -9149,7 +9149,7 @@
 13129,'S_CSVP','Consumers Rd. / Victoria Pk. Ave',43.771935,-79.321506
 13130,'S_CULF','Lawrence Ave. W. / Culford Rd.',43.706368,-79.487652
 13131,'S_CUMM','Yonge / Cummer/Drewry',43.787063,-79.417335
-13132,'S_CURI','Curity Ave. / O''Connor Dr.',43.707898,-79.311006
+13132,'S_CURI','Curity Ave. / O''connor Dr.',43.707898,-79.311006
 13135,'S_DABR','Birchmount Rd. / Danforth Rd.',43.706992,-79.268121
 13136,'S_DAEG','Danforth Rd. / Eglinton Ave.',43.73709,-79.246155
 13137,'S_DASY','Davenport Rd. / Symington Ave.',43.670713,-79.453243
@@ -9165,7 +9165,7 @@
 13156,'S_DLAN','Lansdowne Ave. / Dundas St.',43.650161,-79.439717
 13157,'S_DLAW','Dufferin St. / Lawrence Ave. W.',43.71408,-79.454736
 13158,'S_DLBA','Don Lake / Bathurst St.',43.781032,-79.444819
-13159,'S_DLOC','Donlands Ave. / O''Connor Dr.',43.694716,-79.343105
+13159,'S_DLOC','Donlands Ave. / O''connor Dr.',43.694716,-79.343105
 13160,'S_DMBL','Dufferin Mall / Bloor St. W.',43.657135,-79.434315
 13161,'S_DMIL','Duncan Mills / Don Mills Rd.',43.761745,-79.347217
 13164,'S_DMSH','Don Mills Rd. / Sheppard Ave. E.',43.775101,-79.347028
@@ -9218,7 +9218,7 @@
 13256,'S_ERRP','Erskine Rd. / Redpath Ave.',43.712056,-79.394447
 13257,'S_ESCH','Etobicoke School Of The Arts',43.630799,-79.504463
 13259,'S_ESTN','Eglinton Station',43.704614,-79.398706
-13261,'S_EVBL','Evans Ave. / Brown''S Line',43.610658,-79.548894
+13261,'S_EVBL','Evans Ave. / Brown''s Line',43.610658,-79.548894
 13262,'S_EVEM','Evans Ave. / The East Mall',43.611822,-79.54379
 13263,'S_EVIS','Evans Ave. / Islington Ave.',43.618387,-79.511313
 13264,'S_EVKI','Evans Ave. / Kipling Ave.',43.615867,-79.524612
@@ -9323,7 +9323,7 @@
 13464,'S_LK30','Lakeshore Blvd. W. / 30th Street',43.595316,-79.529752
 13465,'S_LKEN','Lawrence Ave. E. / Kennedy Rd.',43.749491,-79.274925
 13468,'S_LKPS','Lakeshore Blvd. W. / Parkside Dr',43.638317,-79.45349
-13473,'S_LROF','Little''S Rd. / Old Finch',43.821045,-79.206193
+13473,'S_LROF','Little''s Rd. / Old Finch',43.821045,-79.206193
 13477,'S_LSTA','Lawrence Station',43.725669,-79.402454
 13478,'S_LSTN','Lansdowne Station',43.659145,-79.443011
 13481,'S_LVPK','Lawrence Av. E / Victoria Pk. Av',43.742137,-79.309782
@@ -9382,7 +9382,7 @@
 13594,'S_NORF','Norfinch Dr. / Steeles Ave.W.',43.773308,-79.531757
 13598,'S_NSHE','Neilson Rd. / Sheppard Ave. E.',43.798115,-79.217657
 13602,'S_OAK','Oakwood Ave. / St.Clair Ave.W.',43.679585,-79.435676
-13605,'S_OCPA','O''Connor Dr. / Pape Ave.',43.693235,-79.350279
+13605,'S_OCPA','O''connor Dr. / Pape Ave.',43.693235,-79.350279
 13607,'S_ODFI','Oakdale Rd. / Finch Ave. W.',43.755922,-79.524269
 13608,'S_ODSH','Oakdale Rd. / Sheppard Ave. W.',43.736959,-79.523781
 13609,'S_OFFC','Arrow Traffic Office',43.746163,-79.531454
@@ -9450,7 +9450,7 @@
 13756,'S_SCGL','Suncrest Dr. / Glenorchy Rd.',43.725589,-79.363729
 13757,'S_SCKE','St.Clair Ave. E. / Kennedy Rd.',43.716519,-79.261326
 13760,'S_SCMP','St.Clair Ave E. / Mt.Pleasant Rd',43.690365,-79.383315
-13761,'S_SCOC','St.Clair Ave. E. / O''Connor Dr.',43.70539,-79.312825
+13761,'S_SCOC','St.Clair Ave. E. / O''connor Dr.',43.70539,-79.312825
 13762,'S_SCOK','St. Clair Ave. W. / Oakwood Ave.',43.67954,-79.435898
 13763,'S_SCPH','St.Clair Ave. E. / Pharmacy Ave.',43.709844,-79.290921
 13765,'S_SCST','Scarlett Rd. / St. Clair Ave. W.',43.666067,-79.499251
@@ -9480,7 +9480,7 @@
 13801,'S_SIRM','Simcoe St. / Richmond St. W.',43.649899,-79.387125
 13804,'S_SKYM','Skymark Ave. / Explorer Dr.',43.660989,-79.595843
 13805,'S_SLAN','Lansdowne Ave.At St.Clair Ave.W.',43.676297,-79.450587
-13810,'S_SOSS','Senator O''Connor S.S.',43.751497,-79.313037
+13810,'S_SOSS','Senator O''connor S.S.',43.751497,-79.313037
 13814,'S_SPEG','Eglinton Ave. W. / Spadina Rd.',43.702346,-79.419094
 13816,'S_SPHD','Spadina Rd. / Harbord St.',43.663045,-79.402097
 13824,'S_SSTN','St. Clair Station',43.687894,-79.392058
@@ -9508,7 +9508,7 @@
 13889,'S_VIAI','Victory Cres. / Airport Rd.',43.70759,-79.647544
 13894,'S_VPFI','Victoria Pk. Ave / Finch Ave. E.',43.7931,-79.331399
 13896,'S_VPKR','Victoria Pk. Ave. / Kingston Rd.',43.680804,-79.28405
-13897,'S_VPOC','Victoria Pk. / O''Connor Dr.',43.723374,-79.302089
+13897,'S_VPOC','Victoria Pk. / O''connor Dr.',43.723374,-79.302089
 13898,'S_VPPV','Victoria Pk / Parkwood/Ellesmere',43.757862,-79.315234
 13899,'S_VPSH','Victoria Pk. / Sheppard Ave. E.',43.775238,-79.323005
 13900,'S_VPST','Victoria Pk. Ave. / Steelcase Rd',43.821182,-79.344755
@@ -9902,7 +9902,7 @@
 14687,'14959','Thistledown Blvd / Atwood Pl',43.741396,-79.550689
 14689,'14964','Birchmount Rd / Anaconda Ave',43.718497,-79.273004
 14690,'14965','Opposite 1105 Leslie St',43.726724,-79.350718
-14691,'14966','278 Cummer Ave (Opposite St John''S Rehab Hospital)',43.789852,-79.404754
+14691,'14966','278 Cummer Ave (Opposite St John''s Rehab Hospital)',43.789852,-79.404754
 14692,'12328','Clayson Rd / Huxley Rd',43.723696,-79.525726
 14693,'6593','Middlefield Rd / Orator Gate',43.807991,-79.256472
 14694,'14968','Finch Ave East / Mccowan Rd West Side',43.80767,-79.268526
