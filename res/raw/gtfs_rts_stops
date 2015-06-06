@@ -561,7 +561,7 @@
 940,'564','Bloor St West / Palmerston Blvd',43.664681,-79.413457
 941,'8865','Wilson Ave / Julian Rd East Side',43.724597,-79.490697
 942,'13307','St Clair Ave West / Mariposa Ave',43.66766,-79.489617
-943,'8260','Steeles Ave West / Barmac Dr',43.768389,-79.555208
+943,'8260','Steeles Ave West / Scholes Rd/Barmac Dr',43.768389,-79.555208
 944,'9077','York Mills Rd / Leslie St West Side',43.753001,-79.360765
 946,'6756','Pharmacy Ave / Sundridge Dr North Side',43.721725,-79.295892
 947,'12838','Vanderhoof Ave / Brentcliffe Rd',43.71311,-79.358152
@@ -1196,7 +1196,7 @@
 1661,'273','Bayview Ave / Garnier Park',43.801045,-79.395502
 1662,'5677','Mccowan Rd / St Andrews Rd',43.760033,-79.246725
 1663,'5942','Oconnor Dr / Woodbine Ave',43.699957,-79.319142
-1664,'4402','Lansdowne Ave / Dupont St',43.666802,-79.446576
+1664,'4402','Lansdowne Ave / Dupont St South Side',43.666503,-79.446476
 1665,'1739','Birchmount Rd / Danforth Ave',43.69724,-79.264189
 1666,'2478','Ferris Rd / Squires Ave',43.70494,-79.298689
 1667,'5448','Leslie St / Greyhound Dr South Side',43.792022,-79.368593
@@ -1604,7 +1604,7 @@
 2117,'13337','Silver Star Blvd / Steeles Ave East',43.825048,-79.299868
 2118,'11605','Middlefield Rd / Steeles Ave East',43.83249,-79.267655
 2119,'4466','Markham Rd / Eglinton Ave East',43.742981,-79.218655
-2120,'3709','137 Horner Ave (Toronto South Detention Centre)',43.609554,-79.514632
+2120,'3709','Toronto South Detention Centre',43.609554,-79.514632
 2121,'3894','Jane St / Frith Rd',43.746546,-79.515113
 2122,'12044','Moore Park Ave / Fargo Ave',43.792727,-79.424353
 2123,'8176','St Clair Ave West / Northcliffe Blvd',43.678541,-79.440729
@@ -1718,6 +1718,7 @@
 2254,'2958','Morningside Ave / Military Trail',43.788843,-79.193988
 2255,'3255','York Mills Rd / Cedarwood Ave West Side',43.745931,-79.39451
 2256,'9325','Industry St / Bertal Rd South Side',43.691681,-79.489269
+2257,'8093','Sheppard Ave East / Yonge St East Side',43.761625,-79.409843
 2258,'9181','Norfinch Dr / Finch Ave West North Side',43.756466,-79.524396
 2259,'3767','Islington Ave / Bergamot Ave',43.716747,-79.555735
 2260,'1501','580 Rathburn Rd (Seneca School)',43.650645,-79.581764
@@ -1995,7 +1996,6 @@
 2577,'10511','Kennedy Rd / Steeles Ave East',43.823533,-79.306826
 2578,'4929','Culford Rd / Lawrence Ave West North Side',43.706893,-79.48778
 2579,'8535','Warden Ave / Bertrand Ave',43.733252,-79.289907
-2580,'4878','Church St / George St',43.703995,-79.523526
 2581,'5929','Oconnor Dr / Glenwood Cres West Side',43.702325,-79.3163
 2583,'11399','Weston Rd / Valeria Blvd',43.814955,-79.553414
 2584,'6890','The Queensway / Grand Ave',43.627975,-79.494656
@@ -2370,7 +2370,7 @@
 3001,'4350','Kipling Ave / Olivewood Rd',43.6354,-79.532552
 3002,'3445','470 Coronation Dr',43.764536,-79.169012
 3003,'8474','Victoria Park Ave / Janet Blvd',43.740842,-79.309152
-3004,'3704','Oppposite 137 Horner Ave (Toronto South Detention Centre)',43.609732,-79.51488
+3004,'3704','Toronto South Detention Centre',43.609732,-79.51488
 3005,'5109','Gary Dr / Meadow Oak Pl West Side',43.709069,-79.52796
 3006,'6900','1610 The Queensway',43.617114,-79.544114
 3007,'4778','Avenue Rd / Glencairn Ave',43.716065,-79.41249
@@ -3200,7 +3200,7 @@
 3950,'3836','Islington Ave / Sandhill Dr North Side',43.734486,-79.563911
 3951,'209','Bathurst St / Strathearn Rd',43.692052,-79.421998
 3953,'2373','Eglinton Ave West / Photography Dr West Side',43.687609,-79.486942
-3954,'8303','Steeles Ave West / Scholes Rd',43.76874,-79.554712
+3954,'8303','Steeles Ave West / Scholes Rd/Barmac Dr',43.76874,-79.554712
 3955,'635','Brimley Rd / Largo Lane',43.747157,-79.252614
 3956,'8509','Victoria Park Ave / Steeles Ave East',43.815915,-79.341566
 3957,'3205','Wright Ave / Gibson Ave West Side',43.700144,-79.506491
@@ -4096,7 +4096,6 @@
 4960,'1039','Eglinton Ave East / Torrance Rd',43.739371,-79.235444
 4961,'3183','Wilmington Ave / Overbrook Pl',43.762915,-79.456964
 4962,'5686','1860 Midland Ave',43.764033,-79.269942
-4963,'84','276 Bathurst St',43.650239,-79.405269
 4964,'3211','Yonge St / Aylmer Ave',43.675492,-79.388858
 4965,'2964','Morningside Ave / Pixley Cres',43.759996,-79.182659
 4966,'2041','Dufferin St / Dundas St West',43.649815,-79.431578
@@ -5425,7 +5424,7 @@
 6438,'596','Bloor St West / The West Mall',43.635778,-79.562064
 6439,'7848','Hood Rd / Mcpherson St',43.833231,-79.329825
 6440,'5834','Mt Pleasant Rd / Merton St',43.698295,-79.3866
-6441,'2590','Finch Ave West / Chesswood Dr',43.766335,-79.477777
+6441,'2590','Finch Ave West / Chesswood Dr',43.766497,-79.477042
 6442,'6677','Pharmacy Ave / Christina Cres (South)',43.760627,-79.310799
 6444,'3939','Jane St / William Cragg Dr',43.722424,-79.50912
 6445,'13965','Victoria Park Ave / Ibm',43.818561,-79.342739
@@ -8691,7 +8690,6 @@
 10114,'11825','Richmond St West / Simcoe St',43.649989,-79.386986
 10115,'5225','Lansdowne Ave / Whytock Ave',43.653612,-79.440973
 10117,'8293','Steeles Ave West / New Westminster Dr',43.79002,-79.457323
-10118,'9315','1735 Kipling Ave',43.693089,-79.557939
 10119,'2654','Gelnorchy Rd / Suncrest Dr',43.725776,-79.364021
 10120,'14120','Islington Ave / Rexdale Blvd North Side',43.715337,-79.555081
 10122,'10521','Cul De Sac (Loop) / Ellesmere Rd',43.794691,-79.154767
@@ -8766,7 +8764,6 @@
 10199,'4048','Keele St / Whitburn Cres',43.737038,-79.48466
 10200,'439','2481 Birchmount Rd',43.787014,-79.300688
 10201,'9238','North Queen St / Medulla Ave',43.621518,-79.545195
-10202,'5227','3967 Lawrence Ave East',43.764378,-79.203714
 10203,'5015','Dundas St West / Howland St',43.663667,-79.503683
 10204,'10679','Keele St / Barrhill Rd',43.850268,-79.511259
 10206,'9698','Gerrard St East / Victoria Park Ave West Side',43.686872,-79.287139
@@ -9538,7 +9535,6 @@
 13954,'S_YEGL','Yonge St. / Eglinton Ave.',43.706726,-79.398353
 13957,'S_YGSH','Yonge St. / Sheppard Ave.',43.761502,-79.410923
 13958,'S_YGST','Yonge St.At Steeles Ave.',43.797994,-79.420069
-13962,'S_YKKE','York Blvd. / Keele St. (York U)',43.775249,-79.494041
 13963,'S_YKML','Yonge / York Mills/Wilson',43.744143,-79.406711
 13964,'S_YKMS','York Mills Station',43.745297,-79.406064
 13967,'S_YLES','York Mills Rd. / Leslie St.',43.752948,-79.359957
@@ -9956,7 +9952,6 @@
 14795,'15022','174 Fenmar Dr',43.76094,-79.552104
 14796,'15023','Ormont Dr / Fenmar Dr West Side',43.7623,-79.55642
 14797,'15026','Victoria Park Ave / Crescent Town Rd South Side',43.69643,-79.290454
-14798,'15028','Sheppard Ave East / Yonge St (Yonge Station)',43.761446,-79.411103
 14799,'15030','Dufferin St / Queen St West',43.64236,-79.428744
 14800,'15031','Danforth Rd / Winter Ave',43.729518,-79.251755
 14804,'15035','The Westway / Trio Ave East Side',43.694473,-79.534683
@@ -10071,3 +10066,7 @@
 15206,'15394','Mingay Ave / Fred Mclaren Blvd',43.903798,-79.276782
 15207,'15395','Mingay Ave / Major Mackenzie Dr East',43.907233,-79.277926
 15208,'15236','Kipling Ave / Northcrest Rd',43.692057,-79.557477
+15211,'15278','Eglinton Ave E / Midland Ave',43.734617,-79.25801
+15212,'15373','Pond Rd / Keele St',43.77196,-79.493711
+15213,'15365','Bathurst St / King St West',43.64398,-79.402824
+15214,'15364','Bathurst St / King St West',43.643846,-79.402537
