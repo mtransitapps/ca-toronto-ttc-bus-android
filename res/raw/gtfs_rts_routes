@@ -136,7 +136,6 @@
 190,'190','Scarborough Centre Rocket',''
 191,'191','Highway 27 Rocket',''
 192,'192','Airport Rocket',''
-193,'193','Exhibition Rocket',''
 194,'194','Aquatics Centre Rocket',''
 195,'195','Jane Rocket',''
 196,'196','York University Rocket',''
@@ -167,5 +166,4 @@
 385,'385','Sheppard East','00529F'
 406,'406','Venue Shuttle Downtown',''
 408,'408','Venue Shuttle East',''
-409,'409','Accessible Shuttle Dundas West',''
 10001,'1S','Yonge Subway Shuttle','FFC41E'
