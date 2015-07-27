@@ -404,7 +404,6 @@
 775,'3594','Finch Ave West / Grantbrook St West Side',43.776216,-79.432081
 776,'4820','Brimley Rd / Dennett Dr',43.793259,-79.271151
 777,'8924','Woodbine Ave / Merrill Ave North Side',43.683536,-79.311795
-778,'11706','Crown Steel Dr / Royal Crest Crt',43.840919,-79.325859
 779,'4557','Queen St East / Coxwell Ave',43.666226,-79.316802
 780,'11549','Finchdene Sq / Torham Pl',43.819622,-79.233068
 781,'38','Annette St / Keele St',43.663665,-79.463594
@@ -868,7 +867,6 @@
 1298,'5868','Norfinch Dr / Walkway To Shoreham Dr',43.766484,-79.530397
 1299,'5191','Lk Shr Blvd West / Miles Rd',43.608197,-79.490247
 1302,'8704','Weston Rd / Church St',43.702977,-79.5251
-1303,'7504','Pleasant Blvd / Avoca Ave',43.688317,-79.389177
 1304,'7127','Senlac Rd / Sheppard Ave West',43.759339,-79.422801
 1305,'1920','Don Mills Rd / The Donway East (North)',43.74067,-79.344186
 1306,'2994','Pape Ave / Floyd Ave',43.687594,-79.348215
@@ -1229,7 +1227,6 @@
 1707,'9782','Steeles Ave East / Midland Ave',43.82576,-79.297631
 1708,'13951','Underpass Gt / Fenelon Dr East Side',43.762042,-79.33744
 1709,'4072','Kennedy Rd / Brigstock Rd South Side',43.760996,-79.279491
-1710,'1131','Gough Rd / 14th Ave',43.838424,-79.324716
 1711,'1548','Sherway Gt / Evans Ave North Side',43.609439,-79.556497
 1713,'4703','Washburn Way / Sheppard Ave East North Side',43.796615,-79.22764
 1715,'8730','Weston Rd / Humber Blvd',43.683256,-79.480483
@@ -1448,7 +1445,6 @@
 1954,'4343','Kipling Ave / Norseman St',43.63129,-79.530798
 1955,'11168','The Esplanade / George St South',43.648596,-79.369496
 1956,'6962','Rockcliffe Blvd / Outlook Ave',43.680402,-79.490872
-1959,'1322','160 Mcnabb St',43.834144,-79.324149
 1960,'7269','Sheppard Ave West / Brentwood Ave',43.758312,-79.425478
 1961,'10867','Steeles Ave West / Markbrook Ln West Side',43.760171,-79.586272
 1963,'10653','Mccowan Rd / Opposite Milliken Wells Plz',43.825011,-79.274996
@@ -3969,7 +3965,6 @@
 4827,'13441','Lambton Ave / Cashman Cres (East)',43.683445,-79.487169
 4828,'7542','190 Bermondsey Rd South Side',43.723664,-79.314853
 4829,'5343','Lawrence Ave West / Bolingbroke Rd',43.714855,-79.449543
-4830,'11708','Royal Crest Crt / Birchmount Rd',43.842045,-79.321544
 4831,'6185','The Westway / Celestine Dr East Side',43.685299,-79.556473
 4832,'6262','Berry Rd / Pk Lawn Rd',43.636258,-79.493109
 4834,'5797','Mortimer Ave / Woodmount Ave',43.692033,-79.318055
@@ -4028,6 +4023,7 @@
 4890,'12201','75 Frontenac Dr',43.851111,-79.36198
 4891,'1759','Broadview Ave / Langley Ave-Bridgepoint Health Ctr',43.667669,-79.353326
 4892,'2934','Morningside Ave / Beath St',43.774616,-79.188497
+4893,'9900','Edna Ave / Dundas St West',43.657224,-79.452903
 4894,'12','Anglesey Blvd / The Kingsway',43.663802,-79.521807
 4895,'8029','Parkwoods Vlg Dr / Gisburn Rd',43.760086,-79.32181
 4896,'14123','Sheppard Ave East / Ecopark Gt',43.805823,-79.183075
@@ -4059,7 +4055,6 @@
 4926,'8857','Wilson Ave / Garratt Blvd',43.730464,-79.467934
 4927,'7399','Varna Dr / Bagot Crt',43.72277,-79.442261
 4928,'1623','Warden Ave / Danforth Rd North Side',43.697778,-79.27497
-4929,'11707','195 Royal Crest Crt',43.8416,-79.323404
 4930,'8391','89 Upper Canada Dr',43.755245,-79.403456
 4931,'11032','Humberline Dr / Woodlot Cres (West)',43.732145,-79.614726
 4932,'205','Bathurst St / Stafford Rd',43.770275,-79.441956
@@ -7023,7 +7018,6 @@
 8224,'1436','Oriole Pkwy / Duggan Ave',43.692715,-79.401393
 8225,'9382','Davenport Rd / Bathurst St',43.676626,-79.415962
 8226,'4990','Dixon Rd / Kipling Ave',43.6941,-79.558891
-8227,'1132','Gough Rd / Mcnabb St North Side',43.834064,-79.32638
 8228,'10616','Jane St / Sheppard Ave West South Side',43.738927,-79.513231
 8229,'5642','Martin Grv Rd / Ronson Dr',43.693834,-79.572009
 8230,'1968','Don Mills Rd / Seneca Hl Dr',43.790378,-79.354294
@@ -8974,7 +8968,6 @@
 10469,'14440','Brimley Rd / Opposite Brimley Woods Pk',43.808922,-79.278837
 10470,'14349','St Clair Ave West / Ave Rd East Side',43.686682,-79.401025
 10472,'14348','St Clair Ave West / Deer Pk Cres',43.687419,-79.397938
-10475,'14424','Opposite 100 Gough Rd',43.835223,-79.326425
 10476,'14377','Steeles Ave East / Markham Rd',43.836388,-79.251567
 10478,'14354','St Clair Ave West / Russell Hl Rd',43.685513,-79.407725
 10479,'7324','Sherbourne St / Lk Shr Blvd East South Side',43.645997,-79.366015
@@ -9132,6 +9125,7 @@
 13109,'S_COPA','Pape Ave. / Cosburn Ave.',43.689426,-79.348803
 13112,'S_COSH','Sheppard Ave. E. / Consumers Rd.',43.775093,-79.331224
 13118,'S_CPAL','Claireport Cres. / Albion Rd.',43.747432,-79.634915
+13128,'S_CSTN','Coxwell Sta',43.684154,-79.32396
 13129,'S_CSVP','Consumers Rd. / Victoria Pk. Ave',43.771935,-79.321506
 13130,'S_CULF','Lawrence Ave. W. / Culford Rd.',43.706368,-79.487652
 13131,'S_CUMM','Yonge / Cummer/Drewry',43.787063,-79.417335
@@ -9640,7 +9634,6 @@
 14182,'14661','Downsview Sta',43.749355,-79.46249
 14183,'14662','Dundas West Sta',43.656891,-79.453416
 14184,'14663','Dundas West Sta',43.657,-79.453072
-14185,'14664','Dundas West Sta',43.656962,-79.453239
 14188,'14667','Eglinton Sta',43.704314,-79.398308
 14189,'14668','Eglinton Sta',43.705618,-79.399662
 14190,'14669','Eglinton Sta',43.704582,-79.39846
@@ -9742,7 +9735,7 @@
 14291,'14773','Sheppard-Yonge Sta',43.761747,-79.411926
 14292,'14774','Sheppard-Yonge Sta',43.761564,-79.412107
 14293,'14775','Sheppard-Yonge Sta',43.761515,-79.412326
-14294,'14777','Spadina Sta',43.667298,-79.40391
+14295,'14778','St Clair Sta',43.687745,-79.392227
 14296,'14779','St Clair West Sta',43.684153,-79.415244
 14299,'14782','St Clair West Sta',43.684144,-79.415618
 14300,'14783','St Clair West Sta',43.684314,-79.415182
@@ -9803,7 +9796,6 @@
 14371,'14845','Murray Ross Pkwy / Sentinel Rd East Side',43.764891,-79.500256
 14372,'14846','Murray Ross Pkwy / Keele St',43.767184,-79.492556
 14373,'14832','Murray Ross Pkwy / Evelyn Wiggins Dr (York U Busway)',43.766896,-79.493578
-14376,'14819','St Clair Sta',43.687796,-79.392203
 14377,'14817','Wilson Sta',43.734677,-79.45102
 14379,'14855','Wilson Sta',43.73428,-79.450675
 14380,'14867','Keele St / Rogers Rd',43.682373,-79.471816
@@ -9857,7 +9849,6 @@
 14615,'14611','Morningside Ave / Danzig St',43.765022,-79.185091
 14616,'14612','Morningside Ave / Ling Rd',43.766683,-79.185816
 14619,'14653','Downsview Sta',43.749692,-79.462526
-14625,'14818','St Clair Sta',43.687859,-79.391916
 14627,'14848','Annette St / Dundas St West West Side',43.664302,-79.459144
 14628,'14849','Martin Grv Rd / Dewitt Rd',43.669047,-79.560629
 14629,'14850','Bathurst St / Fleet St',43.636997,-79.400057
@@ -9950,7 +9941,6 @@
 14814,'15045','Jane St / Wright Ave',43.700687,-79.503095
 14818,'15049','Gary Dr / Portage Ave',43.71068,-79.520844
 14822,'15052','Kipling Sta',43.63836,-79.534707
-14826,'15054','St Clair Sta',43.687904,-79.391655
 14827,'15055','Wilson Sta',43.734901,-79.451057
 14829,'15053','Centennial College - Progress Campus',43.784711,-79.228909
 14835,'15058','Dufferin St / Martin St',43.688603,-79.447258
@@ -10065,3 +10055,17 @@
 15215,'15397','Spadina Ave / Harbord St North Side',43.6634,-79.402109
 15216,'12786','Spadina Ave / Bloor St West South Side',43.666402,-79.403816
 15217,'15398','Yonge St / Athabaska Ave',43.795266,-79.419473
+15221,'S_CRSP','Spadina Cr',43.659036,-79.400389
+15222,'15407','Spadina Rd / Spadina Sta',43.667352,-79.404202
+15223,'15408','Spadina Rd / Spadina Sta',43.667334,-79.403916
+15224,'15409','Pleasant Blvd / St Clair Sta',43.687366,-79.392863
+15225,'15410','Birchmount Rd / Fourteenth Ave',43.839713,-79.320184
+15226,'15411','Birchmount Rd / Citizen Court',43.841984,-79.321191
+15227,'15412','Birchmount Rd / Enterprise Blvd',43.84908,-79.324444
+15228,'15413','Birchmount Rd / Verclaire Gt',43.851612,-79.325197
+15229,'15414','Birchmount Rd / Rougeside Promenade',43.855959,-79.323797
+15231,'15416','Uptown Dr / Rougeside Promenade',43.856298,-79.325554
+15232,'15417','Birchmount Rd / Rougeside Promenade South Side',43.855767,-79.324092
+15233,'15418','Birchmount Rd / Verclaire Gt',43.852091,-79.325465
+15234,'15419','Birchmount Rd / Enterprise Blvd',43.849554,-79.325046
+15235,'15420','Birchmount Rd / Royal Crest Court',43.842307,-79.321578
