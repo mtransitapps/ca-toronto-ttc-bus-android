@@ -3065,7 +3065,7 @@
 3801,'4208','Kingston Rd / Birchmount Rd',43.693208,-79.262236
 3802,'11810','Richmond St East / Victoria St',43.652046,-79.377635
 3803,'7655','Dufferin St / Martin Ross Ave',43.77531,-79.468556
-3804,'12133','Eglinton Ave West / Renforth Dr',43.666278,-79.587734
+3804,'12133','Eglinton Ave West / Renforth Dr',43.666757,-79.587469
 3807,'1949','Don Mills Rd / Leith Hl Rd North Side',43.777515,-79.347807
 3808,'6812','Queen St East / Maclean Ave',43.671845,-79.291171
 3809,'9015','Yonge St / Kempford Blvd',43.777066,-79.415018
@@ -9735,7 +9735,6 @@
 14291,'14773','Sheppard-Yonge Sta',43.761747,-79.411926
 14292,'14774','Sheppard-Yonge Sta',43.761564,-79.412107
 14293,'14775','Sheppard-Yonge Sta',43.761515,-79.412326
-14295,'14778','St Clair Sta',43.687745,-79.392227
 14296,'14779','St Clair West Sta',43.684153,-79.415244
 14299,'14782','St Clair West Sta',43.684144,-79.415618
 14300,'14783','St Clair West Sta',43.684314,-79.415182
@@ -10069,3 +10068,4 @@
 15233,'15418','Birchmount Rd / Verclaire Gt',43.852091,-79.325465
 15234,'15419','Birchmount Rd / Enterprise Blvd',43.849554,-79.325046
 15235,'15420','Birchmount Rd / Royal Crest Court',43.842307,-79.321578
+15241,'15422','Pleasant Blvd / St Clair Sta',43.687796,-79.390957
