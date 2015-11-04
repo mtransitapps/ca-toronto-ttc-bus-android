@@ -15,4 +15,25 @@
     <string-array name="next_bus_route_tag_headsign_values_replace_to" />
     <string-array name="next_bus_stop_tag_clean_regex" />
     <string-array name="next_bus_stop_tag_clean_replacement" />
+    <bool name="next_bus_schedule_head_sign_clean_street_types">true</bool>
+    <bool name="next_bus_schedule_head_sign_clean_street_types_fr_ca">false</bool>
+    <string-array name="next_bus_schedule_head_sign_clean_regex"></string-array>
+    <string-array name="next_bus_schedule_head_sign_clean_replacement"></string-array>
+    <integer name="next_bus_schedule_head_sign_use_predictions_route_title">0</integer> <!-- FALSE -->
+    <string-array name="next_bus_schedule_head_sign_predictions_route_title_regex" />
+    <string-array name="next_bus_schedule_head_sign_predictions_route_title_replacement" />
+    <integer name="next_bus_schedule_head_sign_use_direction_title">1</integer> <!-- TRUE -->
+    <string-array name="next_bus_schedule_head_sign_direction_title_regex">
+        <item>(([A-Za-z]+) \\- ([\\d]+)([A-Za-z]*) (.*) towards (.*))</item>
+    </string-array>
+    <string-array name="next_bus_schedule_head_sign_direction_title_replacement">
+        <item>$4 $6</item>
+    </string-array>
+    <integer name="next_bus_schedule_head_sign_use_predictions_dir_title_because_no_predictions">2</integer> <!-- TRUE -->
+    <string-array name="next_bus_schedule_head_sign_predictions_dir_title_because_no_predictions_regex">
+        <item>(([A-Za-z]+) \\- ([\\d]+)([A-Za-z]*) (.*) towards (.*))</item>
+    </string-array>
+    <string-array name="next_bus_schedule_head_sign_predictions_dir_title_because_no_predictions_replacement">
+        <item>$4 $6</item>
+    </string-array>
 </resources>
