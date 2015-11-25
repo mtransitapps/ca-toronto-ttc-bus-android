@@ -20,7 +20,7 @@
 289,'9288','Drewry Ave @ Gardenia Crt',43.783894,-79.431722
 290,'9275','Drewry Ave @ Grantbrook St',43.783568,-79.433604
 291,'979','Dufferin St @ Yorkdale Rd',43.726452,-79.457354
-293,'985','Dufferin St @ Jane Osler Blvd N - Yorkdale Shopping Ctr',43.725085,-79.457
+293,'985','Dufferin St @ Jane Osler Blvd Northside Yorkdale Shopping',43.725085,-79.457
 296,'9942','Dundas St W @ Jane St E',43.66559,-79.490416
 297,'9943','Dundas St W @ Jane St W',43.665752,-79.492169
 298,'4455','Dundas St W @ Runnymede Rd W',43.665634,-79.482905
@@ -1067,7 +1067,6 @@
 1529,'4206','Kingston Rd @ Birchcliff Ave',43.691601,-79.264665
 1530,'6681','Pharmacy Ave @ Comstock Rd',43.719199,-79.294825
 1533,'4662','Tapscott Rd @ Lighthall Cres N',43.810949,-79.235598
-1534,'97','Bathurst St @ Bloor St W S',43.664464,-79.410976
 1535,'8152','St Clair Ave W @ Bathurst St',43.683012,-79.418416
 1536,'3656','Glencairn Ave @ Glenmount Ave',43.71184,-79.430413
 1537,'9598','Nugget Ave @ Markham Rd W',43.798523,-79.24179
@@ -2127,7 +2126,7 @@
 2755,'9180','Norfinch Dr @ Finch Ave W',43.756176,-79.524491
 2756,'6000','Pharmacy Ave @ Eglinton Ave E',43.726006,-79.297711
 2757,'13329','Morningview Trl @ Littles Rd',43.814597,-79.202257
-2758,'5290','Lawrence Ave E @ Mccowan Rd (Scarborough Hosp General Campus)',43.755326,-79.245924
+2758,'5290','Lawrence Ave E @ Mccowan Rd Scarb Hosp General',43.755326,-79.245924
 2759,'10830','3480 Mcnicoll Ave',43.823132,-79.252505
 2760,'3384','Browns Line @ Jellicoe Ave',43.596387,-79.542663
 2762,'7116','Senlac Rd @ Ellerslie Ave',43.768718,-79.426773
@@ -2670,7 +2669,7 @@
 3364,'10568','Renfrew Dr @ Valleywood Dr N',43.856915,-79.36168
 3365,'4785','Ave Rd @ Lawrence Ave W S',43.72193,-79.41562
 3366,'9085','York Mills Rd @ Silverdale Cres',43.756869,-79.341558
-3367,'5672','Mccowan Rd @ Lawrence Ave E (Scarborough Hosp General Campus)',43.755241,-79.24527
+3367,'5672','Mccowan Rd @ Lawrence Ave E Scarb Hosp General Campus',43.755241,-79.24527
 3369,'5871','Opposite 35 Oak St',43.708589,-79.53003
 3370,'5172','Lk Shr Blvd W @ 7th St',43.600655,-79.505405
 3371,'7068','Runnymede Rd @ St Clair Ave W',43.66881,-79.483396
@@ -3238,7 +3237,6 @@
 4024,'13563','Sheppard Ave E @ Doris Ave',43.761951,-79.408419
 4025,'741','Caledonia Rd @ Rogers Rd',43.68288,-79.457837
 4028,'873','Danforth Ave @ Byron Ave E',43.680844,-79.334935
-4029,'103','Bathurst St @ Carr St N',43.649338,-79.404724
 4030,'5404','Lawrence Ave W @ Sage Ave',43.712378,-79.463057
 4031,'2081','Dufferin St @ Queen St W',43.642024,-79.42843
 4033,'6304','Coe Hl Dr @ The Queensway',43.637727,-79.468534
@@ -4368,7 +4366,7 @@
 5310,'7397','Varna Dr @ Tundra Ln',43.719469,-79.439592
 5311,'8005','Ormont Dr @ Barmac Dr (E)',43.764727,-79.547472
 5312,'10427','Jane St @ Pennsylvania Ave',43.803402,-79.526663
-5313,'9788','Opposite 3030 Birchmount Rd (Scarborough Hosp Birchmount Campus)',43.802342,-79.308184
+5313,'9788','Opposite 3030 Birchmount Rd Scarb Hosp Birchmount Campus',43.802342,-79.308184
 5315,'9251','Thirtieth St @ Lk Shr Blvd W',43.595469,-79.529868
 5316,'6414','Grantbrook St @ Hendon Ave',43.778126,-79.432276
 5317,'6272','Browns Line @ Valermo Dr',43.60591,-79.546914
@@ -5854,7 +5852,7 @@
 6970,'7291','Sheppard Ave W @ Northover St',43.741362,-79.501611
 6971,'7591','Carluke Cres @ Fifeshire Rd (W)',43.759923,-79.389565
 6972,'6451','Huntingwood Dr @ Kennedy Rd',43.79523,-79.293015
-6973,'5450','Leslie St @ Esther Shiner Blvd (N York General Hosp)',43.769268,-79.363962
+6973,'5450','Leslie St @ Esther Shiner Blvd N York General Hosp',43.769268,-79.363962
 6974,'7977','Military Trl @ University Of Toronto Scarborough',43.785922,-79.186772
 6975,'5704','Midland Ave @ Gilder Dr',43.735948,-79.258659
 6976,'3840','Islington Ave @ St Andrews Blvd',43.701227,-79.548491
@@ -6731,7 +6729,7 @@
 7965,'4331','Kipling Ave @ Kidron Vly Dr',43.75605,-79.588054
 7966,'7332','Sherbourne St @ Wellesley St E',43.666963,-79.374549
 7967,'245','Bay St @ Elm St',43.657409,-79.384535
-7968,'5673','Mccowan Rd @ Lawrence Ave E (Scarborough Hosp General Campus)',43.755783,-79.245641
+7968,'5673','Mccowan Rd @ Lawrence Ave E Scarb Hosp General Campus',43.755783,-79.245641
 7969,'11241','Morningview Trl @ Gennela Sq',43.814504,-79.202953
 7970,'2937','Morningside Ave @ Coronation Dr N',43.762154,-79.183606
 7971,'8528','Warden Ave @ Apartments (S Of Finch)',43.794792,-79.315117
@@ -7982,7 +7980,7 @@
 9393,'1212','Kingston Rd @ Neilson Ave W',43.723401,-79.234681
 9394,'12861','Warden Ave @ St Clair Ave E S',43.711484,-79.280908
 9395,'1610','777 Supertest Rd',43.775745,-79.479109
-9396,'5289','Lawrence Ave E @ Mccowan Rd W (Scarborough Hosp General Campus)',43.755429,-79.246633
+9396,'5289','Lawrence Ave E @ Mccowan Rd Westside Scarb Hosp General',43.755429,-79.246633
 9397,'1638','The W Mall @ The Queensway',43.611799,-79.562012
 9398,'4383','Kipling Ave @ Tyre Ave',43.645106,-79.536924
 9399,'1439','Oriole Pkwy @ Kilbarry Rd',43.695575,-79.402506
@@ -9510,7 +9508,6 @@
 14093,'14566','Carrier Dr @ Hwy 27',43.739197,-79.605187
 14094,'14567','Carrier Dr @ Woodbine Downs Blvd',43.738672,-79.607428
 14095,'14568','Carrier Dr @ Humber College Blvd',43.737865,-79.61074
-14103,'14309','Nunavut Rd (Horse Palace)',43.634729,-79.416461
 14104,'14560','Carrier Dr @ Woodbine Downs Blvd E',43.738622,-79.607138
 14105,'14561','Carrier Dr @ Hwy 27 E',43.739174,-79.60477
 14106,'14562','Opposite 91 Westmore Dr',43.737747,-79.602388
@@ -9800,7 +9797,6 @@
 14649,'14895','St Clair Ave W @ Mariposa Ave E',43.66763,-79.489362
 14650,'14897','St Clair Ave W @ Winona Dr E',43.68035,-79.431957
 14652,'S_SPLK','Spanbridge Rd @ Linkwood Ln',43.712361,-79.324487
-14653,'14930','Princes Blvd @ Newfoundland Rd W (Direct Energy)',43.634121,-79.411893
 14655,'S_MLAW','Morningside Ave & Lawrence Ave',43.768396,-79.186221
 14676,'14950','2190 Yonge St',43.705657,-79.398212
 14677,'10894','Richmond St W @ York St W',43.650516,-79.385061
@@ -9942,7 +9938,6 @@
 15051,'15230','Bathurst St @ Queen St W',43.647162,-79.403871
 15067,'S_YOCE','York Mills Collegiate Inst Eb',43.750742,-79.374301
 15068,'15237','Manitoba Dr @ Saskatchewan Rd',43.633016,-79.422223
-15069,'15229','Canada Blvd @ Princes Blvd',43.635009,-79.409977
 15071,'15244','Sheppard Ave E @ Midland Ave',43.785027,-79.280349
 15072,'15245','Sheppard Ave E @ Conlins Rd',43.804319,-79.189776
 15075,'15246','Mill St @ Cherry St',43.65132,-79.357691
@@ -9954,6 +9949,8 @@
 15107,'15280','Morningside Ave @ Kingston Rd',43.771247,-79.187086
 15108,'15317','Wilson Sta',43.734937,-79.451045
 15121,'15279','St Clair Ave E @ Plaxton Dr',43.707771,-79.302562
+15125,'15334','Bloor St W @ Lennox St',43.663891,-79.410837
+15126,'15335','Bathurst St @ Carr St',43.648801,-79.404494
 15150,'15312','Finch Ave W @ Talbot Rd',43.778009,-79.423054
 15151,'15313','Finch Ave W @ Talbot Rd',43.778251,-79.42273
 15152,'15321','Bloor St W @ Brock Ave',43.658997,-79.439247
