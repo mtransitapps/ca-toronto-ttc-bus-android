@@ -117,7 +117,7 @@
 409,'12258','Brentcliffe Rd @ Vanderhood Ave',43.712571,-79.358874
 411,'11925','Broadview Ave @ Erindale Ave',43.677376,-79.358623
 412,'14314','Church St @ Lombard St N',43.652128,-79.375249
-413,'4886','Church St @ Uphill Ave (Humber River Hosp)',43.708656,-79.508372
+413,'4886','Church St @ Uphill Ave',43.708656,-79.508372
 414,'1772','Cleveland St @ Davisville Ave N',43.702503,-79.378002
 416,'9534','Cordova Ave @ Dundas St W',43.648718,-79.528413
 417,'11619','Bellamy Rd N @ Progress Ave',43.78037,-79.244052
@@ -1002,7 +1002,7 @@
 1454,'7088','Scarlett Rd @ Eglinton Ave W',43.683715,-79.511038
 1455,'9689','Gerrard St E @ Clonmore Dr',43.688549,-79.278706
 1456,'6692','Pharmacy Ave @ Dewey Dr',43.755114,-79.309472
-1457,'4885','Church St @ Uphill Ave (Humber River Hosp)',43.708511,-79.5087
+1457,'4885','Church St @ Uphill Ave',43.708511,-79.5087
 1458,'6081','Sheppard Ave W @ Magellan Dr',43.739555,-79.509799
 1461,'8917','Woodbine Ave @ Eastwood Rd',43.676586,-79.309074
 1462,'2313','Eglinton Ave E @ Sutherland Dr',43.7132,-79.366979
@@ -2556,7 +2556,7 @@
 3236,'2514','Finch Ave E @ Kennedy Rd',43.801085,-79.296747
 3237,'7354','Spadina Rd @ Lowther Ave',43.668863,-79.404636
 3238,'7417','Victoria Pk Ave @ Paget Rd N',43.760173,-79.316109
-3239,'6151','Uphill Ave @ Woodward Ave (Humber River Hosp)',43.709133,-79.508867
+3239,'6151','Uphill Ave @ Woodward Ave',43.709133,-79.508867
 3240,'5919','Oconnor Dr @ Amsterdam Ave',43.714151,-79.305988
 3241,'2989','Pape Ave @ Fulton Ave S',43.683799,-79.346775
 3242,'4702','Washburn Way @ Nahanni Terr',43.802291,-79.224587
@@ -5703,7 +5703,7 @@
 6800,'11538','John Garland Blvd @ Kipling Ave',43.735382,-79.578524
 6801,'3880','Jane St @ Driftwood Ave N',43.766145,-79.519613
 6802,'7822','Hinton Rd @ Elmhurst Dr',43.727411,-79.566426
-6803,'6150','Uphill Ave @ Woodward Ave (Humber River Hosp)',43.709409,-79.508806
+6803,'6150','Uphill Ave @ Woodward Ave',43.709409,-79.508806
 6804,'13489','200 Confederation Pkwy',43.830464,-79.489802
 6805,'2838','Longbourne Dr @ Willowridge Rd',43.677965,-79.571859
 6806,'2087','Dufferin St @ Samor Rd S',43.717935,-79.45567
@@ -9306,6 +9306,7 @@
 13630,'S_OVER','Overlea @ Shoppers Drug Mart',43.707061,-79.345388
 13634,'S_PAMD','Passmore Ave @ Midland Rd',43.820701,-79.294921
 13636,'S_PARK','Berry Rd @ Parklawn Rd',43.636151,-79.493414
+13637,'S_PASS','Kennedy Rd @ Passmore Ave',43.818441,-79.30474
 13642,'S_PHEG','Pharmacy Ave @ Eglinton Ave E',43.725644,-79.297504
 13643,'S_PHEL','Pharmacy Ave @ Ellesmere Rd',43.759024,-79.310178
 13644,'S_PHFI','Pharmacy Ave @ Finch Ave E',43.794325,-79.325956
@@ -9993,7 +9994,9 @@
 15247,'15406','Humber College Bus Terminal',43.728533,-79.60446
 15248,'15405','Humber College Bus Terminal',43.728712,-79.604934
 15249,'15403','Humber College Bus Terminal',43.728937,-79.604374
+15252,'15431','66 Keele St',43.656308,-79.46072
 15253,'15433','Sheppard Ave W @ Beecroft Rd',43.760936,-79.413221
+15254,'15434','Keele St @ Bloor St W (Keele Sta)',43.655384,-79.460253
 15255,'15435','Sheppard Ave W @ William Allen Rd',43.750041,-79.463714
 15256,'S_DUWI','Dufferin St & Wilson Ave',43.732073,-79.458906
 15257,'15423','Staines Rd @ Knowles Dr',43.823665,-79.219103
