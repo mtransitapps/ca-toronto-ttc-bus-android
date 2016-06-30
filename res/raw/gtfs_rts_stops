@@ -4011,7 +4011,7 @@
 4940,'3663','Glencairn Ave @ Shermount Ave',43.71003,-79.438738
 4941,'6670','Pharmacy Ave @ Biscayne Blvd S',43.731045,-79.299735
 4942,'2820','Lawrence Ave E @ Tremont Cres (E) W',43.735828,-79.350237
-4943,'1909','Don Mills Rd @ Barber Greene Rd S',43.72729,-79.340864
+4943,'1909','Don Mills Rd @ Barber Greene Rd S',43.727729,-79.340989
 4944,'1356','70 Milner Ave',43.784146,-79.251389
 4945,'9136','Calvington Dr @ Renshaw St',43.732756,-79.486776
 4946,'9573','Mclevin Ave @ Shepmore Terr E',43.803516,-79.230244
@@ -4983,6 +4983,7 @@
 6042,'3108','Sheppard Ave W @ Chesswood Dr',43.755598,-79.4738
 6043,'2377','Eglinton Ave W @ Lloyd Mnr Rd',43.675447,-79.558017
 6045,'8996','Yonge St @ Glenforest Rd N',43.730642,-79.40356
+6046,'2189','Dundas St W @ Spadina Ave',43.6528,-79.398251
 6047,'676','Burnhamthorpe Rd @ Holloway Rd',43.650385,-79.534422
 6048,'5304','Lawrence Ave E @ Goldberry Sq',43.776059,-79.1525
 6049,'6573','Meadowvale Rd @ Sheppard Ave E N',43.808971,-79.170943
@@ -5042,7 +5043,7 @@
 6110,'4225','Kingston Rd @ Galloway Rd',43.761559,-79.194922
 6111,'5267','Lawrence Ave E @ Galloway Rd',43.766302,-79.196286
 6112,'663','Broadview Ave @ Torrens Ave S',43.690078,-79.355154
-6113,'2032','Exhibition Pl @ Cne W Entrance (Dufferin Gt)',43.634423,-79.425877
+6113,'2032','Dufferin Gt Loop',43.634423,-79.425877
 6114,'6401','Gln Rd @ Elm Ave',43.676141,-79.37516
 6115,'3341','Opposite 60 Belfield Rd E',43.703386,-79.569183
 6116,'9249','Thirtieth St @ Akron Rd',43.600388,-79.532057
@@ -5459,6 +5460,7 @@
 6574,'5215','Lansdowne Ave @ Dundas St W',43.650042,-79.439617
 6575,'9224','Sentinel Rd @ Stilecroft Dr (N)',43.75035,-79.494051
 6576,'955','Davenport Rd @ Shaw St',43.674677,-79.428504
+6577,'11986','Spadina Ave @ Nassau St',43.655667,-79.398894
 6578,'5563','Markham Rd @ Greenbrae Circt',43.762405,-79.226405
 6579,'2437','Evans Ave @ The E Mall',43.612016,-79.543512
 6580,'14223','Weston Rd @ Major Mackenzie Dr W',43.844763,-79.560452
@@ -5555,6 +5557,7 @@
 6689,'4567','Rogers Rd @ Scott Rd',43.682376,-79.46899
 6690,'11546','Crow Trl @ Brad Stone Sq',43.811069,-79.232699
 6691,'8024','Parkwoods Vlg Dr @ Brookbanks Dr',43.760991,-79.323485
+6692,'2156','Dundas St W @ Denison Ave',43.651948,-79.402371
 6693,'2664','Grandravine Dr @ Futura Dr',43.748395,-79.507191
 6695,'8670','The W Mall @ Burnhamthorpe Rd',43.644326,-79.566933
 6696,'6095','Southwood Dr @ Gln Ames',43.676099,-79.296888
@@ -9857,6 +9860,7 @@
 15045,'7571','215 Carlingview Dr',43.683273,-79.593835
 15046,'15227','Dixon Rd @ Carlingview Dr W',43.686809,-79.596362
 15047,'15228','Church St @ Front St E',43.648356,-79.373633
+15048,'15224','Bathurst St @ Niagara St',43.641839,-79.401728
 15049,'15225','Bathurst St @ Niagara St',43.641964,-79.402014
 15050,'15226','Bathurst St @ Niagara St',43.641973,-79.402014
 15051,'15230','Bathurst St @ Queen St W',43.647162,-79.403871
@@ -9874,6 +9878,7 @@
 15108,'15317','Wilson Sta',43.734937,-79.451045
 15121,'15279','St Clair Ave E @ Plaxton Dr',43.707771,-79.302562
 15125,'15334','Bloor St W @ Lennox St',43.663891,-79.410837
+15126,'15335','Bathurst St @ Carr St',43.648801,-79.404494
 15134,'15343','Queen St E @ Woodbine Ave',43.66885,-79.30568
 15150,'15312','Finch Ave W @ Talbot Rd',43.778009,-79.423054
 15151,'15313','Finch Ave W @ Talbot Rd',43.778251,-79.42273
