@@ -265,7 +265,6 @@
 629,'3613','Finch Ave W @ Senlac Rd',43.776341,-79.430364
 630,'9821','Finch Ave W @ Sentinel Rd E',43.761129,-79.499238
 631,'3622','Finch Ave W @ Wilmington Ave',43.770071,-79.460855
-632,'10210','Fleet St @ Bathurst St',43.636543,-79.399884
 636,'4512','Founders Rd @ Steeles Ave W',43.778956,-79.504129
 638,'2646','Freshmeadow Dr @ Don Mills Rd',43.809242,-79.358653
 639,'9116','Freshmeadow Dr @ Don Mills Rd',43.809184,-79.358774
@@ -3533,7 +3532,6 @@
 4434,'7386','Van Horne Ave @ Edmonton Dr',43.787001,-79.339916
 4436,'8527','Warden Ave @ Apartments (S Of Finch)',43.79463,-79.314805
 4437,'244','Bay St @ Elm St',43.657144,-79.384206
-4439,'13362','Fleet St @ Bathurst St W',43.636519,-79.400323
 4441,'4538','830 Progress Ave',43.780669,-79.241327
 4442,'8653','Westhumber Blvd @ Delsing Dr E',43.726869,-79.582856
 4444,'3524','Dundas St W @ St Johns Rd',43.665465,-79.475174
@@ -8773,13 +8771,11 @@
 12888,'14447','5799 Yonge St',43.784951,-79.416681
 12889,'14455','Peter Rupert Ave @ District Ave',43.844566,-79.491912
 12890,'14510','Wellness Way @ Armistice Dr (Wellspring Ctr)',43.723545,-79.378594
-12891,'14511','Fleet St @ Bastion St W',43.636009,-79.403612
 12892,'14448','Progress Ave @ Schick Crt',43.774462,-79.266302
 12894,'14496','Evans Ave @ Gamma St W',43.612665,-79.540597
 12895,'14506','Weston Rd @ Old Weston Rd',43.77297,-79.544382
 12896,'14487','Old Finch Ave @ Baffin Crt W',43.819798,-79.212107
 12897,'14486','Old Finch Ave @ Harvest Moon Dr',43.82042,-79.209351
-12898,'14512','Fleet St @ Bastion St',43.635885,-79.404275
 12900,'14457','Peter Rupert Ave @ Golden Forest Rd N',43.850259,-79.493966
 12901,'14460','Peter Rupert Ave @ Freedom Trl',43.856701,-79.497782
 12902,'14469','Saskatchewan Rd @ Dufferin St E',43.632646,-79.424261
@@ -9763,7 +9759,7 @@
 15071,'15244','Sheppard Ave E @ Midland Ave',43.785027,-79.280349
 15072,'15245','Sheppard Ave E @ Conlins Rd',43.804319,-79.189776
 15075,'15246','Mill St @ Cherry St',43.65132,-79.357691
-15099,'15274','Tangiers Rd @ Finch Ave W N',43.764427,-79.488261
+15099,'15274','Tangiers Rd @ Finch Ave W',43.763979,-79.488111
 15100,'15275','Tangiers Rd @ Finch Ave W S',43.763342,-79.488185
 15101,'15238','Steeles Ave E @ Maxome Ave',43.800952,-79.406376
 15102,'15239','Steeles Ave E @ Conacher Dr',43.802137,-79.400962
@@ -9836,7 +9832,7 @@
 15269,'15447','5799 Yonge St',43.785344,-79.416797
 15270,'15449','Markham Rd @ Castlemore Ave',43.904472,-79.267147
 15275,'15450','Coxwell Ave @ Danforth Ave',43.683045,-79.32355
-15276,'15453','Fleet St @ Bastion St',43.635942,-79.40348
+15276,'15453','Fleet St @ Bastion St W',43.636032,-79.404145
 15277,'15454','Manitoba Dr @ Strachan Ave',43.636281,-79.409579
 15278,'15451','Manitoba Dr @ Strachan Ave',43.636218,-79.409654
 15279,'S_MCKE','Mcnicoll Ave & Kennedy Rd',43.812202,-79.301973
