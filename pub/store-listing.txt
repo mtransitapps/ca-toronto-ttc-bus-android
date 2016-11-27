@@ -5,7 +5,7 @@ Toronto TTC buses for MonTransit.
 Schedule. Real-Time. Service Alerts. News.
 ----------
 What's new in this version?:
-Schedule from November 20, 2016 to December 17, 2016.
+Schedule from November 20, 2016 to December 27, 2016.
 News from www.ttc.ca.
 Tweets from @TTCnotices & @TTChelps.
 ----------
