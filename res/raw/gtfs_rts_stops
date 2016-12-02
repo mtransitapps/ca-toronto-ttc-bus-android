@@ -141,7 +141,6 @@
 458,'5455','Leslie St @ Lawrence Ave E',43.734248,-79.355688
 459,'11377','Leslie St @ Queen St E S',43.662793,-79.330083
 461,'1242','Lonsdale Rd @ Ave Rd E',43.690838,-79.402295
-463,'12584','Exhibition Loop',43.636249,-79.415589
 465,'6528','Toronto Zoo',43.819818,-79.179971
 466,'6527','Toronto Zoo',43.819552,-79.179841
 467,'6526','Toronto Zoo',43.819294,-79.179678
@@ -6398,7 +6397,6 @@
 7730,'1111','Gerrard St E @ University Ave',43.657733,-79.388926
 7731,'3652','Glencairn Ave @ Englemount Ave',43.710653,-79.435756
 7732,'90','Bathurst St @ Bainbridge Ave',43.750923,-79.437453
-7734,'1062','Fleet St @ Strachan Ave',43.636189,-79.410242
 7735,'11078','Carrier Dr @ Dansk Crt S',43.743515,-79.61471
 7736,'3623','Finch Ave W @ Wilmington Ave',43.770378,-79.460608
 7737,'4073','Kennedy Rd @ Brigstock Rd',43.761385,-79.279287
@@ -8152,7 +8150,6 @@
 9764,'9669','Rexdale Blvd @ Precision Rd',43.715768,-79.588974
 9765,'761','Carpenter Crt @ Steeles Ave W',43.791865,-79.447477
 9766,'10238','Middlefield Rd @ Newmill Gt',43.824752,-79.263763
-9767,'1676','Yorkdale Rd @ Yorkdale Mall (S Entrance)',43.724085,-79.452305
 9768,'3688','Greenwood Ave @ Torbrick Rd',43.676235,-79.330097
 9769,'8947','Yonge Blvd @ Ridley Blvd',43.737453,-79.411102
 9771,'6664','1222 Pharmacy Ave',43.748385,-79.306772
@@ -8690,7 +8687,6 @@
 10394,'5865','40 Norfinch Dr',43.757093,-79.527043
 10395,'4394','Langstaff Rd @ Connie Cres',43.821232,-79.491345
 10398,'3141','Trethewey Dr @ Todd Baylis Blvd S',43.694981,-79.487293
-10399,'1063','Manitoba Dr @ Strachan Ave W',43.636272,-79.410325
 10401,'860','Cosburn Ave @ Logan Ave',43.688659,-79.352981
 10402,'4329','Kipling Ave @ John Garland Blvd N',43.735772,-79.578226
 10404,'13922','791 Islington Ave',43.616802,-79.510293
@@ -9729,7 +9725,6 @@
 15009,'15187','Major Mackenzie Dr E @ Stonebridge Dr',43.902029,-79.299563
 15010,'15188','Major Mackenzie Dr E @ Stonebridge Dr',43.901832,-79.299738
 15015,'15189','Ellesmere Sta',43.766963,-79.277195
-15016,'15190','Exhibition Loop',43.635616,-79.418204
 15017,'15191','Lansdowne Ave @ Seaforth Ave N',43.643028,-79.437477
 15020,'S_YOCI','York Mills Collegiate Institute',43.750715,-79.374364
 15021,'15194','Passmore Ave @ Markham Rd E',43.830584,-79.250141
