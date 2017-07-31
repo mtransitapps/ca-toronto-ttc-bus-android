@@ -469,8 +469,6 @@
 874,'12013','Warden Ave @ Sheppard Ave E N',43.779404,-79.308122
 875,'10536','Warden Ave @ Steeles Ave E N',43.820284,-79.324481
 876,'10565','Warden Ave @ Steeles Ave E S',43.819086,-79.324457
-877,'4710','Wellington St W @ Bay St',43.647418,-79.379552
-878,'4712','Wellington St W @ York St',43.646725,-79.38288
 880,'1633','The W Mall @ Sherway Dr (Trillium Health Ctr S Stop)',43.60947,-79.560556
 881,'11119','The W Mall @ Queensway S',43.611752,-79.562296
 882,'8762','Weston Rd @ Rogers Rd S',43.681322,-79.4766
@@ -1700,7 +1698,6 @@
 2295,'6091','Sheppard Ave W @ Weston Rd',43.733863,-79.537884
 2297,'5843','Mt Pleasant Rd @ Soudan Ave',43.706164,-79.389384
 2298,'5445','Leslie St @ Francine Dr',43.804762,-79.371371
-2299,'12320','Church St @ Wellington St E',43.648705,-79.373988
 2300,'2618','Finch Ave W @ Milady Rd',43.747196,-79.564455
 2301,'9829','Steeles Ave E @ Strawberry Hls Dr',43.829694,-79.28058
 2302,'6194','The Westway @ Kipling Ave E',43.685668,-79.554175
@@ -3407,7 +3404,6 @@
 4265,'13658','Markham Rd @ Sta St (Markham GO Sta)',43.882363,-79.261893
 4266,'9401','Evans Ave @ Ourland Ave',43.618837,-79.509639
 4267,'6233','Albion Rd @ Weston Rd W',43.717575,-79.538471
-4268,'4711','Wellington St @ Yonge St',43.647948,-79.377199
 4269,'11955','Arrow Rd @ Sheppard Ave W',43.736429,-79.529586
 4270,'9155','Kennard Ave @ William R Allen Rd',43.759506,-79.464429
 4271,'8976','Yonge St @ Drewry Ave',43.787188,-79.417518
@@ -5835,6 +5831,7 @@
 7030,'8637','Wellesley St E @ Sherbourne St',43.667149,-79.374497
 7031,'11286','Humberwood Blvd @ Hullrick Dr (S)',43.721742,-79.612831
 7032,'7094','Scarlett Rd @ La Rose Ave',43.686983,-79.513356
+7034,'4154','King St E @ Yonge St (King Sta)',43.649294,-79.377779
 7036,'11043','Kipling Ave @ Finch Ave W',43.74305,-79.581788
 7037,'1146','Highview Ave @ Kennedy Rd',43.702377,-79.256114
 7038,'6564','Meadowvale Rd @ Zoo Rd',43.818109,-79.173193
@@ -8394,6 +8391,7 @@
 9978,'4340','Kipling Ave @ Mt Olive Dr',43.746894,-79.58396
 9979,'5988','Pape Ave @ Oconnor Dr',43.693371,-79.350454
 9980,'3241','Yonge St @ Richmond St W',43.651791,-79.379077
+9981,'4159','King St W @ Bay St',43.648738,-79.380086
 9982,'4066','3015 Kennedy Rd',43.807569,-79.299758
 9983,'2729','Islington Ave @ The Queensway',43.623808,-79.514984
 9984,'1219','Lawrence Ave E @ Bayview Ave W',43.727834,-79.383212
