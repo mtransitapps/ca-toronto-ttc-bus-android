@@ -154,6 +154,7 @@
 468,'5519','Rouge Hl GO Sta Loop',43.780682,-79.130384
 469,'10939','Rouge Hl GO Sta Loop @ Lawrence Ave E',43.780923,-79.129896
 470,'6530','Rouge Hl GO Sta Loop @ Lawrence Ave E',43.780753,-79.130109
+471,'6532','Humber Loop @ The Queensway',43.631133,-79.478861
 475,'7948','Earlscourt Loop @ St Clair Ave W',43.675991,-79.451019
 477,'4435','Long Branch Loop',43.592119,-79.543681
 485,'14061','Westwood Mall Loop @ Morning Star Dr',43.721682,-79.640754
@@ -1391,7 +1392,6 @@
 1956,'6962','Rockcliffe Blvd @ Outlook Ave',43.680402,-79.490872
 1958,'3077','Queen St E @ Victoria St (St Michaels Hosp)',43.652778,-79.377811
 1960,'7269','Sheppard Ave W @ Brentwood Ave',43.758312,-79.425478
-1961,'10867','Steeles Ave W @ Markbrook Ln W',43.760171,-79.586272
 1963,'10653','Mccowan Rd @ Opposite Milliken Wells Plz',43.825011,-79.274996
 1965,'576','Bloor St W @ Riverside Dr (S) E',43.647675,-79.487722
 1967,'749','Caledonia Rd @ Tycos Dr',43.703136,-79.464383
@@ -8881,8 +8881,6 @@
 14311,'14794','Warden Sta',43.710965,-79.279906
 14312,'14795','Warden Sta',43.711013,-79.279962
 14313,'14796','Warden Sta',43.71102,-79.280047
-14314,'14797','Wellesley Sta',43.665355,-79.383934
-14315,'14798','Wellesley Sta',43.66534,-79.383627
 14316,'14799','Wilson Sta',43.734543,-79.45097
 14317,'14800','Wilson Sta',43.734787,-79.451025
 14318,'14801','Wilson Sta',43.734764,-79.450856
@@ -9317,3 +9315,4 @@
 23985,'15687','Dundas St W @ Dufferin St W',43.649752,-79.431869
 23986,'15685','Dundas St E @ Jarvis St W',43.657067,-79.37494
 23987,'15688','Howard Pk Ave @ Dundas St W',43.652101,-79.448603
+24050,'15698','Welleslet St @ Yonge St E',43.664917,-79.384241
