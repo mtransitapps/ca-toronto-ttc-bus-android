@@ -5,7 +5,7 @@ Toronto TTC buses for MonTransit.
 Schedule. Real-Time. Service Alerts. News.
 ----------
 What's new in this version?:
-Schedule from August 5, 2018 to September 1, 2018.
+Schedule from August 5, 2018 to October 6, 2018.
 News from www.ttc.ca.
 Tweets from @TTCnotices & @TTChelps.
 ----------
