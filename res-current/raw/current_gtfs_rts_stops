@@ -247,7 +247,6 @@
 600,'4509','Old Weston Rd @ St Clair Ave W N',43.673944,-79.46306
 601,'11583','Old Weston Rd @ St Clair Ave W',43.673245,-79.462866
 602,'4508','Old Weston Rd @ St Clair Ave W',43.673627,-79.463123
-605,'10225','851 Ossington Ave',43.664789,-79.42674
 606,'8008','Ossington Ave @ Bloor St W',43.661814,-79.425455
 607,'9857','Ossington Ave @ Bloor St W',43.66208,-79.425762
 609,'2979','Overlea Blvd @ Millwood Rd E',43.702471,-79.352222
@@ -896,7 +895,7 @@
 1387,'2376','Eglinton Ave W @ Little Blvd',43.693751,-79.458683
 1390,'8997','Yonge St @ Glengrove Ave E',43.719356,-79.400928
 1391,'11784','Parkside Dr @ High Pk Blvd',43.644985,-79.456362
-1392,'8365','Thorncliffe Pk Dr (E) @ Thorncliffe Pk Dr S',43.708862,-79.3443
+1392,'8365','Beth Nealson Dr @ Pat Moore Dr S',43.708862,-79.3443
 1393,'9447','Donlands Ave @ Millwood Rd',43.697186,-79.348914
 1395,'8713','Weston Rd @ Craydon Ave',43.690364,-79.498482
 1396,'7033','Royal York Rd @ Trehorne Dr S',43.690023,-79.530095
@@ -2037,7 +2036,7 @@
 2755,'9180','Norfinch Dr @ Finch Ave W',43.756176,-79.524491
 2756,'6000','Pharmacy Ave @ Eglinton Ave E',43.726006,-79.297711
 2757,'13329','Morningview Trl @ Littles Rd',43.814597,-79.202257
-2758,'5290','Lawrence Ave E @ Mccowan Rd Scarb Hosp General',43.755346,-79.245892
+2758,'5290','Lawrence Ave E @ Mccowan Rd Scarbourough General Hosp',43.755346,-79.245892
 2759,'10830','3480 Mcnicoll Ave',43.823132,-79.252505
 2760,'3384','Browns Line @ Jellicoe Ave',43.596387,-79.542663
 2762,'7116','Senlac Rd @ Ellerslie Ave',43.768718,-79.426773
@@ -2059,7 +2058,7 @@
 2778,'3666','Glencairn Sta',43.709587,-79.441286
 2779,'8372','Tournament Dr @ The Links Rd',43.75069,-79.401724
 2780,'3021','Pine St @ Lawrence Ave W',43.701353,-79.507916
-2782,'2329','Eglinton Ave W @ Bicknell Ave E (Opp York Civ Ctr)',43.689681,-79.47678
+2782,'2329','Eglinton Ave W @ Bicknell Ave E (York Civic Ctr)',43.689681,-79.47678
 2784,'7185','Sheppard Ave E @ Greenbriar Rd',43.768526,-79.380172
 2785,'443','Birchmount Rd @ Ranstone Gdns',43.738565,-79.281116
 2786,'8556','Warden Ave @ Danube Dr',43.743674,-79.294171
@@ -2421,7 +2420,7 @@
 3204,'2038','Dufferin St @ Davenport Rd N',43.673383,-79.441066
 3205,'6768','Prince Edward Dr @ Bloor St W',43.648493,-79.505295
 3206,'847','College St @ University Ave (Queen''s Pk Sta)',43.659707,-79.390775
-3207,'1965','Don Mills Rd @ Au Large Blvd (Opposite Seneca College)',43.796489,-79.355285
+3207,'1965','Don Mills Rd @ Premier Davis Blvd (Seneca College)',43.796489,-79.355285
 3208,'3906','Jane St @ Lawrence Ave W',43.702601,-79.50356
 3209,'5700','Midland Ave @ Emblem Crt',43.779085,-79.275625
 3210,'876','Danforth Ave @ Carlaw Ave',43.678362,-79.347438
@@ -2555,7 +2554,7 @@
 3362,'3283','Albion Rd @ Westmore Dr',43.743649,-79.603548
 3365,'4785','Ave Rd @ Lawrence Ave W S',43.72193,-79.41562
 3366,'9085','York Mills Rd @ Silverdale Cres',43.756869,-79.341558
-3367,'5672','Mccowan Rd @ Lawrence Ave E Scarb Hosp General Campus',43.755241,-79.24527
+3367,'5672','Mccowan Rd @ Lawrence Ave E Scarborough General Hosp',43.755241,-79.24527
 3368,'1078','Gerrard St E @ Ashdale Ave',43.672227,-79.322025
 3369,'5871','Opposite 35 Oak St',43.708589,-79.53003
 3370,'5172','Lk Shr Blvd W @ 7th St',43.600655,-79.505405
@@ -3206,7 +3205,6 @@
 4147,'4388','Kipling Ave @ Westway',43.685774,-79.55493
 4148,'13926','Eastern Ave @ Leslie St E',43.661702,-79.328568
 4149,'2490','Finch Ave E @ Birchmount Rd',43.79883,-79.306194
-4150,'2263','Eglinton Ave E @ Don Mills Rd',43.72074,-79.338511
 4152,'14315','Albion Rd @ Shendale Dr',43.722529,-79.547295
 4153,'8402','Upper Canada Dr @ Lord Seaton Rd E',43.759705,-79.396141
 4154,'7030','Royal York Rd @ Summitcrest Dr',43.685931,-79.528283
@@ -5014,7 +5012,7 @@
 6295,'3859','Opposite 2265 Jane St',43.727429,-79.510333
 6296,'13523','Castlemore Ave @ Ridgecrest Rd W',43.897184,-79.303438
 6297,'87','Bathurst St @ Ava Rd',43.697848,-79.424196
-6298,'9540','Berkeley @ Front St E',43.651033,-79.363838
+6298,'9540','Berkeley St @ Front St E',43.651033,-79.363838
 6299,'1389','Neilson Rd @ Milner Ave N',43.796047,-79.216583
 6300,'304','Bayview Ave @ Hollywood Ave',43.770842,-79.389072
 6301,'11517','Maple Leaf Dr @ Opp Roadway To 290-300 Queens Dr Apartments',43.709812,-79.502454
@@ -6433,7 +6431,7 @@
 7965,'4331','Kipling Ave @ Kidron Vly Dr',43.75605,-79.588054
 7966,'7332','Sherbourne St @ Wellesley St E',43.666963,-79.374549
 7967,'245','Bay St @ Elm St',43.657409,-79.384535
-7968,'5673','Mccowan Rd @ Lawrence Ave E Scarb Hosp General Campus',43.755783,-79.245641
+7968,'5673','Mccowan Rd @ Lawrence Ave E Scarborough General Hosp',43.755783,-79.245641
 7969,'11241','Morningview Trl @ Gennela Sq',43.814504,-79.202953
 7970,'2937','Morningside Ave @ Coronation Dr N',43.762154,-79.183606
 7971,'8528','Warden Ave @ Apartments (S Of Finch)',43.794792,-79.315117
@@ -7256,7 +7254,7 @@
 8949,'7986','Moore Ave @ Brendan Rd',43.695441,-79.378526
 8950,'7688','1299 Ellesmere Rd',43.769344,-79.264176
 8952,'581','Bloor St W @ Shaver Ave S E',43.638972,-79.547419
-8954,'1966','Don Mills Rd @ Au Large Blvd (Seneca College)',43.796256,-79.35506
+8954,'1966','Don Mills Rd @ Premier Davis Blvd (Seneca College)',43.796256,-79.35506
 8955,'2365','Eglinton Ave W @ Jane St',43.684635,-79.498491
 8957,'3581','Finch Ave W @ Bathurst St',43.773667,-79.443432
 8958,'3332','Belfield Rd @ City Vw Dr E',43.69954,-79.585395
@@ -7622,7 +7620,7 @@
 9392,'7381','Van Horne Ave @ Bickerton Cres',43.788145,-79.334298
 9393,'1212','Kingston Rd @ Neilson Ave W',43.723401,-79.234681
 9394,'12861','Warden Ave @ St Clair Ave E S',43.711484,-79.280908
-9396,'5289','Lawrence Ave E @ Mccowan Rd Westside Scarb Hosp General',43.755429,-79.246633
+9396,'5289','Lawrence Ave E @ Mccowan Rd Westside Scarborough General',43.755429,-79.246633
 9397,'1638','The W Mall @ The Queensway',43.611799,-79.562012
 9398,'4383','Kipling Ave @ Tyre Ave',43.645106,-79.536924
 9399,'1439','Oriole Pkwy @ Kilbarry Rd',43.695575,-79.402506
@@ -7818,7 +7816,7 @@
 9627,'3798','Islington Ave @ Golfdown Dr',43.721594,-79.558241
 9629,'6708','Pharmacy Ave @ Gordon Baker Rd S',43.8112,-79.334054
 9630,'702','Caledonia Rd @ Bentworth Ave',43.71972,-79.468742
-9632,'8366','Thorncliffe Pk Dr (E) @ Thorncliffe Pk Dr (N)',43.709223,-79.344325
+9632,'8366','Beth Nealson Dr @ Pat Moore Dr',43.709223,-79.344325
 9633,'2268','Eglinton Ave E @ Dunfield Ave',43.70746,-79.395252
 9634,'3733','Hullmar Dr @ Bloomington Cres (E)',43.761301,-79.52353
 9635,'1432','Orfus Rd @ Dufflaw Rd',43.718604,-79.464026
@@ -8538,7 +8536,6 @@
 12920,'14514','Humberwood Blvd @ Morning Star Dr',43.726285,-79.622359
 12925,'14488','Old Finch Ave @ Morningside Ave',43.819212,-79.214629
 12926,'14367','35 Carl Hall Rd',43.746911,-79.479182
-13434,'S_LA.W','Lawrence W Sta',43.715519,-79.44397
 13982,'14527','41 Torbarrie Rd',43.721716,-79.521923
 13985,'14519','Signet Dr @ High Mdw Pl',43.755545,-79.537268
 13999,'14520','Signet Dr @ High Mdw Pl',43.755951,-79.537849
@@ -9255,3 +9252,5 @@
 24140,'15748','Kipling Ave @ Taber Rd',43.719544,-79.570572
 24141,'15749','Kipling Ave @ Henley Cres',43.730453,-79.575626
 24144,'15750','Weston Rd @ St Clair Ave W',43.672755,-79.467827
+24152,'1435','Oriole Pkwy @ Chaplin Cres',43.697653,-79.403018
+24153,'15753','Oriole Pkwy @ Kilbarry Rd S',43.695197,-79.402482
