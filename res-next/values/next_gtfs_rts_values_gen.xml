@@ -7,5 +7,5 @@
     <string name="next_gtfs_rts_area_min_lng">-79.649904</string>
     <string name="next_gtfs_rts_area_max_lng">-79.123046</string>
     <integer name="next_gtfs_rts_first_departure_in_sec">1554018060</integer>
-    <integer name="next_gtfs_rts_last_departure_in_sec">1557656690</integer>
+    <integer name="next_gtfs_rts_last_departure_in_sec">1558520690</integer>
 </resources>
