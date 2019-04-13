@@ -6842,7 +6842,7 @@
 8453,'11079','145 Carrier Dr',43.741644,-79.613901
 8454,'2218','The E Mall @ Talgarth Rd',43.662687,-79.570685
 8455,'1411','Oconnor Dr @ Derwyn Rd',43.696686,-79.334716
-8456,'14144','Woodbine Ave @ Queen St E S',43.66859,-79.305817
+8456,'14144','Woodbine Ave @ Queen St E',43.66859,-79.305817
 8458,'4635','St Regis Cres N @ Bakersfield St W',43.757028,-79.481615
 8460,'2692','Harold Evans Cres @ Mcnicoll Ave',43.803589,-79.341998
 8461,'12689','Oak St @ Weston Rd E',43.707899,-79.532725
@@ -8777,7 +8777,7 @@
 14369,'14843','Wilmington Ave @ Cedar Spgs Grv (S)',43.767589,-79.459657
 14370,'14844','Wilmington Ave @ Cedar Spgs Grv (S) N',43.769655,-79.460435
 14371,'14845','Murray Ross Pkwy @ Sentinel Rd E',43.764891,-79.500256
-14372,'14846','Murray Ross Pkwy @ Keele St',43.767184,-79.492556
+14372,'14846','Murray Ross Pkwy @ Columbia Gt',43.767184,-79.492556
 14373,'14832','Murray Ross Pkwy @ Evelyn Wiggins Dr (York U Busway)',43.766896,-79.493578
 14376,'14819','St Clair Sta',43.687733,-79.392365
 14377,'14817','Wilson Sta',43.734677,-79.45102
@@ -9219,7 +9219,7 @@
 24070,'15712','Eglinton Ave W @ Braemar Ave W',43.704382,-79.409935
 24071,'15713','Mt Mpleasant Blvd @ Roehampton Ave',43.709467,-79.390463
 24072,'15714','Wellesley St E @ Sherbourne St E',43.667059,-79.374442
-24074,'15715','Newcastle St @ Windsor St - Mimico GO Sta',43.617725,-79.49758
+24074,'15715','Newcastle St @ Windsor St E - Mimico GO Sta',43.617725,-79.49758
 24077,'15718','Manitoba St @ Legion Rd',43.624445,-79.488831
 24095,'12880','The W Mall @ Paxman Rd S',43.623837,-79.559712
 24096,'12881','The W Mall @ Paxman Rd',43.623954,-79.559426
