@@ -2155,7 +2155,7 @@
 2903,'2878','Mcnicoll Ave @ Birchmount Rd W',43.808556,-79.311781
 2904,'4541','Progress Ave @ Schick Crt',43.774415,-79.266923
 2905,'4024','Keele St @ Rogers Rd N',43.682632,-79.471717
-2906,'858','Cosburn Ave @ Gowan Ave',43.690495,-79.342851
+2906,'858','Cosburn Ave @ Gowan Ave',43.690374,-79.343674
 2907,'7621','Clayson Rd @ Wilson Ave N',43.718363,-79.523211
 2908,'9340','128 Arleta Ave',43.747392,-79.504505
 2909,'2297','Eglinton Ave E @ Oswego Rd',43.737818,-79.243502
@@ -4105,7 +4105,6 @@
 5228,'7058','Runnymede Rd @ Dundas St W N',43.666091,-79.482223
 5229,'8245','Steeles Ave E @ Walkway To Whitman St',43.800243,-79.409414
 5230,'5198','Lk Shr Blvd W @ Royal York Rd',43.60382,-79.493033
-5231,'2287','Eglinton Ave E @ Leslie St W',43.71711,-79.350179
 5232,'9668','Signet Dr @ Finch Ave W N',43.754061,-79.536541
 5233,'2035','Dufferin St @ Croatia St S',43.658039,-79.434742
 5234,'9134','Grandravine Dr @ Ollerton Rd',43.749592,-79.501884
@@ -4272,7 +4271,6 @@
 5435,'11543','176 John Garland Blvd',43.732537,-79.587087
 5436,'1076','Garratt Blvd @ Regent Rd S',43.730975,-79.46846
 5437,'9097','Steeprock Dr @ Chesswood Dr',43.75741,-79.474874
-5438,'10479','Steeles Ave E @ Milliken GO Sta',43.824927,-79.302122
 5439,'961','Donlands Ave @ Cosburn Ave',43.691019,-79.341513
 5441,'2533','Finch Ave E @ Middlefield Rd',43.810081,-79.257463
 5442,'6937','Rexdale Blvd @ Brydon Dr',43.711516,-79.571654
@@ -5626,7 +5624,6 @@
 7038,'6564','Meadowvale Rd @ Zoo Rd',43.818114,-79.173192
 7039,'5320','Lawrence Ave E @ Tower Dr',43.744754,-79.298236
 7040,'13633','Markham Rd @ Elson St',43.840339,-79.251667
-7042,'10478','Steeles Ave E @ Milliken GO Sta',43.824582,-79.302567
 7046,'3938','Jane St @ William Cragg Dr N',43.722732,-79.50889
 7047,'6206','The Westway @ Wincott Dr',43.687522,-79.549582
 7048,'7851','Hoskin Ave @ Tower Rd (Wycliffe College)',43.664544,-79.395953
@@ -7119,7 +7116,7 @@
 8812,'13434','Christie St @ Barton Ave',43.666475,-79.419496
 8814,'13310','2650 St Clair Ave W',43.666626,-79.496526
 8815,'3258','York Mills Rd @ Fenn Ave',43.747131,-79.388881
-8816,'2977','46 Overlea Blvd (Coca Cola)',43.706973,-79.34627
+8816,'2977','46 Overlea Blvd',43.706973,-79.34627
 8817,'2217','The E Mall @ Rathburn Rd',43.655161,-79.564454
 8818,'6867','The Queensway @ Aldgate Ave',43.62966,-79.486867
 8819,'4591','Sheppard Ave E @ Progress Ave',43.794491,-79.235159
@@ -7619,7 +7616,7 @@
 9426,'1275','Martin Ross Ave @ Alness St',43.774135,-79.473691
 9427,'2176','Dundas St W @ Ossington Ave',43.64943,-79.42049
 9428,'1328','419 Midland Ave N',43.712292,-79.248584
-9429,'14248','Angus Gln Community Ctr Loop @ Major Mackenzie Dr E',43.893711,-79.337167
+9429,'14248','Angus Gln Community Ctr Loop @ Major Mackenzie Dr E',43.894614,-79.337402
 9431,'11455','Ferris Rd @ Ferris Cres',43.702995,-79.303436
 9432,'4958','Danforth Rd @ Midland Ave E',43.725151,-79.253659
 9433,'7730','Elmhurst Dr @ Hinton Rd',43.727442,-79.566076
