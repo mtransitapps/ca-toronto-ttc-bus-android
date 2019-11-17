@@ -1,15 +1,3 @@
-Title: Toronto TTC Bus - MonTransit
-----------
-Short description:
-Toronto TTC buses for MonTransit.
-Schedule. Real-Time. Service Alerts. News.
-----------
-What's new in this version?:
-Schedule from October 13, 2019 to November 23, 2019.
-News from www.ttc.ca.
-Tweets from @TTCnotices & @TTChelps.
-----------
-Full description:
 This app adds Toronto TTC buses information to MonTransit.
 
 This app provides the schedule (offline & real-time) as well as real time service alerts and news from www.ttc.ca, YouTube and @TTCnotices & @TTChelps on Twitter.
@@ -18,7 +6,7 @@ TTC buses serve Toronto in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -32,17 +20,3 @@ This app is not related with the Toronto Transit Commission and City of Toronto.
 
 Permissions:
 - Other: required for real-time schedule & service alerts from NextBus and to read news from www.ttc.ca, YouTube and Twitter
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-toronto-ttc-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:
