@@ -2221,11 +2221,11 @@
 3158,'8273','Steeles Ave W @ Walkway E Of Islington To Friuli Crt',43.765154,-79.571975
 3160,'6409','Grantbrook St @ Charlton Blvd',43.781315,-79.432972
 3161,'6386','Flemington Rd @ Replin Rd',43.719546,-79.442806
-3162,'3327','Belfield Rd @ C.N E Spur',43.701163,-79.578452
+3162,'3327','Belfield Rd @ CN E Spur',43.701163,-79.578452
 3165,'3221','Yonge St @ Dundas St E (Dundas Sta)',43.656196,-79.380763
 3167,'7916','Laurentide Dr @ Tetbury Cres',43.753215,-79.338987
 3168,'1008','Dupont St @ Emerson Ave',43.667119,-79.444266
-3169,'14278','Pearson Airport Terminal 3 (Arrivals Level Columns C8-C12)',43.686811,-79.620932
+3169,'14278','Pearson Airport Term 3 (Arrivals Level Columns C8-C12)',43.686811,-79.620932
 3170,'8217','Steeles Ave E @ Dumont St',43.798569,-79.417152
 3173,'13654','Markham Rd @ Bur Oak Ave',43.900455,-79.266217
 3174,'1003','Dupont St @ Dovercourt Rd',43.669781,-79.432577
@@ -2954,7 +2954,7 @@
 4096,'1946','Don Mills Rd @ Lawrence Ave E',43.736801,-79.34314
 4097,'3145','Trethewey Dr @ Jane St',43.697693,-79.502135
 4098,'6205','The Westway @ Wincott Dr E',43.687381,-79.549398
-4099,'1677','Yorkdale Rd @ GO Terminal (Yorkdale Sta)',43.72589,-79.448763
+4099,'1677','Yorkdale Rd @ GO Term (Yorkdale Sta)',43.72589,-79.448763
 4100,'8313','Steeles Ave W @ Turbine Dr',43.767809,-79.558204
 4101,'6341','Davean Dr @ Bannatyne Dr',43.760422,-79.368607
 4102,'2736','Jane St @ Harding Ave',43.699462,-79.50268
@@ -3340,7 +3340,7 @@
 4586,'3361','Brimley Rd @ Kingston Rd N',43.719185,-79.240657
 4587,'8335','Sweeney Dr @ Gretna Ave W',43.73542,-79.315687
 4588,'3169','The W Mall @ Sherway Dr (Trillium Health Ctr S Stop)',43.609417,-79.559813
-4589,'11928','Promenade Terminal @ Promenade Cir (Mall N Entrance)',43.809255,-79.454201
+4589,'11928','Promenade Term @ Promenade Cir (Mall N Entrance)',43.809255,-79.454201
 4590,'1980','Don Mills Rd @ York Mills Rd',43.756038,-79.347245
 4591,'11786','Parkside Dr @ The Queensway',43.639998,-79.454301
 4594,'13907','Oasis Blvd @ Seasons Dr',43.829031,-79.233701
@@ -3826,7 +3826,7 @@
 5194,'4425','Lawrence Ave E @ Valia Rd',43.771392,-79.172549
 5195,'18','Anglesey Blvd @ Wimbleton Rd E',43.664574,-79.52899
 5196,'3763','Islington Ave @ Barker Ave',43.731993,-79.563174
-5197,'3328','Belfield Rd @ C.N E Spur',43.701466,-79.577974
+5197,'3328','Belfield Rd @ CN E Spur',43.701466,-79.577974
 5198,'228','Bathurst St @ York Downs Dr',43.747362,-79.436588
 5199,'1843','375 Danforth Rd',43.704862,-79.269264
 5200,'7705','Ellesmere Rd @ Neilson Rd (Scarborough Centenary Hosp)',43.782805,-79.204762
@@ -4424,7 +4424,7 @@
 5937,'5238','Lawrence Ave E @ Brimley Rd W',43.753545,-79.255814
 5939,'3800','Islington Ave @ Great Oak Dr',43.660902,-79.530629
 5942,'7323','Sherbourne St @ King St E',43.651428,-79.368398
-5943,'243','Bay St @ Dundas St W (Toronto Coach Terminal)',43.65552,-79.383541
+5943,'243','Bay St @ Dundas St W (Toronto Coach Term)',43.65552,-79.383541
 5945,'4228','Kingston Rd @ Gln Everest Rd',43.697868,-79.25667
 5946,'7155','Sheppard Ave E @ Birchmount Rd',43.781231,-79.297891
 5949,'2453','Evans Ave @ Sheldon Ave',43.611297,-79.545875
@@ -5450,7 +5450,7 @@
 7218,'9146','4148 Jane St',43.75959,-79.518409
 7219,'5943','O''connor Dr @ Woodbine Ave W',43.699971,-79.319573
 7220,'4229','Kingston Rd @ Guildwood Pkwy E',43.74987,-79.205505
-7221,'14092','Pearson Airport Terminal 1 (Ground Level Column R4)',43.681739,-79.611041
+7221,'14092','Pearson Airport Term 1 (Ground Level Column R4)',43.681739,-79.611041
 7222,'9452','Cosburn Ave @ Linsmore Cres',43.692559,-79.334938
 7223,'314','Bayview Ave @ Ruddington Dr S',43.787767,-79.3928
 7224,'6901','1611 The Queensway',43.616891,-79.543869
@@ -5677,7 +5677,7 @@
 7502,'1495','Rathburn Rd @ Pheasant Ln',43.66157,-79.535378
 7503,'10840','Mcnicoll Ave @ Markham Rd',43.823774,-79.24824
 7504,'1057','Fleet St @ Fort York Blvd',43.636444,-79.406607
-7505,'242','Bay St @ Dundas St W (Toronto Coach Terminal)',43.655825,-79.383879
+7505,'242','Bay St @ Dundas St W (Toronto Coach Term)',43.655825,-79.383879
 7507,'4888','Church St @ Weston Rd',43.703403,-79.524943
 7508,'9786','Steeles Ave E @ Fenton Rd',43.827387,-79.291476
 7509,'6988','Royal York Rd @ Darlingbrook Cres S',43.670934,-79.521782
@@ -8519,10 +8519,10 @@
 15237,'15421','St Clair Ave W @ Jane St E',43.667174,-79.491124
 15240,'15424','Brimley Rd @ Eglinton Ave E',43.735946,-79.247582
 15244,'15386','Sheppard Ave W @ Abraham Welsh Rd E',43.7347,-79.533297
-15246,'15404','Humber College Bus Terminal',43.728797,-79.605346
-15247,'15406','Humber College Bus Terminal',43.728595,-79.6048
-15248,'15405','Humber College Bus Terminal',43.728683,-79.605058
-15249,'15403','Humber College Bus Terminal',43.728964,-79.604532
+15246,'15404','Humber College Bus Term',43.728797,-79.605346
+15247,'15406','Humber College Bus Term',43.728595,-79.6048
+15248,'15405','Humber College Bus Term',43.728683,-79.605058
+15249,'15403','Humber College Bus Term',43.728964,-79.604532
 15252,'15431','66 Keele St',43.656422,-79.460834
 15253,'15433','Sheppard Ave W @ Beecroft Rd',43.760839,-79.413489
 15254,'15434','Keele St @ Bloor St W (Keele Sta)',43.655485,-79.460098
@@ -8791,9 +8791,9 @@
 24282,'15881','Carlaw Ave @ Langley Ave S',43.669815,-79.343771
 24283,'15882','Martin Grv Rd @ Betteridge Ln',43.739129,-79.592965
 24284,'15883','Martin Grv Rd @ Betteridge Ln N',43.73921,-79.592753
-24285,'15884','Centennial College Bus Terminal',43.785751,-79.229132
-24286,'15885','Centennial College Bus Terminal',43.785894,-79.229231
-24287,'15886','Centennial College Bus Terminal',43.786091,-79.229355
+24285,'15884','Centennial College Bus Term',43.785751,-79.229132
+24286,'15885','Centennial College Bus Term',43.785894,-79.229231
+24287,'15886','Centennial College Bus Term',43.786091,-79.229355
 24290,'15889','University Ave @ College St',43.659611,-79.390466
 24291,'15890','Ossington Ave @ Argyle St N',43.647166,-79.419842
 24292,'15891','Woodbine Race Track Loop (Main Entrance)',43.715857,-79.605938
