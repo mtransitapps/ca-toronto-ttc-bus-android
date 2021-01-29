@@ -889,7 +889,7 @@
 1475,'2960','Morningside Ave @ Milner Ave',43.800408,-79.199317
 1476,'6798','Pritchard Ave @ Jane St E',43.66956,-79.492402
 1477,'282','Bayview Ave @ Byng Ave N',43.782213,-79.391381
-1478,'11516','Maple Leaf Dr @ Roadway To 290-300 Queens Dr Apartments',43.709687,-79.502436
+1478,'11516','Maple Leaf Dr @ Roadway To 290-300 Queens Dr Apts',43.709687,-79.502436
 1480,'2839','Bingham Loop',43.68146,-79.285
 1481,'6755','Pharmacy Ave @ Stellarton Rd',43.713755,-79.292742
 1483,'9650','Lawrence Ave E @ Mccowan Rd',43.755706,-79.245279
@@ -3219,7 +3219,7 @@
 4432,'641','Brimley Rd @ Deerfield Rd',43.745579,-79.252159
 4433,'5020','Dundas St W @ Old Dundas St',43.661755,-79.507295
 4434,'7386','Van Horne Ave @ Edmonton Dr',43.787002,-79.339917
-4436,'8527','Warden Ave @ Apartments (S Of Finch)',43.794578,-79.314803
+4436,'8527','Warden Ave @ Apts (S Of Finch)',43.794578,-79.314803
 4437,'244','Bay St @ Elm St',43.657136,-79.384178
 4441,'4538','830 Progress Ave',43.780718,-79.241341
 4442,'8653','Westhumber Blvd @ Delsing Dr E',43.726859,-79.582844
@@ -4717,7 +4717,7 @@
 6298,'9540','Berkeley St @ Front St E',43.650998,-79.363815
 6299,'1389','Neilson Rd @ Milner Ave N',43.795994,-79.216541
 6300,'304','Bayview Ave @ Hollywood Ave',43.770859,-79.389136
-6301,'11517','Maple Leaf Dr @ Opp Roadway To 290-300 Queens Dr Apartments',43.709813,-79.502456
+6301,'11517','Maple Leaf Dr @ Opp Roadway To 290-300 Queens Dr Apts',43.709813,-79.502456
 6302,'8582','Warden Ave @ Lawrence Ave E',43.74556,-79.29498
 6303,'5374','Lawrence Ave W @ Greer Rd',43.7236,-79.408916
 6304,'863','Cosburn Ave @ Todmorden Ln',43.689979,-79.345478
@@ -5258,7 +5258,7 @@
 6971,'7591','Carluke Cres @ Fifeshire Rd (W)',43.759914,-79.389549
 6972,'6451','Huntingwood Dr @ Kennedy Rd',43.795264,-79.293024
 6973,'5450','Leslie St @ Esther Shiner Blvd N York General Hosp',43.769218,-79.364041
-6974,'7977','Military Trl @ University Of Toronto Scarborough',43.785926,-79.186773
+6974,'7977','Military Trl @ U Of Toronto Scarborough',43.785926,-79.186773
 6975,'5704','Midland Ave @ Gilder Dr',43.735967,-79.258633
 6976,'3840','Islington Ave @ St Andrews Blvd',43.701229,-79.548498
 6979,'1271','Markland Dr @ Cherry Post Cres (N)',43.633138,-79.582671
@@ -6061,7 +6061,7 @@
 7968,'5673','Mccowan Rd @ Lawrence Ave E Scarborough General Hosp',43.755742,-79.245668
 7969,'11241','Morningview Trl @ Gennela Sq',43.814468,-79.202932
 7970,'2937','Morningside Ave @ Coronation Dr N',43.762152,-79.183604
-7971,'8528','Warden Ave @ Apartments (S Of Finch)',43.794836,-79.315109
+7971,'8528','Warden Ave @ Apts (S Of Finch)',43.794836,-79.315109
 7972,'8642','Wellesworth Dr @ Gentian Dr',43.665383,-79.581455
 7973,'197','Bathurst St @ Shelborne Ave',43.715842,-79.428833
 7974,'3930','Jane St @ Stanley Rd',43.743153,-79.514309
@@ -6337,7 +6337,7 @@
 8312,'2470','Faywood Blvd @ Goodwill Ave',43.737002,-79.447053
 8313,'9345','Steeles Ave E @ Mt Castle Gt',43.820394,-79.320622
 8314,'9458','Secord Ave @ Palmer Ave E',43.693011,-79.300461
-8315,'1595','Steeles Ave W @ Founders Rd (York University)',43.779428,-79.504234
+8315,'1595','Steeles Ave W @ Founders Rd (York U)',43.779428,-79.504234
 8318,'8879','1700 Wilson Ave (Sheridan Mall)',43.720552,-79.510931
 8319,'8380','Underhill Dr @ Cassandra Blvd (N) S',43.75243,-79.326374
 8320,'112','Bathurst St @ Covington Rd',43.721136,-79.430335
@@ -6534,7 +6534,7 @@
 8547,'1658','Wilson Ave @ Faywood Blvd E',43.734763,-79.445833
 8549,'8143','St Clair Ave E @ Marilyn Cres',43.705042,-79.3163
 8551,'1815','Cummer Ave @ Pineway Blvd',43.79885,-79.375798
-8552,'1594','Steeles Ave W @ Founders Rd E (York University)',43.779212,-79.503758
+8552,'1594','Steeles Ave W @ Founders Rd E (York U)',43.779212,-79.503758
 8553,'1517','Royal York Rd @ Lynngrove Ave',43.651466,-79.513239
 8554,'2621','Finch Ave W @ Norfinch Dr (Humber Reactivation Care)',43.756133,-79.524087
 8555,'7654','Dufferin St @ Martin Ross Ave',43.775081,-79.468294
@@ -8388,7 +8388,7 @@
 14758,'14507','270 Wilson Ave (No Frills)',43.737946,-79.433218
 14759,'15006','Mcnicoll Ave @ Silver Star Blvd',43.813689,-79.295226
 14760,'15007','Mcnicoll Ave @ Silver Star Blvd',43.81401,-79.294772
-14768,'11723','W Lodge Ave @ May Robinson Apartments',43.641943,-79.435951
+14768,'11723','W Lodge Ave @ May Robinson Apts',43.641943,-79.435951
 14769,'13479','St Joseph''s Health Ctr @ 30 The Queensway',43.639439,-79.450798
 14778,'15010','Birchmount Rd @ Parkette Pl',43.696184,-79.263708
 14779,'15011','3701 Danforth Ave (Variety Vlg)',43.698844,-79.25868
@@ -8422,8 +8422,8 @@
 14880,'15069','1103 Leslie St',43.720734,-79.349584
 14894,'15087','Queens Quay E @ Freeland St',43.642357,-79.373211
 14897,'15090','Dockside Dr @ Queens Quay E S',43.643828,-79.36754
-14921,'15114','University Of Toronto Scarborough',43.784533,-79.185478
-14923,'15116','University Of Toronto Scarborough',43.784391,-79.184989
+14921,'15114','U Of Toronto Scarborough',43.784533,-79.185478
+14923,'15116','U Of Toronto Scarborough',43.784391,-79.184989
 14927,'15096','Opp 3671 Dundas St W',43.665792,-79.49642
 14935,'15128','Dockside Dr @ Queens Quay E',43.644848,-79.365374
 14936,'15129','Queens Quay E @ Lower Jarvis St W',43.643833,-79.369494
