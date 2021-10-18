@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">1</integer>
+    <integer name="rss_db_version">2</integer>
     <string name="rss_authority">org.mtransit.android.ca_toronto_ttc_bus.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
@@ -8,6 +8,9 @@
     <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
         <item>https://www.ttc.ca/RSS/news.rss</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://www.ttc.ca/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>TTC (News)</item>
