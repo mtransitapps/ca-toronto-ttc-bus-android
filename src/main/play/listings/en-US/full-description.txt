@@ -1,6 +1,6 @@
 This app adds Toronto TTC buses information to MonTransit.
 
-This app provides the schedule (offline & real-time) as well as real time service alerts and news from www.ttc.ca and @TTCnotices & @TTChelps on Twitter.
+This app provides the schedule (offline & real-time) as well as real time service alerts and news from @TTCnotices & @TTChelps on Twitter.
 
 TTC buses serve Toronto in Ontario, Canada.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-toronto-ttc-bus-android
 This app is not related with the Toronto Transit Commission and City of Toronto.
 
 Permissions:
-- Other: required for real-time schedule & service alerts from NextBus and to read news from www.ttc.ca and Twitter
+- Other: required for real-time schedule & service alerts from NextBus and to read news from Twitter
