@@ -1,6 +1,8 @@
-'1',2403,45340,0,'A Steeles',6000,0,'A Steeles',1200,0,'A Steeles',900,0,'A Steeles',1000,0,'A Steeles'
-'2',2403,52440,0,'A Steeles',1000,0,'A Steeles',2000,0,'A Steeles'
-'3',2403,70100,0,'A Steeles',1000,0,'A Steeles',900,0,'A Steeles',1000,0,'A Steeles',900,0,'A Steeles',1000,0,'A Steeles',900,0,'A Steeles'
-'1',32403,264650,0,'Steeles',7000,0,'Steeles',3000,0,'Steeles',7000,0,'Steeles'
-'2',32403,44650,0,'Steeles',220000,0,'Steeles',7000,0,'Steeles',3000,0,'Steeles',7000,0,'Steeles'
-'3',32403,44650,0,'Steeles',7000,0,'Steeles',3000,0,'Steeles',7000,0,'Steeles',3000,0,'Steeles',200000,0,'Steeles',7000,0,'Steeles',3000,0,'Steeles',7000,0,'Steeles'
+'1',2403,45340,0,'A Steeles',1,6000,0,'A Steeles',1,1200,0,'A Steeles',1,900,0,'A Steeles',1,1000,0,'A Steeles',1
+'2',2403,52440,0,'A Steeles',1,1000,0,'A Steeles',1,2000,0,'A Steeles',1
+'3',2403,70100,0,'A Steeles',1,1000,0,'A Steeles',1,900,0,'A Steeles',1,1000,0,'A Steeles',1,900,0,'A Steeles',1,1000,0,'A Steeles',1,900,0,'A Steeles',1
+'4',2403,44340,0,'A Steeles',1,7000,0,'A Steeles',1,3000,0,'A Steeles',1
+'1',32403,264650,0,'Steeles',1,7000,0,'Steeles',1,3000,0,'Steeles',1,7000,0,'Steeles',1
+'2',32403,44650,0,'Steeles',1,220000,0,'Steeles',1,7000,0,'Steeles',1,3000,0,'Steeles',1,7000,0,'Steeles',1
+'3',32403,44650,0,'Steeles',1,7000,0,'Steeles',1,3000,0,'Steeles',1,7000,0,'Steeles',1,3000,0,'Steeles',1,200000,0,'Steeles',1,7000,0,'Steeles',1,3000,0,'Steeles',1,7000,0,'Steeles',1
+'4',32403,264650,0,'Steeles',1,7000,0,'Steeles',1,3000,0,'Steeles',1,7000,0,'Steeles',1
