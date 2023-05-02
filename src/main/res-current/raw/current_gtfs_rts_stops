@@ -802,7 +802,7 @@
 1381,'4733','Yonge St @ St Clair Ave E - St Clair Sta',43.687897,-79.393924,1
 1383,'3935','Jane St @ Weston Rd',43.69169,-79.501113,2
 1384,'4786','Ave Rd @ Lawrence Ave W',43.722064,-79.415331,1
-1386,'8415','Vaughan Rd @ Louise Ave',43.683816,-79.421055,1
+1386,'8415','Vaughan Rd @ Louise Ave',43.684178,-79.421198,1
 1387,'2376','Eglinton Ave W @ Little Blvd',43.693751,-79.458683,1
 1390,'8997','Yonge St @ Glengrove Ave E',43.719313,-79.400922,1
 1391,'11784','Parkside Dr @ High Pk Blvd',43.645008,-79.456353,1
@@ -5602,7 +5602,7 @@
 7533,'5206','1216 Lansdowne Ave',43.673282,-79.449421,2
 7534,'6549','Marlee Ave @ Ridelle Ave',43.70393,-79.441849,1
 7535,'13305','St Clair Ave W @ Runnymede Rd W',43.66887,-79.484326,1
-7536,'254','Bay St @ Harbour St S - Ferry Docks Term',43.641735,-79.377377,1
+7536,'254','Bay St @ Harbour St S - Jack Layton Ferry Term',43.641735,-79.377377,1
 7537,'7042','Royal York Rd @ York Vw Dr',43.630572,-79.504255,1
 7538,'3657','Glencairn Ave @ Glenmount Ave',43.711963,-79.430158,1
 7540,'7895','Opp 3400 Keele St',43.747916,-79.48704,1
@@ -6526,7 +6526,7 @@
 8685,'6647','Parliament St @ Shuter St',43.657021,-79.365124,1
 8687,'11926','Erindale Ave @ Broadview Ave E',43.67738,-79.358218,1
 8688,'2681','Guildwood Pkwy @ Livingston Rd',43.74735,-79.199399,1
-8689,'2567','Finch Ave E @ Walkway E Of Birchmount Rd',43.799488,-79.303501,2
+8689,'2567','Finch Ave E @ Walkway E Of Birchmount Rd',43.799572,-79.303073,2
 8690,'9323','Ray Ave @ Bartonville Ave E',43.689654,-79.493461,1
 8691,'936','Davenport Rd @ Oakwood Ave',43.67431,-79.433896,2
 8692,'1229','Lawrence Ave E @ Wanless Cres (E) W',43.727816,-79.389722,1
@@ -7791,7 +7791,7 @@
 10309,'9963','Lundy Ave @ Warren Cres N',43.662723,-79.502614,2
 10310,'4115','Kennedy Rd @ Radnor Ave',43.745861,-79.273417,2
 10313,'8737','Weston Rd @ Jubilee Cres',43.725848,-79.535589,2
-10314,'262','Bay St @ Queens Quay W N - Ferry Docks Term',43.641686,-79.377069,1
+10314,'262','Bay St @ Queens Quay W N - Jack Layton Ferry Term',43.641686,-79.377069,1
 10316,'9273','Drewry Ave @ Norwin St',43.784883,-79.427732,1
 10317,'8530','Warden Ave @ Ashtonbee Rd',43.730551,-79.288567,1
 10318,'3773','Islington Ave @ Chestnut Hls Cres',43.653052,-79.527003,1
@@ -7986,8 +7986,8 @@
 14151,'14629','Don Mills Sta',43.775755,-79.345605,1
 14152,'14630','Don Mills Sta',43.775711,-79.345959,1
 14153,'14631','Don Mills Sta',43.775638,-79.346345,1
-14154,'14632','Don Mills Sta',43.775993,-79.346972,1
-14155,'14633','Don Mills Sta',43.776222,-79.347048,1
+14154,'14632','Don Mills Sta',43.775898,-79.346949,1
+14155,'14633','Don Mills Sta',43.775988,-79.346987,1
 14156,'14634','Broadview Sta',43.67715,-79.357849,1
 14158,'14636','Broadview Sta',43.676887,-79.358245,1
 14159,'14637','Broadview Sta',43.676772,-79.358451,1
@@ -8757,7 +8757,7 @@
 24524,'16286','Bartor Rd @ 2233 Sheppard Ave W',43.731343,-79.526097,1
 24561,'16280','326 Humber College Blvd',43.736751,-79.610184,1
 24562,'16284','Princes'' Blvd @ Ontario Dr',43.632147,-79.419285,1
-24563,'16285','Nova Scotia Ave @ Manitoba Dr',43.635203,-79.41849,1
+24563,'16285','Nova Scotia Ave @ Manitoba Dr - Exhibition GO Sta',43.635203,-79.41849,1
 24564,'16287','Midland Ave @ Finch Corridor Trl S',43.812339,-79.291329,1
 24565,'16288','Midland Ave @ Finch Corridor Trl',43.812554,-79.291229,1
 24566,'16325','Cummer Ave @ Snowcrest Ave (W)',43.793775,-79.387673,1
