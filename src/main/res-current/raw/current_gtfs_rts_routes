@@ -1,192 +1,193 @@
-7,'7','Bathurst','',51617845,3
-8,'8','Broadview','',51617878,3
-9,'9','Bellamy','',51617931,3
-10,'10','Van Horne','',51616079,3
-11,'11','Bayview','',51616110,3
-12,'12','Kingston Road','',51616140,3
-13,'13','Avenue Road','',51616172,3
-14,'14','Glencairn','',51616851,3
-15,'15','Evans','',51616852,3
-16,'16','McCowan','',51616853,3
-17,'17','Birchmount','',51616882,3
-19,'19','Bay','',51616886,3
-20,'20','Cliffside','',51616908,3
-21,'21','Brimley','',51616912,3
-22,'22','Coxwell','',51616913,3
-23,'23','Dawes','',51616914,3
-24,'24','Victoria Park','',51616915,3
-25,'25','Don Mills','',51616916,3
-26,'26','Dupont','',51616917,3
-28,'28','Bayview South','',51616939,3
-29,'29','Dufferin','',51616940,3
-30,'30','High Park','',51616941,3
-31,'31','Greenwood','',51616948,3
-32,'32','Eglinton West','',51616973,3
-33,'33','Forest Hill','',51616979,3
-34,'34','Eglinton East','',51617007,3
-35,'35','Jane','',51617010,3
-36,'36','Finch West','',51617035,3
-37,'37','Islington','',51617038,3
-38,'38','Highland Creek','',51617039,3
-39,'39','Finch East','',51617063,3
-40,'40','Junction-Dundas West','',51617066,3
-41,'41','Keele','',51617072,3
-42,'42','Cummer','',51617094,3
-43,'43','Kennedy','',51617095,3
-44,'44','Kipling South','',51617096,3
-45,'45','Kipling','',51617097,3
-46,'46','Martin Grove','',51617098,3
-47,'47','Lansdowne','',51617099,3
-48,'48','Rathburn','',51617100,3
-49,'49','Bloor West','',51617101,3
-50,'50','Burnhamthorpe','',51617102,3
-51,'51','Leslie','',51617130,3
-52,'52','Lawrence West','',51617134,3
-53,'53','Steeles East','',51617807,3
-54,'54','Lawrence East','',51617808,3
-55,'55','Warren Park','',51617809,3
-56,'56','Leaside','',51617810,3
-57,'57','Midland','',51617811,3
-59,'59','Maple Leaf','',51617812,3
-60,'60','Steeles West','',51617813,3
-61,'61','Avenue Road North','',51617815,3
-62,'62','Mortimer','',51617816,3
-63,'63','Ossington','',51617838,3
-64,'64','Main','',51617839,3
-65,'65','Parliament','',51617840,3
-66,'66','Prince Edward','',51617841,3
-67,'67','Pharmacy','',51617842,3
-68,'68','Warden','',51617843,3
-69,'69','Warden South','',51617844,3
-70,'70','O''connor','',51617846,3
-71,'71','Runnymede','',51617869,3
-72,'72','Pape','',51617870,3
-73,'73','Royal York','',51617871,3
-74,'74','Mount Pleasant','',51617872,3
-75,'75','Sherbourne','',51617873,3
-76,'76','Royal York South','',51617874,3
-77,'77','Swansea','',51617875,3
-78,'78','St Andrews','',51617876,3
-79,'79','Scarlett Rd','',51617877,3
-80,'80','Queensway','',51617900,3
-81,'81','Thorncliffe Park','',51617901,3
-82,'82','Rosedale','',51617902,3
-83,'83','Jones','',51617903,3
-84,'84','Sheppard West','',51617904,3
-85,'85','Sheppard East','',51617905,3
-86,'86','Scarborough','',51617906,3
-87,'87','Cosburn','',51617907,3
-88,'88','South Leaside','',51617908,3
-89,'89','Weston','',51617909,3
-90,'90','Vaughan','',51617932,3
-91,'91','Woodbine','',51617936,3
-92,'92','Woodbine South','',51617938,3
-93,'93','Parkview Hills','',51617964,3
-94,'94','Wellesley','',51617969,3
-95,'95','York Mills','',51617995,3
-96,'96','Wilson','',51617999,3
-97,'97','Yonge','',51618002,3
-98,'98','Willowdale-Senlac','',51618024,3
-99,'99','Arrow Road','',51618029,3
-100,'100','Flemingdon Park','',51616080,3
-101,'101','Downsview Park','',51616102,3
-102,'102','Markham Rd','',51616103,3
-104,'104','Faywood','',51616104,3
-105,'105','Dufferin North','',51616105,3
-106,'106','Sentinel','',51616106,3
-107,'107','York University Heights','',51616107,3
-108,'108','Driftwood','',51616108,3
-109,'109','Ranee','',51616109,3
-110,'110','Islington South','',51616111,3
-111,'111','East Mall','',51616133,3
-112,'112','West Mall','',51616134,3
-113,'113','Danforth Road','',51616135,3
-115,'115','Silver Hills','',51616136,3
-116,'116','Morningside','',51616137,3
-118,'118','Thistle Down','',51616138,3
-119,'119','Torbarrie','',51616139,3
-120,'120','Calvington','',51616141,3
-121,'121','Esplanade-River','',51616142,3
-122,'122','Graydon Hall','',51616164,3
-123,'123','Sherway','',51616165,3
-124,'124','Sunnybrook','',51616166,3
-125,'125','Drewry','',51616167,3
-126,'126','Christie','',51616168,3
-127,'127','Davenport','',51616169,3
-128,'128','Stanley Greene','',51616170,3
-129,'129','McCowan North','',51616171,3
-130,'130','Middlefield','',51616173,3
-131,'131','Nugget','',51616846,3
-132,'132','Milner','',51616847,3
-133,'133','Neilson','',51616848,3
-134,'134','Progress','',51616849,3
-135,'135','Gerrard','',51616850,3
-160,'160','Bathurst North','',51616854,3
-161,'161','Rogers Road','',51616855,3
-162,'162','Lawrence-Donway','',51616877,3
-165,'165','Weston Rd North','',51616878,3
-167,'167','Pharmacy North','',51616879,3
-168,'168','Symington','',51616880,3
-169,'169','Huntingwood','',51616881,3
-171,'171','Mount Dennis','',51616883,3
-176,'176','Mimico Go','',51616884,3
-189,'189','Stockyards','',51616885,3
-200,'200','Toronto Zoo','FF80C0',51616909,3
-201,'201','Bluffer''s Park','FF80C0',51616910,3
-202,'202','Cherry Beach','FF80C0',51616911,3
-300,'300','Bloor-Danforth Night Bus','0756A5',51616942,3
-302,'302','Kingston Rd-McCowan Night Bus','0756A5',51616944,3
-307,'307','Bathurst Night Bus','0756A5',51616947,3
-312,'312','St.Clair-Junction Night Bus','0756A5',51616971,3
-315,'315','Evans - Brown''s Line Night Bus','0756A5',51616972,3
-320,'320','Yonge Night Bus','0756A5',51616974,3
-322,'322','Coxwell Night Bus','0756A5',51616975,3
-324,'324','Victoria Park Night Bus','0756A5',51616976,3
-325,'325','Don Mills Night Bus','0756A5',51616977,3
-329,'329','Dufferin Night Bus','0756A5',51616978,3
-332,'332','Eglinton West Night Bus','0756A5',51617001,3
-334,'334','Eglinton East Night Bus','0756A5',51617002,3
-335,'335','Jane Night Bus','0756A5',51617003,3
-336,'336','Finch West Night Bus','0756A5',51617004,3
-337,'337','Islington Night Bus','0756A5',51617005,3
-339,'339','Finch East Night Bus','0756A5',51617006,3
-341,'341','Keele Night Bus','0756A5',51617008,3
-343,'343','Kennedy Night Bus','0756A5',51617009,3
-352,'352','Lawrence West Night Bus','0756A5',51617032,3
-353,'353','Steeles Night Bus','0756A5',51617033,3
-354,'354','Lawrence East Night Bus','0756A5',51617034,3
-363,'363','Ossington Night Bus','0756A5',51617036,3
-365,'365','Parliament Night Bus','0756A5',51617037,3
-384,'384','Sheppard West Night Bus','0756A5',51617040,3
-385,'385','Sheppard East Night Bus','0756A5',51617041,3
-395,'395','York Mills Night Bus','0756A5',51617064,3
-396,'396','Wilson Night Bus','0756A5',51617065,3
-400,'400','Lawrence Manor','808080',51617067,3
-402,'402','Parkdale','808080',51617068,3
-403,'403','Don Mills South','808080',51617069,3
-404,'404','East York','808080',51617070,3
-405,'405','Etobicoke','808080',51617071,3
-900,'900','Airport Express','00A651',51617933,3
-902,'902','Markham Rd Express','00A651',51617934,3
-905,'905','Eglinton East Express','00A651',51617935,3
-924,'924','Victoria Park Express','00A651',51617939,3
-925,'925','Don Mills Express','00A651',51617940,3
-927,'927','Highway 27 Express','00A651',51617962,3
-929,'929','Dufferin Express','00A651',51617963,3
-935,'935','Jane Express','00A651',51617965,3
-937,'937','Islington Express','00A651',51617966,3
-939,'939','Finch Express','00A651',51617968,3
-941,'941','Keele Express','00A651',51617970,3
-944,'944','Kipling South Express','00A651',51617993,3
-945,'945','Kipling Express','00A651',51617994,3
-952,'952','Lawrence West Express','00A651',51617996,3
-953,'953','Steeles East Express','00A651',51617997,3
-954,'954','Lawrence East Express','00A651',51617998,3
-960,'960','Steeles West Express','00A651',51618000,3
-968,'968','Warden Express','00A651',51618001,3
-984,'984','Sheppard West Express','00A651',51618025,3
-985,'985','Sheppard East Express','00A651',51618026,3
-986,'986','Scarborough Express','00A651',51618027,3
-989,'989','Weston Express','00A651',51618028,3
-995,'995','York Mills Express','00A651',51618030,3
-996,'996','Wilson Express','00A651',51618031,3
+7,'7','Bathurst','',52276377,3
+8,'8','Broadview','',52277062,3
+9,'9','Bellamy','',52277115,3
+10,'10','Van Horne','',52275261,3
+11,'11','Bayview','',52275292,3
+12,'12','Kingston Road','',52275322,3
+13,'13','Avenue Road','',52275354,3
+14,'14','Glencairn','',52275382,3
+15,'15','Evans','',52275383,3
+16,'16','McCowan','',52275384,3
+17,'17','Birchmount','',52275413,3
+19,'19','Bay','',52275418,3
+20,'20','Cliffside','',52275419,3
+21,'21','Brimley','',52276092,3
+22,'22','Coxwell','',52276093,3
+23,'23','Dawes','',52276094,3
+24,'24','Victoria Park','',52276095,3
+25,'25','Don Mills','',52276096,3
+26,'26','Dupont','',52276097,3
+28,'28','Bayview South','',52276098,3
+29,'29','Dufferin','',52276099,3
+30,'30','High Park North','',52276100,3
+31,'31','Greenwood','',52276128,3
+32,'32','Eglinton West','',52276132,3
+33,'33','Forest Hill','',52276159,3
+34,'34','Eglinton East','',52276187,3
+35,'35','Jane','',52276190,3
+36,'36','Finch West','',52276194,3
+37,'37','Islington','',52276218,3
+38,'38','Highland Creek','',52276219,3
+39,'39','Finch East','',52276222,3
+40,'40','Junction-Dundas West','',52276225,3
+41,'41','Keele','',52276252,3
+42,'42','Cummer','',52276253,3
+43,'43','Kennedy','',52276254,3
+44,'44','Kipling South','',52276255,3
+45,'45','Kipling','',52276256,3
+46,'46','Martin Grove','',52276278,3
+47,'47','Lansdowne','',52276279,3
+48,'48','Rathburn','',52276280,3
+49,'49','Bloor West','',52276281,3
+50,'50','Burnhamthorpe','',52276282,3
+51,'51','Leslie','',52276312,3
+52,'52','Lawrence West','',52276317,3
+53,'53','Steeles East','',52276318,3
+54,'54','Lawrence East','',52276340,3
+55,'55','Warren Park','',52276341,3
+56,'56','Leaside','',52276342,3
+57,'57','Midland','',52276343,3
+59,'59','Maple Leaf','',52276344,3
+60,'60','Steeles West','',52276345,3
+61,'61','Avenue Road North','',52276347,3
+62,'62','Mortimer','',52276348,3
+63,'63','Ossington','',52276349,3
+64,'64','Main','',52276371,3
+65,'65','Parliament','',52276372,3
+66,'66','Prince Edward','',52276373,3
+67,'67','Pharmacy','',52276374,3
+68,'68','Warden','',52276375,3
+69,'69','Warden South','',52276376,3
+70,'70','O''connor','',52276378,3
+71,'71','Runnymede','',52277053,3
+72,'72','Pape','',52277054,3
+73,'73','Royal York','',52277055,3
+74,'74','Mount Pleasant','',52277056,3
+75,'75','Sherbourne','',52277057,3
+76,'76','Royal York South','',52277058,3
+77,'77','Swansea','',52277059,3
+78,'78','St Andrews','',52277060,3
+79,'79','Scarlett Rd','',52277061,3
+80,'80','Queensway','',52277084,3
+81,'81','Thorncliffe Park','',52277085,3
+82,'82','Rosedale','',52277086,3
+83,'83','Jones','',52277087,3
+84,'84','Sheppard West','',52277088,3
+85,'85','Sheppard East','',52277089,3
+86,'86','Scarborough','',52277090,3
+87,'87','Cosburn','',52277091,3
+88,'88','South Leaside','',52277092,3
+89,'89','Weston','',52277093,3
+90,'90','Vaughan','',52277116,3
+91,'91','Woodbine','',52277121,3
+92,'92','Woodbine South','',52277123,3
+93,'93','Parkview Hills','',52277149,3
+94,'94','Wellesley','',52277154,3
+95,'95','York Mills','',52277180,3
+96,'96','Wilson','',52277184,3
+97,'97','Yonge','',52277208,3
+98,'98','Willowdale-Senlac','',52277209,3
+99,'99','Arrow Road','',52277214,3
+100,'100','Flemingdon Park','',52275262,3
+101,'101','Downsview Park','',52275263,3
+102,'102','Markham Rd','',52275264,3
+104,'104','Faywood','',52275286,3
+105,'105','Dufferin North','',52275287,3
+106,'106','Sentinel','',52275288,3
+107,'107','York University Heights','',52275289,3
+108,'108','Driftwood','',52275290,3
+109,'109','Ranee','',52275291,3
+110,'110','Islington South','',52275293,3
+111,'111','East Mall','',52275294,3
+112,'112','West Mall','',52275295,3
+113,'113','Danforth Road','',52275317,3
+115,'115','Silver Hills','',52275318,3
+116,'116','Morningside','',52275319,3
+118,'118','Thistle Down','',52275320,3
+119,'119','Torbarrie','',52275321,3
+120,'120','Calvington','',52275323,3
+121,'121','Esplanade-River','',52275324,3
+122,'122','Graydon Hall','',52275325,3
+123,'123','Sherway','',52275326,3
+124,'124','Sunnybrook','',52275348,3
+125,'125','Drewry','',52275349,3
+126,'126','Christie','',52275350,3
+127,'127','Davenport','',52275351,3
+128,'128','Stanley Greene','',52275352,3
+129,'129','McCowan North','',52275353,3
+130,'130','Middlefield','',52275355,3
+131,'131','Nugget','',52275356,3
+132,'132','Milner','',52275357,3
+133,'133','Neilson','',52275379,3
+134,'134','Progress','',52275380,3
+135,'135','Gerrard','',52275381,3
+160,'160','Bathurst North','',52275385,3
+161,'161','Rogers Road','',52275386,3
+162,'162','Lawrence-Donway','',52275387,3
+165,'165','Weston Rd North','',52275388,3
+167,'167','Pharmacy North','',52275410,3
+168,'168','Symington','',52275411,3
+169,'169','Huntingwood','',52275412,3
+171,'171','Mount Dennis','',52275414,3
+176,'176','Mimico Go','',52275415,3
+184,'184','Ancaster Park','',52275416,3
+189,'189','Stockyards','',52275417,3
+300,'300','Bloor-Danforth Night Bus','0756A5',52276101,3
+302,'302','Kingston Rd-McCowan Night Bus','0756A5',52276124,3
+307,'307','Bathurst Night Bus','0756A5',52276127,3
+312,'312','St.Clair-Junction Night Bus','0756A5',52276130,3
+315,'315','Evans - Brown''s Line Night Bus','0756A5',52276131,3
+320,'320','Yonge Night Bus','0756A5',52276154,3
+322,'322','Coxwell Night Bus','0756A5',52276155,3
+324,'324','Victoria Park Night Bus','0756A5',52276156,3
+325,'325','Don Mills Night Bus','0756A5',52276157,3
+329,'329','Dufferin Night Bus','0756A5',52276158,3
+332,'332','Eglinton West Night Bus','0756A5',52276160,3
+334,'334','Eglinton East Night Bus','0756A5',52276161,3
+335,'335','Jane Night Bus','0756A5',52276162,3
+336,'336','Finch West Night Bus','0756A5',52276163,3
+337,'337','Islington Night Bus','0756A5',52276185,3
+339,'339','Finch East Night Bus','0756A5',52276186,3
+341,'341','Keele Night Bus','0756A5',52276188,3
+343,'343','Kennedy Night Bus','0756A5',52276189,3
+352,'352','Lawrence West Night Bus','0756A5',52276191,3
+353,'353','Steeles Night Bus','0756A5',52276192,3
+354,'354','Lawrence East Night Bus','0756A5',52276193,3
+363,'363','Ossington Night Bus','0756A5',52276216,3
+365,'365','Parliament Night Bus','0756A5',52276217,3
+384,'384','Sheppard West Night Bus','0756A5',52276220,3
+385,'385','Sheppard East Night Bus','0756A5',52276221,3
+395,'395','York Mills Night Bus','0756A5',52276223,3
+396,'396','Wilson Night Bus','0756A5',52276224,3
+400,'400','Lawrence Manor','808080',52276247,3
+402,'402','Parkdale','808080',52276248,3
+403,'403','Don Mills South','808080',52276249,3
+404,'404','East York','808080',52276250,3
+405,'405','Etobicoke','808080',52276251,3
+507,'507','Long Branch','',52276309,3
+900,'900','Airport Express','00A651',52277117,3
+902,'902','Markham Rd Express','00A651',52277118,3
+903,'903','Kennedy-Scarborough Centre Express','00A651',52277119,3
+905,'905','Eglinton East Express','00A651',52277120,3
+924,'924','Victoria Park Express','00A651',52277124,3
+925,'925','Don Mills Express','00A651',52277146,3
+927,'927','Highway 27 Express','00A651',52277147,3
+929,'929','Dufferin Express','00A651',52277148,3
+935,'935','Jane Express','00A651',52277150,3
+937,'937','Islington Express','00A651',52277151,3
+938,'938','Highland Creek Express','00A651',52277152,3
+939,'939','Finch Express','00A651',52277153,3
+941,'941','Keele Express','00A651',52277155,3
+944,'944','Kipling South Express','00A651',52277178,3
+945,'945','Kipling Express','00A651',52277179,3
+952,'952','Lawrence West Express','00A651',52277181,3
+953,'953','Steeles East Express','00A651',52277182,3
+954,'954','Lawrence East Express','00A651',52277183,3
+960,'960','Steeles West Express','00A651',52277185,3
+968,'968','Warden Express','00A651',52277186,3
+984,'984','Sheppard West Express','00A651',52277210,3
+985,'985','Sheppard East Express','00A651',52277211,3
+986,'986','Scarborough Express','00A651',52277212,3
+989,'989','Weston Express','00A651',52277213,3
+995,'995','York Mills Express','00A651',52277215,3
+996,'996','Wilson Express','00A651',52277216,3
