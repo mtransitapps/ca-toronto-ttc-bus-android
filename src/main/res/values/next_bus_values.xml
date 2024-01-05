@@ -2,14 +2,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <integer name="next_bus_db_version">2</integer>
     <string name="next_bus_agency_tag">ttc</string>
-    <string name="next_bus_authority">org.mtransit.android.ca_toronto_ttc_bus.nextbus</string>
     <string name="next_bus_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="next_bus_use_stop_code_as_stop_id">true</bool>
     <bool name="next_bus_use_stop_id_as_stop_tag">true</bool>
     <string name="next_bus_messages_text_language_code">en</string>
     <string name="next_bus_messages_text_secondary_language_code">fr</string>
-    <string name="next_bus_messages_text_bold_words">(no service|delay)</string>
-    <string name="next_bus_messages_text_secondary_bold_words">(pas de service|retard|non desservi[s]?)</string>
+    <string name="next_bus_messages_text_bold_words">(no service)</string>
+    <string name="next_bus_messages_text_secondary_bold_words">(pas de service)</string>
     <bool name="next_bus_route_tag_append_headsign_value">false</bool>
     <string-array name="next_bus_route_tag_headsign_values_replace_from" />
     <string-array name="next_bus_route_tag_headsign_values_replace_to" />
@@ -17,8 +16,8 @@
     <string-array name="next_bus_stop_tag_clean_replacement" />
     <bool name="next_bus_schedule_head_sign_clean_street_types">true</bool>
     <bool name="next_bus_schedule_head_sign_clean_street_types_fr_ca">false</bool>
-    <string-array name="next_bus_schedule_head_sign_clean_regex"></string-array>
-    <string-array name="next_bus_schedule_head_sign_clean_replacement"></string-array>
+    <string-array name="next_bus_schedule_head_sign_clean_regex" />
+    <string-array name="next_bus_schedule_head_sign_clean_replacement" />
     <integer name="next_bus_schedule_head_sign_use_predictions_route_title">0</integer> <!-- FALSE -->
     <string-array name="next_bus_schedule_head_sign_predictions_route_title_regex" />
     <string-array name="next_bus_schedule_head_sign_predictions_route_title_replacement" />
