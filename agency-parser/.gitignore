@@ -36,4 +36,5 @@ hs_err_pid*
 /lookup_trips.sh
 /parse_current.sh
 /parse_next.sh
+/reset_schedule_changes.sh
 /unzip_gtfs.sh
