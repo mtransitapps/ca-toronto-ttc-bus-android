@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <integer name="gtfs_real_time_db_version">2</integer>
+    <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
+    <!-- JSON: https://bustime.ttc.ca/gtfsrt/alerts?debug -->
+    <string name="gtfs_real_time_agency_service_alerts_url">https://bustime.ttc.ca/gtfsrt/alerts</string>
+    <string name="gtfs_real_time_agency_id">1</string>
+    <string name="gtfs_real_time_agency_bold_words" />
+    <string-array name="gtfs_real_time_agency_extra_languages" />
+    <string-array name="gtfs_real_time_agency_extra_bold_words" />
+    <string name="gtfs_real_time_agency_time_regex" />
+    <string name="gtfs_real_time_agency_time_hour_format" />
+    <string name="gtfs_real_time_agency_time_minute_format" />
+    <string name="gtfs_real_time_agency_time_ampm_format" />
+    <string name="gtfs_real_time_agency_time_zone">@string/gtfs_rts_timezone</string>
+</resources>
