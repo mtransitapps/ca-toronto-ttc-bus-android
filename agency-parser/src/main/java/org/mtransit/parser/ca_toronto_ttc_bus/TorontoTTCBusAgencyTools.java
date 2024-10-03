@@ -34,7 +34,9 @@ import java.util.regex.Pattern;
 
 // https://open.toronto.ca/dataset/ttc-routes-and-schedules/ # ALL (including SUBWAY)
 // https://open.toronto.ca/dataset/surface-routes-and-schedules-for-bustime/ BUS & STREETCAR
+// http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/SurfaceGTFS.zip
 // OLD: http://opendata.toronto.ca/TTC/routes/OpenData_TTC_Schedules.zip
+// OLD: http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip
 public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
