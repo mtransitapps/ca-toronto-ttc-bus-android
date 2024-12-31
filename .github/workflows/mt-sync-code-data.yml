@@ -38,7 +38,8 @@ env:
 jobs:
   MT-SYNC-CODE-DATA-JOB:
     name: "MT Sync Code & Data"
-    timeout-minutes: 45
+    # timeout-minutes: 45
+    timeout-minutes: 90
     runs-on: ubuntu-latest
     steps:
       - name: MT check out main repository code (no submodules)
@@ -117,10 +118,10 @@ jobs:
         timeout-minutes: 10
         run: ./download_and_prepare.sh
       - name: MT parse current
-        timeout-minutes: 20
+        timeout-minutes: 40
         run: ./parse_current.sh
       - name: MT parse next
-        timeout-minutes: 20
+        timeout-minutes: 40
         run: ./parse_next.sh
       - name: MT parse list change
         run: ./parse_list_change.sh
