@@ -217,6 +217,11 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 				return "West";
 			}
 			break;
+		case "900":
+			if (directionId == 1 && dirLC.equalsIgnoreCase("South")) {
+				return "North"; // 2024-12-31: SOUTH for both directions
+			}
+			break;
 		case "952":
 			if (directionId == 1 && dirLC.equalsIgnoreCase("East")) {
 				return "West";
