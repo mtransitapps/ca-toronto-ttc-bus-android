@@ -28,8 +28,10 @@ import org.mtransit.parser.mt.data.MAgency;
 import org.mtransit.parser.mt.data.MTrip;
 
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 // https://open.toronto.ca/dataset/ttc-routes-and-schedules/ # ALL (including SUBWAY)
@@ -269,16 +271,24 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabel(tripHeadsign);
 	}
 
+	private static final Map<String, Pattern> rlnCleaners = new HashMap<>();
+
+	@NotNull
 	private static Pattern makeRSN_RLN_(
 			@SuppressWarnings("unused") @NotNull String rsn, // any RSN?
 			@NotNull String rln) {
-		return Pattern.compile(
-				"(" +
-						"(\\d+(/\\d+)?)" + // 000(/000?)
-						"([a-z] )?" + // A (from 000A)
-						"(\\s*(" + rln + ")\\s*)?" +
-						")",
-				Pattern.CASE_INSENSITIVE);
+		Pattern pattern = rlnCleaners.get(rln);
+		if (pattern == null) {
+			pattern = Pattern.compile(
+					"(" +
+							"(\\d+(/\\d+)?)" + // 000(/000?)
+							"([a-z] )?" + // A (from 000A)
+							"(\\s*(" + rln + ")\\s*)?" +
+							")",
+					Pattern.CASE_INSENSITIVE);
+			rlnCleaners.put(rln, pattern);
+		}
+		return pattern;
 	}
 
 	private static final String RSN_RLN_REPLACEMENT = "$4";
