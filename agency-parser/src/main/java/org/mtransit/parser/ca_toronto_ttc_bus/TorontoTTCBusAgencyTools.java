@@ -210,6 +210,13 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 				return "East";
 			}
 			break;
+		case "300": // 2025-02-11
+			if (directionId == 1 && dirLC.equalsIgnoreCase("East")) {
+				return "West";
+			} else if (directionId == 0 && dirLC.equalsIgnoreCase("West")) {
+				return "East";
+			}
+			break;
 		case "332":
 			if (directionId == 1 && dirLC.equalsIgnoreCase("East")) {
 				return "West";
