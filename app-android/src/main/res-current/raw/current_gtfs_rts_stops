@@ -21,7 +21,7 @@
 23,'3022','Post Rd @ Bayview Ave E',43.73637,-79.38134,2,1601
 25,'11045','Albion Rd @ Finch Ave W',43.74121,-79.58882,1,1603
 26,'10239','Middlefield Rd @ Passmore Ave',43.82701,-79.26480,1,1604
-28,'02284','Eglinton Ave E @ Laird Dr E',43.71368,-79.36376,1,1606
+28,'2284','Eglinton Ave E @ Laird Dr E',43.71368,-79.36376,1,1606
 29,'2829','Lesmill Rd @ Valleybrook Dr W',43.75779,-79.35548,1,1607
 30,'6445','Huntingwood Dr @ Garrybrook Dr',43.78918,-79.30715,1,1629
 31,'3471','Davenport Rd @ Osler St',43.67038,-79.45917,1,1630
@@ -87,7 +87,6 @@
 107,'1495','Rathburn Rd @ Pheasant Ln',43.66157,-79.53538,1,48632
 110,'242','Bay St @ Dundas St W',43.65583,-79.38388,1,48656
 112,'4888','Church St @ Weston Rd',43.70340,-79.52494,1,48658
-113,'9786','Steeles Ave E @ Fenton Rd',43.82739,-79.29148,1,48659
 114,'6988','Royal York Rd @ Darlingbrook Cres S',43.67093,-79.52178,2,48660
 115,'9206','Heathrow Dr @ Chesham Dr',43.72671,-79.50501,1,48661
 116,'3708','Horner Ave @ Alderbrae Ave',43.60283,-79.54064,1,48662
@@ -170,7 +169,6 @@
 202,'6633','Parliament St @ Bloor St E',43.67158,-79.37081,1,49588
 203,'3668','Greenwood Ave @ Athletic Ave',43.66934,-79.32725,1,49589
 204,'3740','Hullmar Dr @ Monaco Crt',43.76526,-79.52791,1,49590
-205,'9785','Steeles Ave E @ Walkway To Hornchurch Cres',43.82802,-79.28889,2,49591
 207,'7251','Sheppard Ave E @ Victoria Pk Ave',43.77546,-79.32273,1,49593
 208,'3246','Yonge St @ Wellesley St W - Wellesley Sta',43.66503,-79.38470,1,49594
 209,'7426','Victoria Pk Ave @ Sheppard Ave E',43.77551,-79.32332,1,49595
@@ -294,7 +292,6 @@
 343,'45','Ave Rd @ Balmoral Ave N',43.68471,-79.40053,1,50674
 344,'6133','St Clair Ave E @ Westview Blvd',43.70613,-79.31007,2,50675
 345,'6057','2002-2012 Sheppard Ave W',43.73871,-79.51671,1,50676
-346,'11292','Finch Ave W @ Hwy 27',43.73388,-79.60387,1,50677
 347,'4382','Kipling Ave @ Tyre Ave',43.64501,-79.53657,2,50678
 348,'5569','Markham Rd @ Lawrence Ave E',43.75968,-79.22507,1,50679
 350,'5478','Leslie St @ Southwell Dr N',43.74626,-79.35838,2,50702
@@ -493,7 +490,6 @@
 573,'8117','Spadina Rd @ Bernard Ave S',43.67180,-79.40598,1,52689
 575,'9151','Keele St @ Grandravine Dr',43.75193,-79.48798,1,52691
 576,'8358','35 Thorncliffe Pk Dr',43.70191,-79.34438,1,52692
-577,'4722','Wynford Dr @ Eglinton Ave E',43.72476,-79.32573,1,52693
 578,'4491','Milvan Dr @ Penn Dr (S)',43.75159,-79.55310,1,52694
 580,'5745','Midland Ave @ Stubbswood Sq',43.79483,-79.28237,2,52717
 581,'9287','Drewry Ave @ Grantbrook St',43.78339,-79.43387,1,52718
@@ -853,7 +849,6 @@
 1005,'5603','Opp 1915 Martin Grv Rd',43.74605,-79.59636,1,1507428
 1006,'9296','International Blvd @ Galaxy Blvd',43.67807,-79.58570,1,1507429
 1007,'11526','Royalcrest Rd @ Martin Grv Rd',43.75215,-79.59964,1,1507430
-1008,'7573','Opp 385-387 Carlingview Dr',43.69598,-79.59983,1,1507431
 1009,'1762','Broadview Ave @ Millbrook Cres',43.67214,-79.35517,2,1507432
 1011,'10995','Southport St @ Windermere Pl',43.63819,-79.47229,1,1507455
 1012,'2006','Driftwood Ave @ Stong Crt',43.76208,-79.51697,1,1507456
@@ -1546,7 +1541,6 @@
 1832,'5826','Mt Pleasant Rd @ Lawrence Ave E N',43.72675,-79.39643,1,1515206
 1834,'8909','Woodbine Ave @ Cassels Ave S',43.67865,-79.30996,2,1515208
 1835,'7616','Clayson Rd @ Bartor Rd',43.72861,-79.52582,1,1515209
-1836,'1275','Martin Ross Ave @ Alness St',43.77414,-79.47369,1,1515210
 1838,'1328','419 Midland Ave N',43.71229,-79.24858,1,1515212
 1839,'14248','Angus Gln CC Loop @ Major Mackenzie Dr E',43.89461,-79.33740,2,1515213
 1841,'11455','Ferris Rd @ Ferris Cres',43.70300,-79.30344,1,1515236
@@ -1601,7 +1595,7 @@
 1901,'12130','W Service Rd @ St Albans Rd',43.63928,-79.53487,1,1516073
 1902,'923','Danforth Ave @ Warden Ave',43.69421,-79.27398,1,1516074
 1903,'3106','Sheppard Ave W @ Bakersfield St Westside - Downsview Par',43.75432,-79.48059,1,1516075
-1904,'5665','McCowan Rd @ Ellesmere Rd',43.77199,-79.25120,1,1516076
+1904,'5665','McCowan Rd @ Ellesmere Rd',43.77198,-79.25135,1,1516076
 1905,'5692','Midland Ave @ Midland Sta',43.77043,-79.27212,1,1516077
 1906,'9873','5 Sheffield St',43.70366,-79.46998,1,1516078
 1907,'7193','4770 Sheppard Ave E',43.79072,-79.25407,1,1516079
@@ -1704,7 +1698,7 @@
 2022,'3925','Jane St @ St Marks Rd',43.66049,-79.48913,1,1537278
 2023,'8792','Willowdale Ave @ Bishop Ave',43.78350,-79.40804,1,1537279
 2024,'2626','Finch Ave W @ Romfield Ln',43.76272,-79.49359,1,1537280
-2025,'5434','Leslie St @ Corning Rd',43.78200,-79.36631,1,1537281
+2025,'5434','Leslie St @ Corning Rd',43.78201,-79.36626,1,1537281
 2026,'3610','550 Finch Ave W',43.77336,-79.44651,1,1537282
 2027,'2308','Eglinton Ave E @ Rumsey Rd',43.71246,-79.36976,1,1537283
 2028,'4293','Kipling Ave @ Brookmere Rd',43.72804,-79.57438,1,1537284
@@ -1720,7 +1714,6 @@
 2039,'193','Bathurst St @ Robinson St',43.64910,-79.40483,2,1537316
 2040,'2812','Lawrence Ave E @ Blaine Dr E',43.73461,-79.35893,1,1537338
 2041,'4704','Washburn Way @ Tapscott Rd',43.80415,-79.22409,1,1537339
-2042,'2351','Eglinton Ave W @ Gardiner Rd',43.70210,-79.41997,1,1537340
 2043,'1457','Queen''s Pk Cres W @ Hart House',43.66370,-79.39350,1,1537341
 2045,'1515','Royal York Rd @ Kingsgrove Blvd',43.65339,-79.51391,1,1537343
 2046,'8221','Steeles Ave E @ Firebrace Rd',43.81768,-79.33227,1,1537344
@@ -2297,7 +2290,7 @@
 2746,'14398','3750 Midland Ave',43.81618,-79.29307,1,1544071
 2748,'14397','3750 Midland Ave',43.81602,-79.29275,1,1544073
 2750,'14422','The Pond Rd @ Arboretum Ln - Sobeys Stadium',43.77224,-79.51122,1,1544096
-2751,'14439','N York General Hosp - Main Entrance',43.76958,-79.36367,1,1544097
+2751,'14439','N York General Hosp - Main Entrance',43.76959,-79.36358,1,1544097
 2753,'14356','St Clair Ave W @ Vaughan Rd W',43.68275,-79.42070,1,1544099
 2754,'14376','Steeles Ave E @ Marydale Ave',43.83570,-79.25456,1,1544100
 2755,'14379','Steeles Ave E @ Eastvale Rd',43.83816,-79.24503,2,1544101
@@ -2379,8 +2372,8 @@
 3710,'14609','Markham Rd @ Select Ave',43.83367,-79.25119,1,1573763
 3711,'14610','Industry St @ Ray Ave N',43.69286,-79.49172,2,1573764
 3718,'14617','Bathurst Sta @ Bus B:3',43.66606,-79.41107,1,1573771
-3720,'14620','Leslie Sta @ Bus B:2',43.77041,-79.36764,1,1573794
-3721,'14621','Leslie Sta @ Bus B:3',43.77052,-79.36777,1,1573795
+3720,'14620','Leslie Sta @ Bus B:2',43.77035,-79.36763,1,1573794
+3721,'14621','Leslie Sta @ Bus B:3',43.77053,-79.36789,1,1573795
 3722,'14623','Don Mills Sta @ Bus B:2',43.77612,-79.34624,1,1573796
 3723,'14624','Don Mills Sta @ Bus B:3',43.77604,-79.34585,1,1573797
 3724,'14625','Don Mills Sta @ Bus B:4',43.77599,-79.34550,1,1573798
@@ -2460,7 +2453,7 @@
 3822,'14731','Lawrence W Sta @ Bus B:1',43.71567,-79.44370,1,1574757
 3823,'14732','Lawrence W Sta @ Bus B:2',43.71563,-79.44391,1,1574758
 3824,'14733','Lawrence W Sta @ Bus B:3',43.71559,-79.44413,1,1574759
-3825,'14734','Lawrence W Sta @ Bus B:4',43.71555,-79.44433,1,1574760
+3825,'14734','Lawrence W Sta @ Bus B:4',43.71550,-79.44430,1,1574760
 3826,'14735','Lawrence W Sta @ Bus B:5',43.71550,-79.44457,1,1574761
 3827,'14736','Main St Sta @ Bus B:1',43.68904,-79.30193,1,1574762
 3828,'14737','Main St Sta @ Bus B:2',43.68910,-79.30171,1,1574763
@@ -2511,8 +2504,7 @@
 3909,'14834','William R Allen Rd @ Rimrock Rd',43.75757,-79.46476,1,1575663
 3910,'14835','William R Allen Rd @ Rimrock Rd',43.75799,-79.46517,1,1575685
 3911,'14836','Dufferin St @ Finch Ave W N',43.76962,-79.46686,1,1575686
-3912,'14837','Alness St @ Brisbane Rd N',43.77254,-79.47251,1,1575687
-3913,'14838','Alness St @ Brisbane Rd',43.77243,-79.47266,2,1575688
+3914,'14839','Alness St @ Martin Ross Ave',43.77412,-79.47321,2,1575689
 3915,'14840','Martin Ross Ave @ Alness St W',43.77415,-79.47418,2,1575690
 3918,'14843','Wilmington Ave @ Cedar Spgs Grv (S)',43.76768,-79.45957,1,1575693
 3920,'14845','Murray Ross Pkwy @ Sentinel Rd E',43.76493,-79.50028,1,1575716
@@ -2691,7 +2683,7 @@
 4186,'15236','Kipling Ave @ Northcrest Rd',43.69198,-79.55745,1,1598011
 4187,'15234','379 Wilson Ave',43.73647,-79.43797,1,1598012
 4188,'15235','340 Wilson Ave',43.73670,-79.43768,1,1598013
-4189,'15278','Eglinton Ave E @ Midland Ave',43.73486,-79.25803,1,1598014
+4189,'15278','Eglinton Ave E @ Midland Ave',43.73467,-79.25798,1,1598014
 4190,'15365','Bathurst St @ King St W',43.64406,-79.40286,1,1598036
 4191,'15364','Bathurst St @ King St W',43.64380,-79.40250,1,1598037
 4194,'15410','Birchmount Rd @ 14th Ave',43.83971,-79.32018,1,1598040
@@ -2782,12 +2774,11 @@
 4386,'11181','Eastern Ave @ Queen St E S',43.66679,-79.31274,1,1599933
 4388,'9855','Edna Ave @ Dundas St W',43.65713,-79.45303,1,1599935
 4390,'2240','Eglinton Ave E @ Bayview Ave E',43.71123,-79.37584,2,1599958
-4394,'2253','Eglinton Ave E @ Brimley Rd W',43.73667,-79.24880,1,1599962
+4394,'2253','Eglinton Ave E @ Brimley Rd W',43.73665,-79.24877,1,1599962
 4396,'3539','Eglinton Ave E @ Kennedy Sta',43.73229,-79.26712,1,1599964
 4397,'5071','Eglinton Ave E @ Laird Dr',43.71345,-79.36498,1,1599965
 4398,'1036','Eglinton Ave E @ Midland Ave W',43.73449,-79.25891,1,1599966
 4404,'11488','Eglinton Ave W @ Ave Rd E',43.70464,-79.40796,1,1600644
-4405,'9897','Eglinton Ave W @ Yonge St',43.70646,-79.39944,1,1600645
 4408,'2354','Eglinton Ave W @ Glenarden Rd',43.69956,-79.43255,1,1600648
 4409,'2366','Eglinton Ave W @ Jane St E',43.68452,-79.49808,1,1600649
 4410,'2380','Eglinton Ave W @ Marlee Ave',43.69813,-79.43920,1,1600671
@@ -2961,7 +2952,6 @@
 4621,'9885','Port Union Rd @ Adenmore Rd N',43.78177,-79.13747,1,1602625
 4623,'3587','Finch Ave W @ Dufferin St',43.76862,-79.46730,1,1602627
 4624,'13709','Finch Ave W @ Jane St',43.75707,-79.51811,1,1602628
-4625,'11200','Finch Ave W @ Martin Grv Rd W',43.73670,-79.59245,1,1602629
 4626,'12456','Finch Ave W @ Rumike Rd E',43.74997,-79.55163,2,1602630
 4627,'3613','Finch Ave W @ Senlac Rd',43.77633,-79.43034,1,1602631
 4628,'9821','Finch Ave W @ Sentinel Rd E',43.76111,-79.49923,1,1602632
@@ -2979,7 +2969,6 @@
 4645,'11049','Humberline Dr @ Humber College Blvd',43.73186,-79.60956,1,1602691
 4646,'9901','Islington Ave @ Bloor St W N',43.64541,-79.52359,1,1602692
 4647,'13363','Islington Ave @ Bloor St W',43.64450,-79.52319,1,1602693
-4648,'9902','Islington Ave @ Bloor St W',43.64486,-79.52367,1,1602694
 4649,'3772','Islington Ave @ Central Pk Roadway S',43.64808,-79.52502,1,1602695
 4650,'3791','Islington Ave @ Finch Ave W',43.74584,-79.56838,1,1602717
 4651,'3863','Jane St @ Annette St',43.65817,-79.48800,1,1602718
@@ -3172,6 +3161,7 @@
 4891,'9077','York Mills Rd @ Leslie St W',43.75300,-79.36077,1,1604764
 4893,'6756','Pharmacy Ave @ Sundridge Dr N',43.72129,-79.29569,1,1604766
 4894,'12838','Vanderhoof Ave @ Brentcliffe Rd',43.71312,-79.35816,1,1604767
+4895,'8977','Yonge St @ Eglinton Ave E (Eglinton Sta)',43.70633,-79.39811,1,1604768
 4897,'4607','Spadina Rd @ Ardmore Rd',43.69533,-79.41555,2,1604770
 4899,'9247','Thirtieth St @ Horner Ave S',43.60375,-79.53354,1,1604772
 4900,'8212','Steeles Ave E @ Bestview Dr E',43.80606,-79.38296,1,1605445
@@ -3179,6 +3169,7 @@
 4903,'483','Bloor St E @ Parliament St',43.67219,-79.37065,2,1605448
 4904,'8886','Wilson Ave @ Wendell Ave',43.71664,-79.52723,2,1605449
 4905,'5264','Lawrence Ave E @ Fortune Gt E',43.76084,-79.21982,1,1605450
+4906,'12203','Lawrence W Sta',43.71605,-79.44439,1,1605451
 4907,'4390','Kipling Ave @ Widdicombe Hl Blvd',43.67903,-79.55187,1,1605452
 4908,'4836','Brimley Rd @ Walkway To McCool Crt',43.81849,-79.28319,1,1605453
 4911,'5771','Mortimer Ave @ Coxwell Ave - Michael Garron Hosp',43.69046,-79.32673,1,1605477
@@ -3186,6 +3177,7 @@
 4913,'2113','Duncan Mill Rd @ Valleybrook Dr',43.76194,-79.35347,1,1605479
 4914,'2815','Lawrence Ave E @ Leslie St W',43.73461,-79.35682,1,1605480
 4916,'8892','Wilson Ave @ Yonge St',43.74380,-79.40726,1,1605482
+4917,'1099','Gerrard St E @ Marjory Ave',43.66886,-79.33745,2,1605483
 4918,'2469','Faywood Blvd @ Goodwill Ave',43.73694,-79.44684,1,1605484
 4921,'12135','Eglinton Ave W @ Royal York Rd E',43.68228,-79.52602,1,1605508
 4922,'15','Anglesey Blvd @ Pinehurst Cres N',43.66356,-79.52500,1,1605509
@@ -3404,7 +3396,6 @@
 5179,'11071','McNicoll Ave @ Morbank Dr',43.80906,-79.30900,2,1627774
 5182,'133','Bathurst St @ Ellerslie Ave N',43.76591,-79.44083,1,1627798
 5183,'6632','Parliament St @ Adelaide St E',43.65362,-79.36370,1,1627799
-5184,'7587','Carlingview Dr @ Worcester Rd S',43.69324,-79.59861,1,1627800
 5185,'1018','1245 Dupont St',43.66819,-79.44121,2,1627801
 5186,'11494','Yonge St @ Elmwood Ave',43.76647,-79.41202,1,1627802
 5187,'6134','St Clair Ave E @ Maybourne Ave',43.70932,-79.29384,1,1627803
@@ -3559,7 +3550,6 @@
 5366,'8917','Woodbine Ave @ Eastwood Rd',43.67659,-79.30907,1,1629662
 5367,'2313','Eglinton Ave E @ Sutherland Dr',43.71320,-79.36698,1,1629663
 5368,'9679','Brimley Rd @ Steeles Ave E N',43.82885,-79.28708,1,1629664
-5369,'9784','Steeles Ave E @ Walkway To Scoville Sq',43.82782,-79.28872,1,1629665
 5370,'4095','Kennedy Rd @ Lawrence Ave E',43.74929,-79.27470,1,1629687
 5371,'8595','Warden Ave @ Minford Ave N',43.73722,-79.29129,1,1629688
 5372,'6275','111 Cactus Ave',43.79180,-79.43383,1,1629689
@@ -3671,7 +3661,7 @@
 5496,'156','Bathurst St @ Blue Flag Gt',43.76865,-79.44187,1,1630716
 5498,'1055','Finch Ave E @ McCowan Rd',43.80790,-79.26673,1,1630718
 5499,'9299','115 Skyway Ave',43.68386,-79.58303,1,1630719
-5500,'04898','Commissioners St @ Saulter St',43.64952,-79.34238,1,1631392
+5500,'4898','Commissioners St @ Saulter St',43.64952,-79.34238,1,1631392
 5501,'669','Burnhamthorpe Rd @ Martin Grv Rd',43.64852,-79.54976,1,1631393
 5502,'8505','Victoria Pk Ave @ St Clair Ave E',43.70862,-79.29577,1,1631394
 5503,'6985','Royal York Rd @ Country Club Dr',43.67449,-79.52323,2,1631395
@@ -3704,7 +3694,6 @@
 5532,'13316','Opp 2650 St Clair Ave W',43.66647,-79.49659,2,1631487
 5533,'7115','Senlac Rd @ Ellerslie Ave',43.76850,-79.42652,2,1631488
 5535,'10543','Warden Ave @ Hwy 7',43.85554,-79.33364,1,1631490
-5536,'7701','Ellesmere Rd @ Mornelle Crt',43.78500,-79.19519,1,1631491
 5537,'150','Bathurst St @ Heathdale Rd S',43.68876,-79.42069,2,1631492
 5538,'5589','Martin Grv Rd @ Albion Rd',43.74243,-79.59461,2,1631493
 5539,'8139','St Clair Ave E @ Denvale Rd',43.70438,-79.31837,1,1631494
@@ -4458,7 +4447,7 @@
 6450,'3654','Glencairn Ave @ Ennerdale St E',43.70666,-79.45542,1,1660377
 6452,'2575','Finch Ave E @ Willowdale Ave',43.78174,-79.40697,1,1660379
 6453,'8229','Steeles Ave E @ Leslie St',43.80869,-79.37245,1,1660380
-6454,'5305','Lawrence Ave E @ Pharmacy Ave',43.74303,-79.30486,1,1660381
+6454,'5305','Lawrence Ave E @ Pharmacy Ave',43.74311,-79.30490,1,1660381
 6455,'6308','Commander Blvd @ Huntingwood Dr',43.79750,-79.26967,1,1660382
 6456,'7927','Lawson Rd @ Centennial Rd',43.78732,-79.15119,1,1660383
 6458,'6029','Rogers Rd @ Kane Ave',43.68217,-79.46639,1,1660385
@@ -4835,6 +4824,7 @@
 6893,'6409','Grantbrook St @ Charlton Blvd',43.78132,-79.43297,1,1664348
 6894,'6386','Flemington Rd @ Replin Rd',43.71955,-79.44281,1,1664349
 6895,'3327','Belfield Rd @ CN E Spur',43.70116,-79.57845,1,1664350
+6896,'1101','Gerrard St E @ Pape Ave',43.66823,-79.34025,2,1664351
 6897,'3221','Yonge St @ Dundas St E - Dundas Sta',43.65620,-79.38076,1,1664352
 6898,'7916','Laurentide Dr @ Tetbury Cres',43.75322,-79.33899,1,1664353
 6899,'1008','Dupont St @ Emerson Ave',43.66712,-79.44427,1,1664354
@@ -5486,6 +5476,7 @@
 7658,'5404','Lawrence Ave W @ Sage Ave',43.71238,-79.46306,1,1692098
 7659,'2081','Dufferin St @ Queen St W',43.64201,-79.42843,1,1692099
 7661,'6304','Coe Hl Dr @ The Queensway',43.63767,-79.46855,2,1692122
+7663,'8981','Yonge St @ Eglinton Ave W (Eglinton Sta)',43.70716,-79.39856,1,1692124
 7664,'10252','Yorkland Blvd (S) @ Consumers Rd W',43.77116,-79.33198,1,1692125
 7665,'12143','Portland St @ Milton St W',43.62027,-79.49454,2,1692126
 7666,'10547','Warden Ave @ 16Th Ave',43.87371,-79.33842,1,1692127
@@ -5611,7 +5602,7 @@
 7802,'8649','Wellesworth Dr @ Eringate Dr',43.66068,-79.58066,1,1693859
 7804,'13952','Underpass Gt @ Fenelon Dr',43.76209,-79.33760,1,1693861
 7805,'7961','McRae Dr @ Rumsey Rd E',43.70724,-79.36725,1,1693862
-7806,'1033','Eglinton Ave E @ Gilder Dr',43.73578,-79.25309,1,1693863
+7806,'1033','Eglinton Ave E @ Gilder Dr',43.73573,-79.25307,1,1693863
 7807,'5910','Oakwood Ave @ Jesmond Ave',43.68983,-79.43972,1,1693864
 7808,'1760','Broadview Ave @ Langley Ave-Bridgepoint Health Ctr',43.66808,-79.35332,2,1693865
 7809,'9084','York Mills Rd @ Scarsdale Rd',43.75329,-79.35766,1,1693866
@@ -5863,7 +5854,7 @@
 8102,'8561','Warden Ave @ Ellesmere Rd',43.76139,-79.30096,1,1716923
 8103,'11289','Humberwood Blvd Loop @ Vw Grn Cres',43.72447,-79.62123,2,1716924
 8104,'689','Burnhamthorpe Rd @ Silver Shadow Path',43.64183,-79.57884,2,1716925
-8105,'5328','Lawrence Ave E @ Victoria Pk Ave',43.74190,-79.31007,1,1716926
+8105,'5328','Lawrence Ave E @ Victoria Pk Ave',43.74196,-79.31010,1,1716926
 8106,'3584','Finch Ave W @ Carney Rd',43.77720,-79.42770,1,1716927
 8108,'10758','Leslie St @ Lesmill Rd S',43.76351,-79.36209,1,1716929
 8109,'2883','McNicoll Ave @ Clansman Blvd',43.80193,-79.36323,1,1716930
@@ -6238,7 +6229,6 @@
 8550,'10875','Tapscott Rd @ Blackwell Ave W',43.80548,-79.22142,1,1720920
 8551,'8861','Wilson Ave @ Jane St',43.72075,-79.50881,1,1720921
 8552,'1331','Midland Ave @ Verdun Ave',43.72883,-79.25560,1,1720922
-8554,'5231','Lawrence Ave E @ Bathgate Dr',43.77661,-79.15038,2,1720924
 8555,'48','Ave Rd @ Bloor St W',43.66880,-79.39428,1,1720925
 8556,'5342','Lawrence Ave W @ Blackstone St',43.70374,-79.49992,1,1720926
 8558,'3758','800 Islington Ave',43.61682,-79.51053,1,1720928
@@ -6383,7 +6373,6 @@
 8714,'1074','Garratt Blvd @ Katherine Rd',43.73223,-79.46900,1,1722722
 8715,'5418','Lawrence Ave W @ Westona St E',43.69728,-79.52696,1,1722723
 8716,'5832','Mt Pleasant Rd @ Mnr Rd E',43.70441,-79.38872,1,1722724
-8717,'1606','Supertest Rd @ Alness St W',43.77674,-79.47500,2,1722725
 8718,'7058','Runnymede Rd @ Dundas St W N',43.66609,-79.48222,1,1722726
 8719,'8245','Steeles Ave E @ Walkway To Whitman St',43.80024,-79.40941,1,1722727
 8721,'2287','Eglinton Ave E @ Leslie St W',43.71711,-79.35018,1,1722750
@@ -6986,7 +6975,6 @@
 9435,'1291','McCowan Rd @ Cree Ave',43.73064,-79.23461,2,1749693
 9436,'2772','Kingston Rd @ Columbine Ave',43.67168,-79.31036,2,1749694
 9437,'3515','Dundas St W @ Prince Edward Dr N',43.66081,-79.51030,1,1749695
-9438,'13435','Steeles Ave W @ Alness St E',43.78477,-79.48010,1,1749696
 9439,'9454','Cosburn Ave @ Coxwell Ave',43.69401,-79.32820,1,1749697
 9440,'2023','Dufferin St @ Briar Hl Ave',43.70251,-79.45228,1,1749719
 9441,'3786','Islington Ave @ Evans Ave S',43.61787,-79.51112,1,1749720
@@ -7458,7 +7446,6 @@
 9998,'13346','Dawes Rd @ Pk Vista S',43.69798,-79.29719,2,1754687
 9999,'6738','Pharmacy Ave @ Princeway Dr',43.75300,-79.30845,1,1754688
 10000,'464','Birchmount Rd @ Hwy 401 - Walkway N Of Rolark',43.77179,-79.29414,1,46730161
-10004,'9480','Alness St @ Supertest Rd',43.77653,-79.47425,1,46730165
 10005,'3946','Jane St @ Yorkwoods Gt',43.75067,-79.51586,1,46730166
 10007,'5365','Lawrence Ave W @ Duplex Ave',43.72425,-79.40575,2,46730168
 10008,'4112','Kennedy Rd @ Bonis Ave S',43.78521,-79.28939,1,46730169
@@ -7718,7 +7705,7 @@
 10308,'6766','Pleasant Vw Dr @ Brian Dr',43.78461,-79.33311,1,46733052
 10309,'10707','Atkinson Ave @ Rosedale Hts Dr (N)',43.81748,-79.45015,1,46733053
 10310,'7677','Ellesmere Rd @ Bellamy Rd N',43.77454,-79.24144,1,46733075
-10313,'130','Bathurst St @ Eglinton Ave W N',43.70179,-79.42556,1,46733078
+10313,'130','Bathurst St @ Eglinton Ave W N',43.70145,-79.42547,1,46733078
 10314,'6777','Prince Edward Dr S @ Glenellen Dr W',43.63964,-79.50172,1,46733079
 10315,'4131','Kennedy Rd @ Trojan Gt',43.80406,-79.29839,1,46733080
 10317,'7473','York Mills Rd @ Sandfield Rd',43.75069,-79.37475,1,46733082
@@ -7753,6 +7740,7 @@
 10347,'8637','Wellesley St E @ Sherbourne St',43.66717,-79.37449,1,46733175
 10348,'11286','Humberwood Blvd @ Hullrick Dr (S)',43.72175,-79.61282,1,46733176
 10349,'7094','Scarlett Rd @ La Rose Ave',43.68697,-79.51337,2,46733177
+10351,'11043','Kipling Ave @ Finch Ave W',43.74307,-79.58179,1,46733200
 10352,'1146','Highview Ave @ Kennedy Rd',43.70236,-79.25611,2,46733201
 10353,'6564','Meadowvale Rd @ Zoo Rd',43.81811,-79.17319,1,46733202
 10355,'13633','Markham Rd @ Elson St',43.84034,-79.25167,1,46733204
@@ -8258,7 +8246,6 @@
 18789,'246','Bay St @ Front St W S - Union Sta',43.64548,-79.37900,1,46975473
 18791,'15857','Milner Ave @ Novopharm Crt',43.79126,-79.22910,1,46975496
 18793,'15863','Brimley Rd @ Heather Rd',43.79085,-79.26995,1,46975498
-18794,'15864','Fort York Blvd @ Iannuzzi St E',43.63839,-79.40154,1,46975499
 18801,'15870','Laird Dr @ Commercial Rd S',43.70829,-79.36282,1,46976178
 18811,'15846','Huntingwood Dr @ Dunmurray Blvd',43.78954,-79.30608,1,46976209
 18812,'15849','Humber College Blvd @ Finch Ave W',43.73352,-79.61012,1,46976210
@@ -8318,14 +8305,12 @@
 18925,'15911','Kingston Rd @ Lawrence Ave E S',43.76715,-79.19017,1,46977205
 19739,'15991','Midland Ave @ Stansbury Cres',43.74229,-79.26149,1,47005109
 19740,'15992','2672 St Clair Ave W',43.66651,-79.49723,1,47005131
-19741,'15993','Alness St @ Supertest Rd S',43.77650,-79.47443,1,47005132
 19742,'15994','Trethewey Dr @ Eglinton Ave W',43.69033,-79.47524,1,47005133
 19743,'15998','Keele St @ Eglinton Ave W',43.68998,-79.47486,1,47005134
 19744,'15999','Weston Rd @ Wright Ave - Weston GO Sta',43.69826,-79.51086,1,47005135
 19754,'11116','Bloor St E @ Yonge St E',43.67030,-79.38613,1,47005166
 20563,'16000','Yonge St @ Belmont St',43.67567,-79.38906,1,47658676
 20566,'16003','Bloor St E @ Sherbourne St E',43.67241,-79.37627,1,47658679
-20567,'16004','Kipling Ave @ Finch Ave W N',43.74362,-79.58215,1,47658680
 21391,'16013','Steeles Ave E @ Ferrier St E',43.81843,-79.32926,1,47686636
 21392,'16014','Dundas St W @ Bloor St W',43.64292,-79.53270,1,47686637
 21393,'16015','Dundas St W @ Kipling Ave',43.64027,-79.53510,1,47686638
@@ -8352,10 +8337,9 @@
 23767,'16042','Midland Ave @ Copthorne Ave',43.82057,-79.29476,1,47749975
 23768,'16043','Midland Ave @ Duxbury Dr (Truro Cres Walkway)',43.82341,-79.29603,1,47749976
 23769,'16044','Midland Ave @ Steeles Ave E',43.82550,-79.29697,1,47749977
-23770,'16045','Islington Sta @ Bus Bay 11',43.64474,-79.52464,2,47749999
-23771,'16046','Islington Sta @ Bus Bay 12',43.64479,-79.52439,2,47750000
-23772,'16047','Islington Sta @ Bus Bay 13',43.64484,-79.52417,2,47750001
-23773,'16048','Islington Ave @ Islington Sta',43.64516,-79.52377,1,47750002
+23770,'16045','Islington Sta @ Bus Bay 11',43.64482,-79.52475,2,47749999
+23771,'16046','Islington Sta @ Bus Bay 12',43.64486,-79.52454,2,47750000
+23772,'16047','Islington Sta @ Bus Bay 13',43.64491,-79.52432,2,47750001
 25395,'16050','4005 Eglinton Ave W',43.68334,-79.51685,1,47805804
 25396,'16051','Opp 4005 Eglinton Ave W',43.68356,-79.51775,1,47805805
 25397,'16052','Weston Rd @ St Phillips Rd',43.70638,-79.53271,1,47805806
@@ -8530,7 +8514,7 @@
 42373,'16524','300 Bay St',43.64924,-79.38062,1,49563409
 42374,'16525','Pk Lawn Rd @ Gardiner Expressway (EB Off Ramp)',43.62602,-79.48618,1,49563410
 42375,'16526','Lawrence Ave E @ Elinor Ave',43.74394,-79.30090,1,49563411
-42376,'16527','Lawrence Ave E @ Townley Ave',43.74252,-79.30756,1,49563412
+42376,'16527','Lawrence Ave E @ Townley Ave',43.74255,-79.30758,1,49563412
 42377,'16528','Lawrence Ave E @ Elinor Ave',43.74421,-79.30038,1,49563413
 42406,'15960','Eglinton Ave E @ Victoria Pk Ave',43.72459,-79.30288,1,49564156
 42407,'15965','Eglinton Ave E @ Leslie St',43.71687,-79.35035,1,49564157
@@ -8608,3 +8592,20 @@
 42533,'16654','York Mills Rd @ Scarsdale Rd W',43.75345,-79.35804,1,49565207
 42534,'16656','Milner Ave @ Scunthorpe Rd',43.78873,-79.24019,1,49565208
 42535,'16657','Pape Ave @ Dingwall Ave',43.67373,-79.34279,2,49565209
+42536,'16658','Bartor Rd @ 2233 Sheppard Ave W',43.73190,-79.52594,1,49565210
+42542,'16122','Eglinton Ave W @ Spadina Rd',43.70225,-79.41920,2,49565237
+42543,'16511','Martin Grv Rd @ Finch Ave W',43.73694,-79.59189,1,49565238
+42544,'16659','Alness St @ York Univeristy Busway',43.77111,-79.47206,1,49565239
+42545,'16660','Alness St @ York Univeristy Busway',43.77097,-79.47222,1,49565240
+42546,'16661','Alness St @ Martin Ross Ave',43.77400,-79.47335,1,49565241
+42547,'16662','Alness St @ Supertest Rd',43.77708,-79.47446,1,49565242
+42548,'16663','Alness St @ Supertest Rd',43.77694,-79.47459,1,49565243
+42549,'8254','Steeles Ave W @ Alness St',43.78454,-79.48122,1,49565244
+42550,'16664','Wynford Dr @ Eglinton Ave E Access Ramp',43.72528,-79.32622,1,49565266
+42551,'16665','Carlingview Dr @ Worcester Rd',43.69383,-79.59886,1,49565267
+42552,'16666','335 Champagne Dr',43.76508,-79.47285,1,49565268
+42553,'16667','335 Champagne Dr',43.76509,-79.47342,1,49565269
+42554,'16668','Steeles Ave E @ Fenton Rd W',43.82723,-79.29208,1,49565270
+42555,'16670','Aberfoyle Cres @ Islington Ave (Islington Sta)',43.64558,-79.52330,1,49565271
+42556,'16671','Carlaw Ave @ Gerrard St E S',43.66706,-79.34263,1,49565272
+42557,'16680','Ellesmere Rd @ Mornelle Crt W',43.78475,-79.19625,1,49565273
