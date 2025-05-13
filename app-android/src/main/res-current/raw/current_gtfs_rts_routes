@@ -19,7 +19,7 @@
 26,'26','Dupont','ff0000',1604,3
 28,'28','Bayview South','ff0000',1606,3
 29,'29','Dufferin','ff0000',1607,3
-30,'30','High Park','ff0000',1629,3
+30,'30','High Park North','ff0000',1629,3
 31,'31','Greenwood','ff0000',1630,3
 32,'32','Eglinton West','ff0000',1631,3
 33,'33','Forest Hill','ff0000',1632,3
@@ -93,13 +93,13 @@
 104,'104','Faywood','ff0000',48629,3
 105,'105','Dufferin North','ff0000',48630,3
 106,'106','Sentinel','ff0000',48631,3
-107,'107','York University','ff0000',48632,3
+107,'107','York University Heights','ff0000',48632,3
 108,'108','Driftwood','ff0000',48633,3
 109,'109','Ranee','ff0000',48634,3
 110,'110','Islington South','ff0000',48656,3
 111,'111','East Mall','ff0000',48657,3
 112,'112','West Mall','ff0000',48658,3
-113,'113','Danforth Road','ff0000',48659,3
+113,'113','Danforth','ff0000',48659,3
 114,'114','Queens Quay East','ff0000',48660,3
 115,'115','Silver Hills','ff0000',48661,3
 116,'116','Morningside','ff0000',48662,3
@@ -107,7 +107,7 @@
 118,'118','Thistle Down','ff0000',48664,3
 119,'119','Torbarrie','ff0000',48665,3
 120,'120','Calvington','ff0000',48687,3
-121,'121','Fort York - Esplanade','ff0000',48688,3
+121,'121','Esplanade-River','ff0000',48688,3
 122,'122','Graydon Hall','ff0000',48689,3
 123,'123','Sherway','ff0000',48690,3
 124,'124','Sunnybrook','ff0000',48691,3
@@ -133,8 +133,11 @@
 169,'169','Huntingwood','ff0000',48820,3
 171,'171','Mount Dennis','ff0000',48843,3
 184,'184','Ancaster Park','ff0000',48877,3
-185,'185','Don Mills Rocket','ff0000',48878,3
+185,'185','Sheppard Central','ff0000',48878,3
 189,'189','Stockyards','ff0000',48882,3
+200,'200','Toronto Zoo','ff80c0',49586,3
+201,'201','Bluffer''s Park','ff80c0',49587,3
+202,'202','Cherry Beach','ff80c0',49588,3
 300,'300','Bloor-Danforth Night Bus','0756A5',50547,3
 302,'302','Kingston Rd-McCowan Night Bus','0756A5',50549,3
 307,'307','Bathurst Night Bus','0756A5',50554,3
@@ -164,7 +167,7 @@
 396,'396','Wilson Night Bus','0756A5',50832,3
 900,'900','Airport Express','00A651',56313,3
 902,'902','Markham Rd Express','00A651',56315,3
-903,'903','Kennedy-Scarborough Centre Express','00A651',56316,3
+903,'903','Kennedy Stn-Scarborough Express','00A651',56316,3
 904,'904','Sheppard-Kennedy Express','00A651',56317,3
 905,'905','Eglinton East Express','00A651',56318,3
 924,'924','Victoria Park Express','00A651',56379,3
@@ -173,7 +176,6 @@
 929,'929','Dufferin Express','00A651',56384,3
 935,'935','Jane Express','00A651',56411,3
 937,'937','Islington Express','00A651',56413,3
-938,'938','Highland Creek Express','00A651',56414,3
 939,'939','Finch Express','00A651',56415,3
 941,'941','Keele Express','00A651',56438,3
 944,'944','Kipling South Express','00A651',56441,3
