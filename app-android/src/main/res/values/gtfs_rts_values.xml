@@ -3,4 +3,5 @@
     <integer name="gtfs_rts_db_version">20250729</integer>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://www.ttc.ca/customer-service</string>
+    <string name="gtfs_rts_fares">https://www.ttc.ca/Fares-and-passes</string>
 </resources>
