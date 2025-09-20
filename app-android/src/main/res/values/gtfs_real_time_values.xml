@@ -4,7 +4,6 @@
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <!-- JSON: https://bustime.ttc.ca/gtfsrt/alerts?debug -->
     <string name="gtfs_real_time_agency_service_alerts_url">https://bustime.ttc.ca/gtfsrt/alerts</string>
-    <string name="gtfs_real_time_agency_id">1</string>
     <string name="gtfs_real_time_agency_bold_words" />
     <string-array name="gtfs_real_time_agency_extra_languages" />
     <string-array name="gtfs_real_time_agency_extra_bold_words" />
