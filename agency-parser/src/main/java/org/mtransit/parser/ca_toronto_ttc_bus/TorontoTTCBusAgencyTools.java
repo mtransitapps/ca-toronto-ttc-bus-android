@@ -126,22 +126,6 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
-	public boolean directionSplitterEnabled(long routeId) {
-		if (routeId == 101L) {
-			return true; // 2024-09-05: NORTH/SOUTH have same direction ID (1)
-		}
-		return super.directionSplitterEnabled(routeId);
-	}
-
-	@Override
-	public boolean directionOverrideId(long routeId) {
-		if (routeId == 101L) {
-			return true; // 2024-09-05: NORTH/SOUTH have same direction ID (1)
-		}
-		return super.directionOverrideId(routeId);
-	}
-
-	@Override
 	public boolean directionFinderEnabled() {
 		return true;
 	}
