@@ -68,6 +68,7 @@ captures/
 .idea/compiler.xml
 .idea/deviceManager.xml
 .idea/jarRepositories.xml
+.idea/markdown.xml
 .idea/modules.xml
 .idea/*.iml
 .idea/misc.xml
@@ -186,6 +187,7 @@ dev.properties
 /dependency_update_push_commits.sh
 /download_and_parse.sh
 /download_and_prepare.sh
+/download_only.sh
 /download_dependencies.sh
 /gitall.sh
 /gradle.properties
@@ -194,14 +196,17 @@ dev.properties
 /gradlew
 /gradlew.bat
 /init_cache_key.sh
+/lint_only.sh
 /parse_current.sh
 /parse_next.sh
 /parse_list_change.sh
+/prepare_only.sh
 /publish_app_release.sh
 /push_commits.sh
 /set_app_release_required.sh
 /settings.gradle
 /test.sh
+/test_only.sh
 
 # Generated files
 /project_name.properties
