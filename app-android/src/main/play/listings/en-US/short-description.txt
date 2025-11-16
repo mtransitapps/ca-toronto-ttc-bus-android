@@ -1,2 +1,1 @@
-Toronto TTC buses for MonTransit.
-Schedule. Real-Time. Service Alerts. News.
+Toronto TTC buses for MonTransit: schedule, real-time, service alerts & news.

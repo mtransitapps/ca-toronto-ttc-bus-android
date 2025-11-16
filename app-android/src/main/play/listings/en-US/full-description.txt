@@ -1,8 +1,8 @@
-This app adds Toronto TTC buses information to MonTransit.
+This app adds TTC buses information to MonTransit.
 
 This app provides the schedule (offline & real-time) as well as real time service alerts and news from @TTCnotices & @TTChelps on Twitter.
 
-TTC buses serve Toronto in Ontario, Canada.
+These buses serve Toronto in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -10,7 +10,7 @@ This application only has a temporary icon: download the MonTransit app (free) i
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by the Toronto Transit Commission and the City of Toronto.
+The information comes from the GTFS file provided by the City of Toronto.
 https://open.toronto.ca/dataset/ttc-routes-and-schedules/
 
 This application is free and open-source:
