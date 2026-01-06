@@ -1,12 +1,7 @@
 '1',4001,52330,0,'Dundas West Stn',1
 '1',4002,52000,4,'',1
 '2',4001,52430,0,'Dundas West Stn',1
-'4406',4001,52330,0,'Dundas West Stn',1
-'4406',4002,52000,4,'',1
-'5',4001,52440,0,'Dundas West Stn',1
 '1',4503,43020,0,'A Steeles',1,2000,0,'A Steeles',1,5700,0,'A Steeles',1,1000,0,'B Carlingview',1,1000,0,'A Steeles',1
-'4406',4503,43020,0,'A Steeles',1,2000,0,'A Steeles',1,5700,0,'A Steeles',1,1000,0,'B Carlingview',1,1000,0,'A Steeles',1
 '1',4603,45040,0,'Steeles',1,6100,0,'Steeles',1,1300,0,'Steeles',1
 '2',4603,51330,0,'Steeles',1,2200,0,'Steeles',1
-'4406',4603,45040,0,'Steeles',1,6100,0,'Steeles',1,1300,0,'Steeles',1
-'5',4603,51330,0,'Steeles',1
+'1',11204,263800,4,'',1

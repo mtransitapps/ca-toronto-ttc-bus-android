@@ -139,9 +139,9 @@
 189,'189','Stockyards','ED1C24',48882,3
 191,'191','Underhill','ED1C24',48905,3
 300,'300','Bloor-Danforth','0054A6',50547,3
-302,'302','Kingston Rd-McCowan','0054A6',50549,3
 307,'307','Bathurst','0054A6',50554,3
 315,'315','Evans-Brown''s Line','0054A6',50583,3
+316,'316','Kingston Rd-McCowan','0054A6',50584,3
 320,'320','Yonge','0054A6',50609,3
 322,'322','Coxwell','0054A6',50611,3
 324,'324','Victoria Park','0054A6',50613,3
@@ -178,6 +178,7 @@
 903,'903','Kennedy Stn-Scarborough Express','00A651',56316,3
 904,'904','Sheppard-Kennedy Express','00A651',56317,3
 905,'905','Eglinton East Express','00A651',56318,3
+906,'906','Airport-Humber College Express','00A651',56319,3
 924,'924','Victoria Park Express','00A651',56379,3
 925,'925','Don Mills Express','00A651',56380,3
 927,'927','Highway 27 Express','00A651',56382,3
