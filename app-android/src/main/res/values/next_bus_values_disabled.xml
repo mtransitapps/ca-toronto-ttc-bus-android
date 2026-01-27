@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- DISABLED because new GTFS static IDs not compatible (GTFS-RT only) -->
     <integer name="next_bus_db_version">3</integer>
     <string name="next_bus_agency_tag">ttc</string>
     <string name="next_bus_for_poi_authority">@string/gtfs_rts_authority</string>
