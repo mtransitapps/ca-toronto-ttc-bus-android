@@ -9,6 +9,7 @@
 15,'15','Evans','ED1C24',1572,3
 16,'16','McCowan','ED1C24',1573,3
 17,'17','Birchmount','ED1C24',1574,3
+18,'18','Caledonia','ED1C24',1575,3
 19,'19','Bay','ED1C24',1576,3
 20,'20','Cliffside','ED1C24',1598,3
 21,'21','Brimley','ED1C24',1599,3
@@ -17,13 +18,14 @@
 24,'24','Victoria Park','ED1C24',1602,3
 25,'25','Don Mills','ED1C24',1603,3
 26,'26','Dupont','ED1C24',1604,3
+27,'27','Jane South','ED1C24',1605,3
 28,'28','Bayview South','ED1C24',1606,3
 29,'29','Dufferin','ED1C24',1607,3
 30,'30','High Park North','ED1C24',1629,3
 31,'31','Greenwood','ED1C24',1630,3
 32,'32','Eglinton West','ED1C24',1631,3
 33,'33','Forest Hill','ED1C24',1632,3
-34,'34','Eglinton East','ED1C24',1633,3
+34,'34','Eglinton','ED1C24',1633,3
 35,'35','Jane','ED1C24',1634,3
 36,'36','Finch West','ED1C24',1635,3
 37,'37','Islington','ED1C24',1636,3
@@ -45,7 +47,6 @@
 53,'53','Steeles East','ED1C24',1694,3
 54,'54','Lawrence East','ED1C24',1695,3
 55,'55','Warren Park','ED1C24',1696,3
-56,'56','Leaside','ED1C24',1697,3
 57,'57','Midland','ED1C24',1698,3
 59,'59','Maple Leaf','ED1C24',1700,3
 60,'60','Steeles West','ED1C24',1722,3
@@ -123,7 +124,9 @@
 134,'134','Progress','ED1C24',48722,3
 135,'135','Gerrard','ED1C24',48723,3
 149,'149','Etobicoke-Bloor','ED1C24',48758,3
+151,'151','Leslie North','ED1C24',48781,3
 154,'154','Curran Hall','ED1C24',48784,3
+158,'158','Trethewey','ED1C24',48788,3
 160,'160','Bathurst North','ED1C24',48811,3
 161,'161','Rogers Rd','ED1C24',48812,3
 162,'162','Lawrence-Donway','ED1C24',48813,3
@@ -147,8 +150,7 @@
 324,'324','Victoria Park','0054A6',50613,3
 325,'325','Don Mills','0054A6',50614,3
 329,'329','Dufferin','0054A6',50618,3
-332,'332','Eglinton West','0054A6',50642,3
-334,'334','Eglinton East','0054A6',50644,3
+334,'334','Eglinton','0054A6',50644,3
 335,'335','Jane','0054A6',50645,3
 336,'336','Finch West','0054A6',50646,3
 337,'337','Islington','0054A6',50647,3
@@ -172,7 +174,9 @@
 404,'404','East York','6D6E71',51512,3
 405,'405','Etobicoke','6D6E71',51513,3
 406,'406','Scarborough-Guildwood','6D6E71',51514,3
+805,'805','Line 5 Shuttle','939598',55357,3
 806,'806','Line 6 Shuttle','939598',55358,3
+830,'830','Henry Kelsey - Middlefield','ED1C24',55445,3
 900,'900','Airport Express','00A651',56313,3
 902,'902','Markham Rd Express','00A651',56315,3
 903,'903','Kennedy Stn-Scarborough Express','00A651',56316,3
