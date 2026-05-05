@@ -34,12 +34,6 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.regex.Pattern;
 
-// https://open.toronto.ca/dataset/ttc-routes-and-schedules/ # ALL (including SUBWAY)
-// https://open.toronto.ca/dataset/surface-routes-and-schedules-for-bustime/ BUS & STREETCAR
-// https://open.toronto.ca/dataset/merged-gtfs-ttc-routes-and-schedules/
-// OLD: https://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/SurfaceGTFS.zip
-// OLD: http://opendata.toronto.ca/TTC/routes/OpenData_TTC_Schedules.zip
-// OLD: http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip
 public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {

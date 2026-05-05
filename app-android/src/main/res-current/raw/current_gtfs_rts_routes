@@ -142,6 +142,9 @@
 185,'185','Sheppard Central','',48878,3
 189,'189','Stockyards','',48882,3
 191,'191','Underhill','',48905,3
+200,'200','Toronto Zoo','E472AC',49586,3
+201,'201','Bluffer''s Park','E472AC',49587,3
+202,'202','Cherry Beach','E472AC',49588,3
 203,'203','High Park','E472AC',49589,3
 300,'300','Bloor-Danforth','0054A6',50547,3
 307,'307','Bathurst','0054A6',50554,3
@@ -176,7 +179,6 @@
 404,'404','East York','6D6E71',51512,3
 405,'405','Etobicoke','6D6E71',51513,3
 406,'406','Scarborough-Guildwood','6D6E71',51514,3
-805,'805','Line 5 Shuttle','FF8000',55357,3
 830,'830','Henry Kelsey - Middlefield','',55445,3
 900,'900','Airport Express','00A651',56313,3
 902,'902','Markham Rd Express','00A651',56315,3
@@ -190,7 +192,6 @@
 929,'929','Dufferin Express','00A651',56384,3
 935,'935','Jane Express','00A651',56411,3
 937,'937','Islington Express','00A651',56413,3
-938,'938','Highland Creek Express','00A651',56414,3
 939,'939','Finch Express','00A651',56415,3
 941,'941','Keele Express','00A651',56438,3
 944,'944','Kipling South Express','00A651',56441,3
