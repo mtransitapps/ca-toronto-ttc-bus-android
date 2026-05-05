@@ -11,5 +11,53 @@
     "direction_types": [
         1
     ],
-    "direction_types_comment": "direction cardinal type"
+    "direction_types_comment": "direction cardinal type",
+    "direction_headsign_cleaners_comment": "Cardinal - 00 xxx towards yyy",
+    "direction_headsign_cleaners": [
+        {
+            "regex": " - \\d+.*$"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "((^|\\W)(side)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2$4"
+        },
+        {
+            "regex": "(H\\.S\\.)",
+            "ignore_case": true,
+            "replacement": "HS"
+        },
+        {
+            "regex": "(s\\.S\\.)",
+            "ignore_case": true,
+            "replacement": "SS"
+        },
+        {
+            "regex": "(C\\.N\\.R\\.)",
+            "ignore_case": true,
+            "replacement": "CNR"
+        },
+        {
+            "regex": "(C\\.\\s*N\\.)",
+            "ignore_case": true,
+            "replacement": "CN"
+        },
+        {
+            "regex": "(C\\.I\\.)",
+            "ignore_case": true,
+            "replacement": "CI"
+        },
+        {
+            "regex": "(II)",
+            "ignore_case": true,
+            "replacement": "II"
+        },
+        {
+            "regex": "((^|\\W)(GO)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2GO$4"
+        }
+    ]
 }
