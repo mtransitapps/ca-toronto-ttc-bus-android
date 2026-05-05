@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <!-- Requires: https://open.toronto.ca/dataset/merged-gtfs-ttc-routes-and-schedules/ -->
     <!-- JSON: https://gtfsrt.ttc.ca/alerts/bus?format=text -->
     <string name="gtfs_real_time_agency_service_alerts_url">https://gtfsrt.ttc.ca/alerts/bus?format=binary</string>
     <!-- JSON: https://gtfsrt.ttc.ca/vehicles/position?format=text -->
