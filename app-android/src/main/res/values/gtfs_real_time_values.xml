@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <integer name="gtfs_real_time_db_version">2</integer>
-    <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <!-- JSON: https://gtfsrt.ttc.ca/alerts/bus?format=text -->
     <string name="gtfs_real_time_agency_service_alerts_url">https://gtfsrt.ttc.ca/alerts/bus?format=binary</string>
     <!-- JSON: https://gtfsrt.ttc.ca/vehicles/position?format=text -->
     <string name="gtfs_real_time_agency_vehicle_positions_url">https://gtfsrt.ttc.ca/vehicles/position?format=binary</string>
     <!-- JSON: https://gtfsrt.ttc.ca/trips/update?format=text -->
     <string name="gtfs_real_time_agency_trip_updates_url">https://gtfsrt.ttc.ca/trips/update?format=binary</string>
-    <string name="gtfs_real_time_agency_bold_words" />
-    <string-array name="gtfs_real_time_agency_extra_languages" />
-    <string-array name="gtfs_real_time_agency_extra_bold_words" />
-    <string name="gtfs_real_time_agency_time_regex" />
-    <string name="gtfs_real_time_agency_time_hour_format" />
-    <string name="gtfs_real_time_agency_time_minute_format" />
-    <string name="gtfs_real_time_agency_time_ampm_format" />
-    <string name="gtfs_real_time_agency_time_zone">@string/gtfs_rts_timezone</string>
 </resources>
