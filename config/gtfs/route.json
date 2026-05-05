@@ -1,0 +1,15 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "D5C82B",
+        "008000",
+        "B300B3"
+    ],
+    "direction_finder_enabled": true,
+    "direction_types": [
+        1
+    ],
+    "direction_types_comment": "direction cardinal type"
+}
