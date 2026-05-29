@@ -12,17 +12,26 @@
         1
     ],
     "direction_types_comment": "direction cardinal type",
-    "direction_headsign_cleaners_comment": "Cardinal - 00 xxx towards yyy",
+    "direction_headsign_cleaners_comment": "Cardinal - 00(Z?) xxx towards yyy",
     "direction_headsign_cleaners": [
         {
             "regex": " - \\d+.*$"
         }
     ],
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "(not in service)",
+            "ignore_case": true
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners_comment": "Cardinal - 00(Z?) xxx towards yyy",
+    "stop_headsign_cleaners_comment": "00(Z?) xxx towards yyy",
     "stop_name_cleaners": [
         {
-            "regex": "((^|\\W)(side)(\\W|$))",
+            "regex": "side",
             "ignore_case": true,
-            "replacement": "$2$4"
+            "is_word": true
         },
         {
             "regex": "(H\\.S\\.)",

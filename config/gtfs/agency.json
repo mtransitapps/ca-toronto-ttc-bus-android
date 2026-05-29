@@ -3,5 +3,10 @@
   "default_color": "ED1C24",
   "default_color_comment": "TTC red",
   "default_color_enabled": true,
-  "default_strings_cleaner_enabled": true
+  "default_strings_cleaner_enabled": true,
+  "to_lower_upper_case_words": true,
+  "ignore_upper_case_words": [
+    "CNIB",
+    "SS"
+  ]
 }
