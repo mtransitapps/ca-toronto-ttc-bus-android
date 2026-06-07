@@ -1,6 +1,12 @@
 # ORIGINAL FILE: https://github.com/mtransitapps/commons/tree/master/shared-overwrite
 name: MT download data
 on:
+  push:
+    branches: # ignore all tags
+      - '**' # all branches
+    paths:
+      - 'config/input_url'
+      - 'config/input_url_next'
   workflow_dispatch: # manual
   schedule:
     # too often for LFS - cron: '0 18 * * 1,3,5' # Mondays, Wednesdays & Fridays @ 6pm # https://crontab.guru/#0_18_*_*_1,3,5
@@ -80,7 +86,7 @@ jobs:
             echo ">> No new data downloaded and data is up-to-date. No sync needed.";
           else
             echo ">> New data downloaded or data is outdated. Triggering mt-sync-code-data.yml workflow (skip download data)...";
-            gh workflow run mt-sync-code-data.yml -f skip-download-data=true
+            gh workflow run mt-sync-code-data.yml --ref "$MT_BRANCH_NAME" -f skip-download-data=true
           fi
         env:
           GH_TOKEN: ${{ secrets.MT_PAT }}
