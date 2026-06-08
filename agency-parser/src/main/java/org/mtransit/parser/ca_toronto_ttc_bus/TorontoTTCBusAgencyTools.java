@@ -27,6 +27,7 @@ import org.mtransit.parser.gtfs.data.GTrip;
 import org.mtransit.parser.mt.data.MAgency;
 import org.mtransit.parser.mt.data.MDirection;
 
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -174,6 +175,8 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 
 	private static final String STARTS_WITH_RSN_KEEP_RSN = mGroup(3);
 
+	private static final Pattern ENDS_WITH_EXPRESS = Pattern.compile("(\\s+express$)", Pattern.CASE_INSENSITIVE);
+
 	@SuppressWarnings("DuplicateBranchesInSwitch")
 	@NotNull
 	@Override
@@ -218,14 +221,16 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 			break;
 		}
 		directionHeadSign = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), directionHeadSign);
+		directionHeadSign = ENDS_WITH_EXPRESS.matcher(directionHeadSign).replaceAll(EMPTY);
 		return CleanUtils.cleanLabel(getFirstLanguageNN(), directionHeadSign);
 	}
 
 	@NotNull
 	@Override
 	public List<Integer> getDirectionTypes() {
-		return Collections.singletonList(
-				MDirection.HEADSIGN_TYPE_DIRECTION
+		return Arrays.asList(
+				MDirection.HEADSIGN_TYPE_DIRECTION,
+				MDirection.HEADSIGN_TYPE_STRING
 		);
 	}
 
