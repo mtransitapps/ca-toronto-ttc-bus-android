@@ -9,11 +9,18 @@
     ],
     "direction_finder_enabled": true,
     "direction_types": [
-        1
+        1,
+        0
     ],
-    "direction_types_comment": "direction cardinal type",
+    "direction_types_comment": "direction cardinal type or string",
     "direction_headsign_cleaners_comment": "Cardinal - 00(Z?) xxx towards yyy",
     "direction_headsign_cleaners": [
+        {
+            "regex": "((?<=[A-Z]{4,5}) - .*$)",
+            "ignore_case": true
+        }
+    ],
+    "direction_headsign_cleaners_old": [
         {
             "regex": " - \\d+.*$"
         }
@@ -26,7 +33,89 @@
     ],
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners_comment": "Cardinal - 00(Z?) xxx towards yyy",
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^(([a-z]+) - )?(\\d+(/\\d+)?)?([a-z] )?((.*)\\s*(towards|to))? (.*))",
+            "ignore_case": true,
+            "replacement": "$6$10"
+        },
+        {
+            "regex": "(( -)? extra fare required .*$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "replacement bus",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "short turn",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "station",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "Sta"
+        },
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "street",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "St",
+            "comment": "avoid data change - TODO remove"
+        },
+        {
+            "regex": "(\\S)\\s*/\\s*(\\S)",
+            "replacement": "$1 / $2",
+            "comment": "avoid data change - TODO remove"
+        }
+    ],
+    "trip_headsign_cleaners_not": [
+        {
+            "regex": "blue night",
+            "ignore_case": true,
+            "is_word": true
+        }
+    ],
+    "trip_headsign_cleaners_old": [
+        {
+            "regex": "(^(([a-z]+)\\s*-\\s*)?(\\d+(/\\d+)?)?([a-z]\\s*)?((.*)\\s*(towards|to))?\\s+(.*))",
+            "ignore_case": true,
+            "replacement": "$6$10"
+        },
+        {
+            "regex": "short turn",
+            "ignore_case": true,
+            "is_word": true
+        }
+    ],
     "stop_headsign_cleaners_comment": "00(Z?) xxx towards yyy",
+    "disabled_stop_headsign_cleaners": [
+        {
+            "regex": "((\\d+(/\\d+)?)([a-z] )?(\\s*(.+)\\s*)?)",
+            "ignore_case": true,
+            "replacement": "$4"
+        }
+    ],
+    "stop_headsign_remove_route_long_name_complex": true,
+    "stop_headsign_remove_route_long_name_cleaner": {
+        "regex": "((\\d+(/\\d+)?)([a-z] )?(\\s*(%1$s)\\s*)?)",
+        "ignore_case": true,
+        "replacement": "$4"
+    },
+    "stop_time_excludes": [
+        {
+            "stop_time_headsign_regex": "(not in service)",
+            "ignore_case": true
+        }
+    ],
     "stop_name_cleaners": [
         {
             "regex": "side",
