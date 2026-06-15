@@ -1,0 +1,28 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "D5C82B",
+        "008000",
+        "B300B3"
+    ],
+    "direction_finder_enabled": true,
+    "direction_types": [
+        1,
+        0
+    ],
+    "direction_types_comment": "direction cardinal type or string",
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "(not in service)",
+            "ignore_case": true
+        }
+    ],
+    "stop_time_excludes": [
+        {
+            "stop_time_headsign_regex": "(not in service)",
+            "ignore_case": true
+        }
+    ]
+}

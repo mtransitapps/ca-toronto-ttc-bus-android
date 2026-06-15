@@ -35,61 +35,10 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.regex.Pattern;
 
-// https://open.toronto.ca/dataset/ttc-routes-and-schedules/ # ALL (including SUBWAY)
-// https://open.toronto.ca/dataset/surface-routes-and-schedules-for-bustime/ BUS & STREETCAR
-// https://open.toronto.ca/dataset/merged-gtfs-ttc-routes-and-schedules/
-// OLD: https://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/SurfaceGTFS.zip
-// OLD: http://opendata.toronto.ca/TTC/routes/OpenData_TTC_Schedules.zip
-// OLD: http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip
 public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
 		new TorontoTTCBusAgencyTools().start(args);
-	}
-
-	@Nullable
-	@Override
-	public List<Locale> getSupportedLanguages() {
-		return LANG_EN;
-	}
-
-	@NotNull
-	@Override
-	public String getAgencyName() {
-		return "TTC";
-	}
-
-	private static final Pattern NOT_IN_SERVICE_ = Pattern.compile("(Not In Service)", Pattern.CASE_INSENSITIVE);
-
-	@Override
-	public boolean excludeTrip(@NotNull GTrip gTrip) {
-		if (NOT_IN_SERVICE_.matcher(gTrip.getTripHeadsignOrDefault()).matches()) {
-			return EXCLUDE;
-		}
-		return super.excludeTrip(gTrip);
-	}
-
-	@Override
-	public boolean excludeStopTime(@NotNull GStopTime gStopTime) {
-		if (NOT_IN_SERVICE_.matcher(gStopTime.getStopHeadsignOrDefault()).matches()) {
-			return EXCLUDE;
-		}
-		return super.excludeStopTime(gStopTime);
-	}
-
-	@Override
-	public boolean defaultRouteIdEnabled() {
-		return true;
-	}
-
-	@Override
-	public boolean useRouteShortNameForRouteId() {
-		return true;
-	}
-
-	@Override
-	public boolean defaultRouteLongNameEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -98,21 +47,6 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 		routeLongName = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), routeLongName);
 		routeLongName = CleanUtils.fixMcXCase(routeLongName);
 		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
-	}
-
-	@Nullable
-	@Override
-	public String fixColor(@Nullable String color) {
-		final String fixedColor = TorontoTTCCommons.fixColor(color);
-		if (fixedColor != null) {
-			return fixedColor;
-		}
-		return super.fixColor(color);
-	}
-
-	@Override
-	public boolean directionFinderEnabled() {
-		return true;
 	}
 
 	private static final String L_ = "L ";
@@ -207,15 +141,6 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 		directionHeadSign = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), directionHeadSign);
 		directionHeadSign = ENDS_WITH_EXPRESS.matcher(directionHeadSign).replaceAll(EMPTY);
 		return CleanUtils.cleanLabel(getFirstLanguageNN(), directionHeadSign);
-	}
-
-	@NotNull
-	@Override
-	public List<Integer> getDirectionTypes() {
-		return Arrays.asList(
-				MDirection.HEADSIGN_TYPE_DIRECTION,
-				MDirection.HEADSIGN_TYPE_STRING
-		);
 	}
 
 	private static final Pattern KEEP_LETTER_AND_TOWARDS_ = Pattern.compile("(^" +
@@ -326,16 +251,5 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 			return EXCLUDE; // 2025-10-15: merged GTFS > multiple stops with same ID (different code)
 		}
 		return super.excludeStop(gStop);
-	}
-
-	@NotNull
-	@Override
-	public String getStopCode(@NotNull GStop gStop) {
-		return super.getStopCode(gStop); // stop code used as stop tag by real-time API
-	}
-
-	@Override
-	public int getStopId(@NotNull GStop gStop) {
-		return super.getStopId(gStop); // stop ID used as stop code by real-time API
 	}
 }
