@@ -77,12 +77,6 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 		return super.excludeStopTime(gStopTime);
 	}
 
-	@NotNull
-	@Override
-	public Integer getAgencyRouteType() {
-		return MAgency.ROUTE_TYPE_BUS;
-	}
-
 	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
@@ -104,16 +98,6 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 		routeLongName = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), routeLongName);
 		routeLongName = CleanUtils.fixMcXCase(routeLongName);
 		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
-	}
-
-	@Override
-	public @NotNull String getAgencyColor() {
-		return TorontoTTCCommons.TTC_RED;
-	}
-
-	@Override
-	public boolean defaultAgencyColorEnabled() {
-		return true;
 	}
 
 	@Nullable
