@@ -243,13 +243,4 @@ public class TorontoTTCBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
-
-	@Override
-	public boolean excludeStop(@NotNull GStop gStop) {
-		//noinspection DiscouragedApi
-		if (gStop.getStopId().equals(gStop.getStopCode())) {
-			return EXCLUDE; // 2025-10-15: merged GTFS > multiple stops with same ID (different code)
-		}
-		return super.excludeStop(gStop);
-	}
 }
