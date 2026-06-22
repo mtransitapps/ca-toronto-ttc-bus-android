@@ -7,6 +7,6 @@
     <string name="current_gtfs_rts_area_max_lat">43.90975</string>
     <string name="current_gtfs_rts_area_min_lng">-79.649908</string>
     <string name="current_gtfs_rts_area_max_lng">-79.123111</string>
-    <integer name="current_gtfs_rts_first_departure_in_sec">1779089280</integer><!-- 2026/05/18 03:28:00 EDT -->
-    <integer name="current_gtfs_rts_last_departure_in_sec">1782038207</integer><!-- 2026/06/21 06:36:47 EDT -->
+    <integer name="current_gtfs_rts_first_departure_in_sec">1782026880</integer><!-- 2026/06/21 03:28:00 EDT -->
+    <integer name="current_gtfs_rts_last_departure_in_sec">1785839627</integer><!-- 2026/08/04 06:33:47 EDT -->
 </resources>

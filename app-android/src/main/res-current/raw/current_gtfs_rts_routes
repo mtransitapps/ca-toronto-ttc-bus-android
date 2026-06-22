@@ -181,7 +181,7 @@
 404,'404','East York','6D6E71',51512,3
 405,'405','Etobicoke','6D6E71',51513,3
 406,'406','Scarborough-Guildwood','6D6E71',51514,3
-830,'830','Henry Kelsey - Middlefield','B3B3B3',55445,3
+829,'829','Dufferin Gate Express','00A651',55423,3
 900,'900','Airport Express','00A651',56313,3
 902,'902','Markham Rd Express','00A651',56315,3
 903,'903','Kennedy Stn-Scarborough Express','00A651',56316,3
@@ -195,14 +195,10 @@
 935,'935','Jane Express','00A651',56411,3
 937,'937','Islington Express','00A651',56413,3
 939,'939','Finch Express','00A651',56415,3
-941,'941','Keele Express','00A651',56438,3
-944,'944','Kipling South Express','00A651',56441,3
-945,'945','Kipling Express','00A651',56442,3
 952,'952','Lawrence West Express','00A651',56470,3
 953,'953','Steeles East Express','00A651',56471,3
 954,'954','Lawrence East Express','00A651',56472,3
 960,'960','Steeles West Express','00A651',56499,3
-968,'968','Warden Express','00A651',56507,3
 984,'984','Sheppard West Express','00A651',56565,3
 985,'985','Sheppard East Express','00A651',56566,3
 986,'986','Scarborough Express','00A651',56567,3
