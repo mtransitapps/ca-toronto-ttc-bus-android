@@ -46,12 +46,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: MT check out main repository code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.MT_PAT }}
 
       - name: MT setup
-        uses: mtransitapps/gh-actions/.github/actions/setup@v1.2.1
+        uses: mtransitapps/gh-actions/.github/actions/setup@v1.4.0
 
       - name: MT update GitHub repository details
         id: mt-update-gh-repo-details

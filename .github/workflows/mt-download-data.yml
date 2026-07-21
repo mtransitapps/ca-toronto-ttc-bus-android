@@ -38,11 +38,11 @@ jobs:
     # if: ${{ env.MT_IS_MAIN_REPO != 'true' &&  env.MT_IS_AGENCY_BIKE != 'true' }} # can NOT use env here:
     if: ${{ ! endsWith(github.repository, '/mtransit-for-android') && ! contains(github.repository, '-bike-') }}
     name: "MT Download Data"
-    timeout-minutes: 30
+    timeout-minutes: 45
     runs-on: ubuntu-latest
     steps:
       - name: MT check out main repository code (with submodules)
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           submodules: true # required to set right token
           token: ${{ secrets.MT_PAT }}
@@ -61,7 +61,7 @@ jobs:
       - name: MT setup
         if: steps.check-input-url.outputs.has_input_url == 'true'
         id: mt-setup
-        uses: mtransitapps/gh-actions/.github/actions/setup@v1.2.1
+        uses: mtransitapps/gh-actions/.github/actions/setup@v1.4.0
         with:
           code-sync: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) }}
 
@@ -71,7 +71,17 @@ jobs:
 
       - name: MT download data (& archive)
         if: steps.check-input-url.outputs.has_input_url == 'true'
+        id: mt-download-data
+        continue-on-error: true
         run: ./agency-parser/download.sh
+        timeout-minutes: 20
+
+      - name: MT download data (& archive) retry after 1 min
+        if: steps.mt-download-data.outcome == 'failure'
+        run: |
+          echo ">> Download failed. Retrying in 1 minute..."
+          sleep 60
+          ./agency-parser/download.sh
         timeout-minutes: 20
 
       - name: MT push commits
